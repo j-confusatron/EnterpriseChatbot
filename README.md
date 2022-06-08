@@ -1,5 +1,6 @@
 # EnterpriseChatbot
 [Paper](https://github.com/j-confusatron/EnterpriseChatbot/blob/main/Enterprise%20Chatbot.pdf)
+
 See paper for chatbot capabilities, including supported intents and skills.
 
 ## Requirements
