@@ -2,7 +2,7 @@ from chatbot.usersession import UserSession
 from datetime import datetime
 import requests
 
-OPEN_WEATHER_API_KEY = '32b9b1f26d874c9c8fe4bf4a9ee3b40c'
+OPEN_WEATHER_API_KEY = 'WEATHER_API_TOKEN'
 DEFAULT_LOC = "Seattle"
 
 def getWeather(prompt, intent, entities, nerclassifier, userSession: UserSession):
