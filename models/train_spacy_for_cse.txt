@@ -1,0 +1,3 @@
+python -m spacy init fill-config spacy_base_cse_ner.cfg spacy_cse_ner.cfg
+
+python -m spacy train cse_ner.cfg --output spacy_cse_ner --gpu-id 0

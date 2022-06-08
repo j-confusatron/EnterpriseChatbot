@@ -1,0 +1,362 @@
+{"id": 873, "data": "tell me about course cse591a", "label": [[21, 28, "B-C_ID"]]}
+{"id": 874, "data": "what do i need before cse571", "label": [[22, 28, "B-C_ID"]]}
+{"id": 875, "data": "what courses teaches artificial intelligence and writing programs", "label": [[21, 32, "B-C_TOPIC"], [32, 45, "I-C_TOPIC"], [49, 57, "B-C_TOPIC"], [57, 65, "I-C_TOPIC"]]}
+{"id": 876, "data": "what is in course cse528", "label": [[18, 24, "B-C_ID"]]}
+{"id": 877, "data": "which course teaches computational thinking", "label": [[21, 35, "B-C_TOPIC"], [35, 43, "I-C_TOPIC"]]}
+{"id": 878, "data": "what courses introducts digital animation and probabilistic techniques", "label": [[24, 32, "B-C_TOPIC"], [32, 42, "I-C_TOPIC"], [46, 60, "B-C_TOPIC"], [60, 70, "I-C_TOPIC"]]}
+{"id": 879, "data": "do I need CSE 410 Computer Systems for System and Software Tools", "label": [[10, 14, "B-C_ID"], [14, 18, "I-C_ID"], [18, 27, "B-C_TITLE"], [27, 35, "I-C_TITLE"], [39, 46, "B-C_TITLE"], [46, 50, "I-C_TITLE"], [50, 59, "I-C_TITLE"], [59, 64, "I-C_TITLE"]]}
+{"id": 880, "data": "what is taught in course cse579", "label": [[25, 31, "B-C_ID"]]}
+{"id": 881, "data": "which class contains artificial intelligence and computational thinking", "label": [[21, 32, "B-C_TOPIC"], [32, 45, "I-C_TOPIC"], [49, 63, "B-C_TOPIC"], [63, 71, "I-C_TOPIC"]]}
+{"id": 882, "data": "which classes teaches data abstraction and procedural programming", "label": [[22, 27, "B-C_TOPIC"], [27, 39, "I-C_TOPIC"], [43, 54, "B-C_TOPIC"], [54, 65, "I-C_TOPIC"]]}
+{"id": 883, "data": "does course cse591q have prerequisites", "label": [[12, 20, "B-C_ID"]]}
+{"id": 884, "data": "what course introducts computational thinking and writing programs", "label": [[23, 37, "B-C_TOPIC"], [37, 46, "I-C_TOPIC"], [50, 58, "B-C_TOPIC"], [58, 66, "I-C_TOPIC"]]}
+{"id": 885, "data": "what are the prerequisites for course csep545", "label": [[38, 45, "B-C_ID"]]}
+{"id": 886, "data": "does cse490t have prerequisites", "label": [[5, 13, "B-C_ID"]]}
+{"id": 887, "data": "are there requirements to take cse547", "label": [[31, 37, "B-C_ID"]]}
+{"id": 888, "data": "what is course cse505", "label": [[15, 21, "B-C_ID"]]}
+{"id": 889, "data": "what is taught in cse160", "label": [[18, 24, "B-C_ID"]]}
+{"id": 890, "data": "what classes teaches digital animation and network programming", "label": [[21, 29, "B-C_TOPIC"], [29, 39, "I-C_TOPIC"], [43, 51, "B-C_TOPIC"], [51, 62, "I-C_TOPIC"]]}
+{"id": 891, "data": "what should i take before cse503", "label": [[26, 32, "B-C_ID"]]}
+{"id": 892, "data": "course id for natural language processing", "label": [[14, 22, "B-C_TITLE"], [22, 31, "I-C_TITLE"], [31, 41, "I-C_TITLE"]]}
+{"id": 893, "data": "is computational biology cse 431 or cse 427", "label": [[3, 17, "B-C_TITLE"], [17, 25, "I-C_TITLE"], [25, 29, "B-C_ID"], [29, 33, "I-C_ID"], [36, 40, "B-C_ID"], [40, 43, "I-C_ID"]]}
+{"id": 894, "data": "What all is there in the Parallel Algorithms course CSE 524?", "label": [[25, 34, "B-C_TITLE"], [34, 45, "I-C_TITLE"], [52, 56, "B-C_ID"], [56, 59, "I-C_ID"]]}
+{"id": 896, "data": "do I need CSE578 for System and Software Tools", "label": [[10, 17, "B-C_ID"], [21, 28, "B-C_TITLE"], [28, 31, "I-C_TITLE"], [32, 41, "I-C_TITLE"], [41, 46, "I-C_TITLE"]]}
+{"id": 897, "data": "what course teaches computational thinking and data abstraction", "label": [[20, 34, "B-C_TOPIC"], [34, 43, "I-C_TOPIC"], [47, 52, "B-C_TOPIC"], [52, 63, "I-C_TOPIC"]]}
+{"id": 898, "data": "List the prerequisites for the course CSEP 590B?", "label": [[38, 43, "B-C_ID"], [43, 47, "I-C_ID"]]}
+{"id": 899, "data": "which courses contains database management systems and probabilistic techniques", "label": [[23, 32, "B-C_TOPIC"], [32, 43, "I-C_TOPIC"], [43, 51, "I-C_TOPIC"], [55, 69, "B-C_TOPIC"], [69, 79, "I-C_TOPIC"]]}
+{"id": 900, "data": "what is course cse499", "label": [[15, 21, "B-C_ID"]]}
+{"id": 901, "data": "can I do CSE 410 Computer Systems after Software Engineering", "label": [[9, 13, "B-C_ID"], [13, 17, "I-C_ID"], [17, 26, "B-C_TITLE"], [26, 34, "I-C_TITLE"], [40, 49, "B-C_TITLE"], [49, 60, "I-C_TITLE"]]}
+{"id": 902, "data": "what courses teaches procedural programming and computational thinking", "label": [[21, 32, "B-C_TOPIC"], [32, 44, "I-C_TOPIC"], [48, 62, "B-C_TOPIC"], [62, 70, "I-C_TOPIC"]]}
+{"id": 903, "data": "tell me about course cse490dc", "label": [[21, 29, "B-C_ID"]]}
+{"id": 904, "data": "what should i take before course cse540", "label": [[33, 39, "B-C_ID"]]}
+{"id": 905, "data": "what are cse470 requirements", "label": [[9, 16, "B-C_ID"]]}
+{"id": 906, "data": "what should i take before cse454", "label": [[26, 32, "B-C_ID"]]}
+{"id": 907, "data": "which course introducts artificial intelligence and procedural programming", "label": [[24, 35, "B-C_TOPIC"], [35, 48, "I-C_TOPIC"], [52, 63, "B-C_TOPIC"], [63, 74, "I-C_TOPIC"]]}
+{"id": 908, "data": "what is course cse340", "label": [[15, 21, "B-C_ID"]]}
+{"id": 909, "data": "can you tell me course name for cse 414 course id", "label": [[32, 36, "B-C_ID"], [36, 39, "I-C_ID"]]}
+{"id": 910, "data": "what do i need before cse590t", "label": [[22, 29, "B-C_ID"]]}
+{"id": 911, "data": "What all is covered in course CSE 456?", "label": [[30, 34, "B-C_ID"], [34, 37, "I-C_ID"]]}
+{"id": 912, "data": "does cse590f have prerequisites", "label": [[5, 13, "B-C_ID"]]}
+{"id": 913, "data": "what is taught in csep521", "label": [[18, 25, "B-C_ID"]]}
+{"id": 914, "data": "which course teaches procedural programming and writing programs", "label": [[21, 32, "B-C_TOPIC"], [32, 44, "I-C_TOPIC"], [48, 56, "B-C_TOPIC"], [56, 64, "I-C_TOPIC"]]}
+{"id": 915, "data": "what are the prerequisites for course cse490k", "label": [[38, 45, "B-C_ID"]]}
+{"id": 916, "data": "what are the prerequisites for course cse590g", "label": [[38, 45, "B-C_ID"]]}
+{"id": 917, "data": "what do i need before csep576", "label": [[22, 29, "B-C_ID"]]}
+{"id": 918, "data": "what is taught in cse590d", "label": [[18, 25, "B-C_ID"]]}
+{"id": 919, "data": "which class teaches probabilistic techniques and writing programs", "label": [[20, 34, "B-C_TOPIC"], [34, 45, "I-C_TOPIC"], [49, 57, "B-C_TOPIC"], [57, 65, "I-C_TOPIC"]]}
+{"id": 920, "data": "what courses contains network programming and computational thinking", "label": [[22, 30, "B-C_TOPIC"], [30, 42, "I-C_TOPIC"], [46, 60, "B-C_TOPIC"], [60, 68, "I-C_TOPIC"]]}
+{"id": 921, "data": "what class contains programming languages and computational thinking", "label": [[20, 32, "B-C_TOPIC"], [32, 42, "I-C_TOPIC"], [46, 60, "B-C_TOPIC"], [60, 68, "I-C_TOPIC"]]}
+{"id": 922, "data": "are there requirements to take cse590es", "label": [[31, 39, "B-C_ID"]]}
+{"id": 923, "data": "are there prerequisites for cse564", "label": [[28, 34, "B-C_ID"]]}
+{"id": 924, "data": "what is taught in course cse590n", "label": [[25, 32, "B-C_ID"]]}
+{"id": 925, "data": "which course teaches database management systems and data abstraction", "label": [[21, 30, "B-C_TOPIC"], [30, 41, "I-C_TOPIC"], [41, 48, "I-C_TOPIC"], [53, 58, "B-C_TOPIC"], [58, 69, "I-C_TOPIC"]]}
+{"id": 926, "data": "does csep524 have prerequisites", "label": [[5, 13, "B-C_ID"]]}
+{"id": 927, "data": "what classes teaches digital animation", "label": [[21, 29, "B-C_TOPIC"], [29, 38, "I-C_TOPIC"]]}
+{"id": 928, "data": "which class teaches digital animation and probabilistic techniques", "label": [[20, 28, "B-C_TOPIC"], [28, 38, "I-C_TOPIC"], [42, 56, "B-C_TOPIC"], [56, 66, "I-C_TOPIC"]]}
+{"id": 929, "data": "what class teaches data abstraction and digital animation", "label": [[19, 24, "B-C_TOPIC"], [24, 36, "I-C_TOPIC"], [40, 48, "B-C_TOPIC"], [48, 57, "I-C_TOPIC"]]}
+{"id": 930, "data": "what is taught in cse490t", "label": [[18, 25, "B-C_ID"]]}
+{"id": 931, "data": "what is course cse591a", "label": [[15, 22, "B-C_ID"]]}
+{"id": 932, "data": "what is taught in cse427", "label": [[18, 24, "B-C_ID"]]}
+{"id": 933, "data": "Is there data science course for graduate student", "label": [[9, 14, "B-C_TOPIC"], [14, 22, "I-C_TOPIC"]]}
+{"id": 934, "data": "which courses introducts network programming and programming languages", "label": [[25, 33, "B-C_TOPIC"], [33, 45, "I-C_TOPIC"], [49, 61, "B-C_TOPIC"], [61, 70, "I-C_TOPIC"]]}
+{"id": 935, "data": "What is CSE P 590B about?", "label": [[8, 12, "B-C_ID"], [14, 19, "I-C_ID"], [12, 14, "I-C_ID"]]}
+{"id": 936, "data": "what is cse585 about", "label": [[8, 15, "B-C_ID"]]}
+{"id": 937, "data": "what are cse590nc requirements", "label": [[9, 18, "B-C_ID"]]}
+{"id": 938, "data": "what will i learn in cse456", "label": [[21, 27, "B-C_ID"]]}
+{"id": 939, "data": "Tell all course ids that don't cover Machine learning", "label": [[37, 45, "B-C_TOPIC"], [45, 53, "I-C_TOPIC"]]}
+{"id": 940, "data": "what class introducts writing programs and programming languages", "label": [[22, 30, "B-C_TOPIC"], [30, 39, "I-C_TOPIC"], [43, 55, "B-C_TOPIC"], [55, 64, "I-C_TOPIC"]]}
+{"id": 941, "data": "what will i learn in cse416", "label": [[21, 27, "B-C_ID"]]}
+{"id": 942, "data": "which classes introducts artificial intelligence and network programming", "label": [[25, 36, "B-C_TOPIC"], [36, 49, "I-C_TOPIC"], [53, 61, "B-C_TOPIC"], [61, 72, "I-C_TOPIC"]]}
+{"id": 943, "data": "does course cse481c have prerequisites", "label": [[12, 20, "B-C_ID"]]}
+{"id": 944, "data": "what are cse454 requirements", "label": [[9, 16, "B-C_ID"]]}
+{"id": 945, "data": "What courses are prerequisites for CSE 447: Natural Language Processing", "label": [[35, 39, "B-C_ID"], [39, 42, "I-C_ID"], [44, 52, "B-C_TITLE"], [52, 61, "I-C_TITLE"], [61, 71, "I-C_TITLE"]]}
+{"id": 946, "data": "which topics are covered in cse 457", "label": [[28, 32, "B-C_ID"], [32, 35, "I-C_ID"]]}
+{"id": 947, "data": "tell me about course cse590b", "label": [[21, 28, "B-C_ID"]]}
+{"id": 948, "data": "what's CSE490dc", "label": [[7, 15, "B-C_ID"]]}
+{"id": 949, "data": "what is in course cse532", "label": [[18, 24, "B-C_ID"]]}
+{"id": 950, "data": "does course cse590g have prerequisites", "label": [[12, 20, "B-C_ID"]]}
+{"id": 951, "data": "What are the prerequisites for CSE 160?", "label": [[31, 35, "B-C_ID"], [35, 38, "I-C_ID"]]}
+{"id": 952, "data": "what is cse461 about", "label": [[8, 15, "B-C_ID"]]}
+{"id": 953, "data": "which courses contains data abstraction", "label": [[23, 28, "B-C_TOPIC"], [28, 39, "I-C_TOPIC"]]}
+{"id": 954, "data": "what is cse590d", "label": [[8, 15, "B-C_ID"]]}
+{"id": 955, "data": "what classes is good for probabilistic techniques", "label": [[25, 39, "B-C_TOPIC"], [39, 49, "I-C_TOPIC"]]}
+{"id": 956, "data": "which courses are prerequisites for cse 468", "label": [[36, 40, "B-C_ID"], [40, 43, "I-C_ID"]]}
+{"id": 957, "data": "what's the class code for intro to data science", "label": [[26, 32, "B-C_TITLE"], [32, 35, "I-C_TITLE"], [35, 40, "I-C_TITLE"], [40, 47, "I-C_TITLE"]]}
+{"id": 958, "data": "Is there any prerequisite for cse 568", "label": [[30, 34, "B-C_ID"], [34, 37, "I-C_ID"]]}
+{"id": 959, "data": "what courses contains data abstraction and network programming", "label": [[22, 27, "B-C_TOPIC"], [27, 39, "I-C_TOPIC"], [43, 51, "B-C_TOPIC"], [51, 62, "I-C_TOPIC"]]}
+{"id": 960, "data": "what is the real-time systems course about", "label": [[12, 16, "B-C_TITLE"], [17, 22, "I-C_TITLE"], [16, 17, "I-C_TITLE"], [22, 30, "I-C_TITLE"]]}
+{"id": 961, "data": "what is taught in course cse311", "label": [[25, 31, "B-C_ID"]]}
+{"id": 962, "data": "what are the prerequisites for cse585", "label": [[31, 37, "B-C_ID"]]}
+{"id": 963, "data": "which course teaches probabilistic techniques and artificial intelligence", "label": [[21, 35, "B-C_TOPIC"], [35, 46, "I-C_TOPIC"], [50, 61, "B-C_TOPIC"], [61, 73, "I-C_TOPIC"]]}
+{"id": 964, "data": "which courses contains probabilistic techniques", "label": [[23, 37, "B-C_TOPIC"], [37, 47, "I-C_TOPIC"]]}
+{"id": 965, "data": "do I need CSE143 in order to take CSE340", "label": [[10, 17, "B-C_ID"], [34, 40, "B-C_ID"]]}
+{"id": 966, "data": "What are the courses I need to take before Autonomous Robotics?", "label": [[43, 54, "B-C_TITLE"], [54, 62, "I-C_TITLE"]]}
+{"id": 967, "data": "what class teaches digital animation and data abstraction", "label": [[19, 27, "B-C_TOPIC"], [27, 37, "I-C_TOPIC"], [41, 46, "B-C_TOPIC"], [46, 57, "I-C_TOPIC"]]}
+{"id": 968, "data": "what is taught in course cse568", "label": [[25, 31, "B-C_ID"]]}
+{"id": 969, "data": "what is taught in cse590m2", "label": [[18, 26, "B-C_ID"]]}
+{"id": 970, "data": "what is cse 160", "label": [[8, 12, "B-C_ID"], [12, 15, "I-C_ID"]]}
+{"id": 971, "data": "what class introducts artificial intelligence", "label": [[22, 33, "B-C_TOPIC"], [33, 45, "I-C_TOPIC"]]}
+{"id": 972, "data": "which course contains digital animation and writing programs", "label": [[22, 30, "B-C_TOPIC"], [30, 40, "I-C_TOPIC"], [44, 52, "B-C_TOPIC"], [52, 60, "I-C_TOPIC"]]}
+{"id": 973, "data": "what is in course cse599q", "label": [[18, 25, "B-C_ID"]]}
+{"id": 974, "data": "what class introducts procedural programming", "label": [[22, 33, "B-C_TOPIC"], [33, 44, "I-C_TOPIC"]]}
+{"id": 975, "data": "does course cse481b have prerequisites", "label": [[12, 20, "B-C_ID"]]}
+{"id": 976, "data": "what is course cse476", "label": [[15, 21, "B-C_ID"]]}
+{"id": 977, "data": "what content does cse 142 cover", "label": [[18, 22, "B-C_ID"], [22, 26, "I-C_ID"]]}
+{"id": 978, "data": "what are cse579 requirements", "label": [[9, 16, "B-C_ID"]]}
+{"id": 979, "data": "are there requirements to take cse481e", "label": [[31, 38, "B-C_ID"]]}
+{"id": 980, "data": "what class introducts network programming and programming languages", "label": [[22, 30, "B-C_TOPIC"], [30, 42, "I-C_TOPIC"], [46, 58, "B-C_TOPIC"], [58, 67, "I-C_TOPIC"]]}
+{"id": 981, "data": "what course teaches probabilistic techniques and data abstraction", "label": [[20, 34, "B-C_TOPIC"], [34, 45, "I-C_TOPIC"], [49, 54, "B-C_TOPIC"], [54, 65, "I-C_TOPIC"]]}
+{"id": 982, "data": "are there prerequisites for cse599q", "label": [[28, 35, "B-C_ID"]]}
+{"id": 983, "data": "what courses introducts network programming and computational thinking", "label": [[24, 32, "B-C_TOPIC"], [32, 44, "I-C_TOPIC"], [48, 62, "B-C_TOPIC"], [62, 70, "I-C_TOPIC"]]}
+{"id": 984, "data": "which course talks about compiler", "label": [[25, 33, "B-C_TOPIC"]]}
+{"id": 985, "data": "are there prerequisites for cse590v", "label": [[28, 35, "B-C_ID"]]}
+{"id": 986, "data": "what courses introducts artificial intelligence and programming languages", "label": [[24, 35, "B-C_TOPIC"], [35, 48, "I-C_TOPIC"], [52, 64, "B-C_TOPIC"], [64, 73, "I-C_TOPIC"]]}
+{"id": 987, "data": "what do i need before cse590em", "label": [[22, 30, "B-C_ID"]]}
+{"id": 988, "data": "which classes contains network programming and digital animation", "label": [[23, 31, "B-C_TOPIC"], [31, 43, "I-C_TOPIC"], [47, 55, "B-C_TOPIC"], [55, 64, "I-C_TOPIC"]]}
+{"id": 989, "data": "what is course csep503", "label": [[15, 22, "B-C_ID"]]}
+{"id": 990, "data": "what are cse490st requirements", "label": [[9, 18, "B-C_ID"]]}
+{"id": 991, "data": "tell me about cse490k", "label": [[14, 21, "B-C_ID"]]}
+{"id": 992, "data": "What is taught in the course CSEP 545?", "label": [[29, 34, "B-C_ID"], [34, 37, "I-C_ID"]]}
+{"id": 993, "data": "cse 311?", "label": [[0, 4, "B-C_ID"], [4, 7, "I-C_ID"]]}
+{"id": 994, "data": "what should i take before csep557", "label": [[26, 33, "B-C_ID"]]}
+{"id": 995, "data": "what's the course id for intro to computer communication networks", "label": [[25, 31, "B-C_TITLE"], [31, 34, "I-C_TITLE"], [34, 43, "I-C_TITLE"], [43, 57, "I-C_TITLE"], [57, 65, "I-C_TITLE"]]}
+{"id": 996, "data": "What is the focus of CSE 490i?", "label": [[21, 25, "B-C_ID"], [25, 29, "I-C_ID"]]}
+{"id": 997, "data": "what will i learn in cse590k", "label": [[21, 28, "B-C_ID"]]}
+{"id": 998, "data": "which course contains network programming", "label": [[22, 30, "B-C_TOPIC"], [30, 41, "I-C_TOPIC"]]}
+{"id": 999, "data": "what courses teaches writing programs and probabilistic techniques", "label": [[21, 29, "B-C_TOPIC"], [29, 38, "I-C_TOPIC"], [42, 56, "B-C_TOPIC"], [56, 66, "I-C_TOPIC"]]}
+{"id": 1000, "data": "what is in course cse590w", "label": [[18, 25, "B-C_ID"]]}
+{"id": 1001, "data": "what course teaches programming languages and writing programs", "label": [[20, 32, "B-C_TOPIC"], [32, 42, "I-C_TOPIC"], [46, 54, "B-C_TOPIC"], [54, 62, "I-C_TOPIC"]]}
+{"id": 1002, "data": "what is course cse490st", "label": [[15, 23, "B-C_ID"]]}
+{"id": 1003, "data": "does course cse599 have prerequisites", "label": [[12, 19, "B-C_ID"]]}
+{"id": 1004, "data": "which courses introducts computational thinking and writing programs", "label": [[25, 39, "B-C_TOPIC"], [39, 48, "I-C_TOPIC"], [52, 60, "B-C_TOPIC"], [60, 68, "I-C_TOPIC"]]}
+{"id": 1005, "data": "which classes contains procedural programming and network programming", "label": [[23, 34, "B-C_TOPIC"], [34, 46, "I-C_TOPIC"], [50, 58, "B-C_TOPIC"], [58, 69, "I-C_TOPIC"]]}
+{"id": 1006, "data": "What are the prelimnary courses for machine learning?", "label": [[36, 44, "B-C_TITLE"], [44, 52, "I-C_TITLE"]]}
+{"id": 1007, "data": "are there requirements to take cse591j", "label": [[31, 38, "B-C_ID"]]}
+{"id": 1008, "data": "tell me about cse444", "label": [[14, 20, "B-C_ID"]]}
+{"id": 1009, "data": "what is taught in course cse492e", "label": [[25, 32, "B-C_ID"]]}
+{"id": 1010, "data": "what is taught in course cse590j", "label": [[25, 32, "B-C_ID"]]}
+{"id": 1011, "data": "are there prerequisites for cse599t", "label": [[28, 35, "B-C_ID"]]}
+{"id": 1012, "data": "Can I take Operating systems course to learn about Concurrent programming and deadlocks?", "label": [[11, 21, "B-C_TITLE"], [21, 29, "I-C_TITLE"], [51, 62, "B-C_TOPIC"], [62, 74, "I-C_TOPIC"], [78, 87, "B-C_TOPIC"]]}
+{"id": 1013, "data": "What topics will be covered in the course CSEP 590B?", "label": [[42, 47, "B-C_ID"], [47, 51, "I-C_ID"]]}
+{"id": 1014, "data": "tell me about course cse490f", "label": [[21, 28, "B-C_ID"]]}
+{"id": 1015, "data": "tell me about cse574", "label": [[14, 20, "B-C_ID"]]}
+{"id": 1016, "data": "what is in course cse512", "label": [[18, 24, "B-C_ID"]]}
+{"id": 1017, "data": "which class teaches writing programs and procedural programming", "label": [[20, 28, "B-C_TOPIC"], [28, 37, "I-C_TOPIC"], [41, 51, "B-C_TOPIC"], [52, 63, "I-C_TOPIC"]]}
+{"id": 1018, "data": "what is taught in course cse410", "label": [[25, 31, "B-C_ID"]]}
+{"id": 1019, "data": "are there prerequisites for cse590a", "label": [[28, 35, "B-C_ID"]]}
+{"id": 1020, "data": "are there prerequisites for csep517", "label": [[28, 35, "B-C_ID"]]}
+{"id": 1021, "data": "what should i take before cse556", "label": [[26, 32, "B-C_ID"]]}
+{"id": 1022, "data": "what are cse333 requirements", "label": [[9, 16, "B-C_ID"]]}
+{"id": 1023, "data": "What content does CSE P 590B covers", "label": [[18, 22, "B-C_ID"], [22, 24, "I-C_ID"], [24, 29, "I-C_ID"]]}
+{"id": 1024, "data": "what should i take before cse475", "label": [[26, 32, "B-C_ID"]]}
+{"id": 1025, "data": "tell me about cse557", "label": [[14, 20, "B-C_ID"]]}
+{"id": 1026, "data": "what is course cse544", "label": [[15, 21, "B-C_ID"]]}
+{"id": 1027, "data": "tell me about course cse556", "label": [[21, 27, "B-C_ID"]]}
+{"id": 1028, "data": "what is cse597 about", "label": [[8, 15, "B-C_ID"]]}
+{"id": 1029, "data": "which course teaches writing programs", "label": [[21, 29, "B-C_TOPIC"], [29, 37, "I-C_TOPIC"]]}
+{"id": 1030, "data": "what is cse520", "label": [[8, 14, "B-C_ID"]]}
+{"id": 1031, "data": "What is CSE 120: Computer Science Principles about", "label": [[8, 12, "B-C_ID"], [12, 15, "B-C_ID"], [17, 26, "B-C_TITLE"], [26, 34, "I-C_TITLE"], [34, 45, "I-C_TITLE"]]}
+{"id": 1032, "data": "are there requirements to take cse190b", "label": [[31, 38, "B-C_ID"]]}
+{"id": 1033, "data": "what areas of the field are discussed in cse455", "label": [[41, 47, "B-C_ID"]]}
+{"id": 1034, "data": "what are cse331 requirements", "label": [[9, 16, "B-C_ID"]]}
+{"id": 1035, "data": "what are cse491 requirements", "label": [[9, 16, "B-C_ID"]]}
+{"id": 1036, "data": "how many courses do i need to take interaction programming", "label": [[35, 47, "B-C_TITLE"], [47, 58, "I-C_TITLE"]]}
+{"id": 1037, "data": "i need the course id for introduction to embedded systems", "label": [[25, 38, "B-C_TITLE"], [38, 41, "I-C_TITLE"], [41, 50, "I-C_TITLE"], [50, 57, "I-C_TITLE"]]}
+{"id": 1038, "data": "what is csep561 about", "label": [[8, 16, "B-C_ID"]]}
+{"id": 1039, "data": "are there prerequisites for cse461", "label": [[28, 34, "B-C_ID"]]}
+{"id": 1040, "data": "what are cse180 requirements", "label": [[9, 16, "B-C_ID"]]}
+{"id": 1041, "data": "which courses should I take to learn programming languages", "label": [[37, 49, "B-C_TITLE"], [49, 58, "I-C_TITLE"]]}
+{"id": 1042, "data": "what should i take to learn programming", "label": [[28, 39, "B-C_TOPIC"]]}
+{"id": 1043, "data": "what are the prerequisites for cse590d", "label": [[31, 38, "B-C_ID"]]}
+{"id": 1044, "data": "which courses introducts network programming and computational thinking", "label": [[25, 33, "B-C_TOPIC"], [33, 45, "I-C_TOPIC"], [49, 63, "B-C_TOPIC"], [63, 71, "I-C_TOPIC"]]}
+{"id": 1045, "data": "If I want to learn about important data structures, what course should I take?", "label": [[35, 40, "B-C_TOPIC"], [40, 50, "I-C_TOPIC"]]}
+{"id": 1046, "data": "what are cse599c requirements", "label": [[9, 17, "B-C_ID"]]}
+{"id": 1047, "data": "tell me about course csep527", "label": [[21, 28, "B-C_ID"]]}
+{"id": 1048, "data": "what course introducts probabilistic techniques and writing programs", "label": [[23, 37, "B-C_TOPIC"], [37, 48, "I-C_TOPIC"], [52, 60, "B-C_TOPIC"], [60, 68, "I-C_TOPIC"]]}
+{"id": 1049, "data": "what courses contains network programming and programming languages", "label": [[22, 30, "B-C_TOPIC"], [30, 42, "I-C_TOPIC"], [46, 58, "B-C_TOPIC"], [58, 67, "I-C_TOPIC"]]}
+{"id": 1050, "data": "what is taught in course cse478", "label": [[25, 31, "B-C_ID"]]}
+{"id": 1051, "data": "what are the prerequisites for course cse590t", "label": [[38, 45, "B-C_ID"]]}
+{"id": 1052, "data": "what are the prerequisites for course cse428", "label": [[38, 44, "B-C_ID"]]}
+{"id": 1053, "data": "what is course cse590qc", "label": [[15, 23, "B-C_ID"]]}
+{"id": 1054, "data": "which classes contains artificial intelligence and digital animation", "label": [[23, 34, "B-C_TOPIC"], [34, 47, "I-C_TOPIC"], [51, 59, "B-C_TOPIC"], [59, 68, "I-C_TOPIC"]]}
+{"id": 1055, "data": "can you confirm the course id for database", "label": [[34, 42, "B-C_TOPIC"]]}
+{"id": 1056, "data": "what is cse457", "label": [[8, 14, "B-C_ID"]]}
+{"id": 1057, "data": "does uw offer a course on computational neuroscience", "label": [[26, 40, "B-C_TITLE"], [40, 52, "I-C_TITLE"]]}
+{"id": 1058, "data": "what do i need before cse481i", "label": [[22, 29, "B-C_ID"]]}
+{"id": 1059, "data": "what course introducts programming languages and writing programs", "label": [[23, 35, "B-C_TOPIC"], [35, 45, "I-C_TOPIC"], [49, 57, "B-C_TOPIC"], [57, 65, "I-C_TOPIC"]]}
+{"id": 1060, "data": "which course teaches artificial intelligence and digital animation", "label": [[21, 32, "B-C_TOPIC"], [32, 45, "I-C_TOPIC"], [49, 57, "B-C_TOPIC"], [57, 66, "I-C_TOPIC"]]}
+{"id": 1061, "data": "which course introducts network programming and database management systems", "label": [[24, 32, "B-C_TOPIC"], [32, 44, "I-C_TOPIC"], [48, 57, "B-C_TOPIC"], [57, 68, "I-C_TOPIC"], [68, 75, "I-C_TOPIC"]]}
+{"id": 1062, "data": "what should i take before cse473", "label": [[26, 32, "B-C_ID"]]}
+{"id": 1063, "data": "tell me about cse331", "label": [[14, 20, "B-C_ID"]]}
+{"id": 1064, "data": "tell me about cse490st", "label": [[14, 22, "B-C_ID"]]}
+{"id": 1065, "data": "what will i learn in cse599a1", "label": [[21, 29, "B-C_ID"]]}
+{"id": 1066, "data": "what is cse519 about", "label": [[8, 15, "B-C_ID"]]}
+{"id": 1067, "data": "do I have to take linear algebra before I can take introduction to data science", "label": [[18, 25, "B-C_TITLE"], [25, 33, "I-C_TITLE"], [51, 64, "B-C_TITLE"], [64, 67, "I-C_TITLE"], [67, 72, "I-C_TITLE"], [72, 79, "I-C_TITLE"]]}
+{"id": 1068, "data": "what are cse455 requirements", "label": [[9, 16, "B-C_ID"]]}
+{"id": 1069, "data": "what class should I take to learn network programming", "label": [[34, 42, "B-C_TOPIC"], [42, 53, "I-C_TOPIC"]]}
+{"id": 1070, "data": "what's taught in CSE P 590", "label": [[17, 21, "B-C_ID"], [21, 23, "I-C_ID"], [23, 26, "I-C_ID"]]}
+{"id": 1071, "data": "what is taught in cse481h", "label": [[18, 25, "B-C_ID"]]}
+{"id": 1072, "data": "what's taught in CSE490dc", "label": [[17, 25, "B-C_ID"]]}
+{"id": 1073, "data": "what is taught in cse469", "label": [[18, 24, "B-C_ID"]]}
+{"id": 1074, "data": "what would i learn in cse 332", "label": [[22, 26, "B-C_ID"], [26, 29, "I-C_ID"]]}
+{"id": 1075, "data": "what should i take before course cse591i", "label": [[33, 40, "B-C_ID"]]}
+{"id": 1076, "data": "what classes should I take to learn network programming", "label": [[36, 44, "B-C_TOPIC"], [44, 55, "I-C_TOPIC"]]}
+{"id": 1077, "data": "what is taught in csep590", "label": [[18, 25, "B-C_ID"]]}
+{"id": 1078, "data": "which course contains data abstraction and writing programs", "label": [[22, 26, "B-C_TOPIC"], [27, 39, "I-C_TOPIC"], [43, 51, "B-C_TOPIC"], [51, 59, "I-C_TOPIC"]]}
+{"id": 1079, "data": "I want to learn more about shell scripting and version control", "label": [[27, 33, "B-C_TOPIC"], [33, 43, "I-C_TOPIC"], [47, 55, "B-C_TOPIC"], [55, 62, "I-C_TOPIC"]]}
+{"id": 1080, "data": "does csep544 have prerequisites", "label": [[5, 12, "B-C_ID"]]}
+{"id": 1081, "data": "what courses introducts procedural programming and programming languages", "label": [[24, 35, "B-C_TOPIC"], [35, 47, "I-C_TOPIC"], [51, 63, "B-C_TOPIC"], [63, 72, "I-C_TOPIC"]]}
+{"id": 1082, "data": "which classes introducts computational thinking", "label": [[25, 39, "B-C_TOPIC"], [39, 47, "I-C_TOPIC"]]}
+{"id": 1083, "data": "which classes teaches procedural programming and digital animation", "label": [[22, 33, "B-C_TOPIC"], [33, 45, "I-C_TOPIC"], [49, 57, "B-C_TOPIC"], [57, 66, "I-C_TOPIC"]]}
+{"id": 1084, "data": "do I need to take CSE 410 Computer Systems before System and Software Tools", "label": [[18, 22, "B-C_ID"], [22, 26, "I-C_ID"], [26, 35, "B-C_TITLE"], [35, 43, "I-C_TITLE"], [50, 57, "B-C_TITLE"], [57, 61, "I-C_TITLE"], [61, 70, "I-C_TITLE"], [70, 75, "I-C_TITLE"]]}
+{"id": 1085, "data": "are there prerequisites for cse390a", "label": [[28, 35, "B-C_ID"]]}
+{"id": 1086, "data": "what is taught in cse599g", "label": [[18, 25, "B-C_ID"]]}
+{"id": 1087, "data": "what should i take before cse521", "label": [[26, 32, "B-C_ID"]]}
+{"id": 1088, "data": "what classes teaches computational thinking", "label": [[21, 35, "B-C_TOPIC"], [35, 43, "I-C_TOPIC"]]}
+{"id": 1089, "data": "What does CSE 481 emphasize?", "label": [[10, 14, "B-C_ID"], [14, 18, "I-C_ID"]]}
+{"id": 1090, "data": "what courses teaches artificial intelligence and procedural programming", "label": [[21, 32, "B-C_TOPIC"], [32, 45, "I-C_TOPIC"], [49, 60, "B-C_TOPIC"], [60, 71, "I-C_TOPIC"]]}
+{"id": 1091, "data": "what class introducts computational thinking and probabilistic techniques", "label": [[22, 36, "B-C_TOPIC"], [36, 45, "I-C_TOPIC"], [49, 63, "B-C_TOPIC"], [63, 73, "I-C_TOPIC"]]}
+{"id": 1092, "data": "What is the course id for Natural Language Processing", "label": [[26, 34, "B-C_TITLE"], [34, 43, "I-C_TITLE"], [43, 53, "I-C_TITLE"]]}
+{"id": 1093, "data": "what is taught in cse574", "label": [[18, 24, "B-C_ID"]]}
+{"id": 1094, "data": "tell me about course cse373", "label": [[21, 27, "B-C_ID"]]}
+{"id": 1095, "data": "what should i take before cse427", "label": [[26, 32, "B-C_ID"]]}
+{"id": 1096, "data": "what courses introducts network programming and digital animation", "label": [[24, 32, "B-C_TOPIC"], [32, 44, "I-C_TOPIC"], [48, 56, "B-C_TOPIC"], [56, 65, "I-C_TOPIC"]]}
+{"id": 1097, "data": "what course contains artificial intelligence and writing programs", "label": [[21, 32, "B-C_TOPIC"], [32, 45, "I-C_TOPIC"], [49, 57, "B-C_TOPIC"], [57, 65, "I-C_TOPIC"]]}
+{"id": 1098, "data": "what should i take before cse800", "label": [[26, 32, "B-C_ID"]]}
+{"id": 1099, "data": "what do i need before csep567", "label": [[22, 29, "B-C_ID"]]}
+{"id": 1100, "data": "what is in course csep551", "label": [[18, 25, "B-C_ID"]]}
+{"id": 1101, "data": "which class contains database management systems and digital animation", "label": [[21, 30, "B-C_TOPIC"], [30, 41, "I-C_TOPIC"], [41, 49, "I-C_TOPIC"], [53, 61, "B-C_TOPIC"], [61, 70, "I-C_TOPIC"]]}
+{"id": 1102, "data": "what is course cse590k", "label": [[15, 22, "B-C_ID"]]}
+{"id": 1103, "data": "What does CSE 476 teach", "label": [[10, 14, "B-C_ID"], [14, 18, "I-C_ID"]]}
+{"id": 1104, "data": "which classes will teach me more about artificial intelligence", "label": [[39, 50, "B-C_TOPIC"], [50, 62, "I-C_TOPIC"]]}
+{"id": 1105, "data": "which classes introducts database management systems and probabilistic techniques", "label": [[25, 34, "B-C_TOPIC"], [34, 45, "I-C_TOPIC"], [45, 53, "I-C_TOPIC"], [57, 71, "B-C_TOPIC"], [71, 81, "I-C_TOPIC"]]}
+{"id": 1106, "data": "what do i need before cse352", "label": [[22, 28, "B-C_ID"]]}
+{"id": 1107, "data": "which classes contains network programming and probabilistic techniques", "label": [[23, 31, "B-C_TOPIC"], [31, 43, "I-C_TOPIC"], [47, 61, "B-C_TOPIC"], [61, 71, "I-C_TOPIC"]]}
+{"id": 1108, "data": "what are the prerequisites for csep521", "label": [[31, 38, "B-C_ID"]]}
+{"id": 1109, "data": "is System and Software Tools a prereq for CSE 410 Computer Systems", "label": [[3, 10, "B-C_TITLE"], [10, 14, "I-C_TITLE"], [14, 23, "I-C_TITLE"], [23, 29, "I-C_TITLE"], [42, 46, "B-C_ID"], [46, 50, "I-C_ID"], [50, 59, "B-C_TITLE"], [59, 66, "I-C_TITLE"]]}
+{"id": 1110, "data": "what class introducts artificial intelligence and computational thinking", "label": [[22, 33, "B-C_TOPIC"], [33, 46, "I-C_TOPIC"], [50, 64, "B-C_TOPIC"], [64, 72, "I-C_TOPIC"]]}
+{"id": 1111, "data": "do I need to take CSE578 before CSE 390l", "label": [[18, 25, "B-C_ID"], [32, 36, "B-C_ID"], [36, 40, "I-C_ID"]]}
+{"id": 1112, "data": "what should i take before cse490v", "label": [[26, 33, "B-C_ID"]]}
+{"id": 1113, "data": "are there any classes with group projects", "label": [[27, 33, "B-C_TOPIC"], [33, 41, "I-C_TOPIC"]]}
+{"id": 1114, "data": "What are the topics in CSEP 519?", "label": [[23, 28, "B-C_ID"], [28, 31, "I-C_ID"]]}
+{"id": 1115, "data": "what do i need before cse590c1", "label": [[22, 30, "B-C_ID"]]}
+{"id": 1116, "data": "what are cse469 requirements", "label": [[9, 16, "B-C_ID"]]}
+{"id": 1117, "data": "what should i take before course csep545", "label": [[33, 40, "B-C_ID"]]}
+{"id": 1118, "data": "what class teaches data abstraction and probabilistic techniques", "label": [[19, 24, "B-C_TOPIC"], [24, 36, "I-C_TOPIC"], [40, 54, "B-C_TOPIC"], [54, 64, "I-C_TOPIC"]]}
+{"id": 1119, "data": "what course contains digital animation and network programming", "label": [[21, 29, "B-C_TOPIC"], [29, 39, "I-C_TOPIC"], [43, 51, "B-C_TOPIC"], [51, 62, "I-C_TOPIC"]]}
+{"id": 1120, "data": "does course cse590v have prerequisites", "label": [[12, 20, "B-C_ID"]]}
+{"id": 1121, "data": "what is cse591c about", "label": [[8, 16, "B-C_ID"]]}
+{"id": 1122, "data": "what do i need before csep510", "label": [[22, 29, "B-C_ID"]]}
+{"id": 1123, "data": "what is taught in cse442", "label": [[18, 24, "B-C_ID"]]}
+{"id": 1124, "data": "does course cse590d have prerequisites", "label": [[12, 20, "B-C_ID"]]}
+{"id": 1125, "data": "which classes teaches procedural programming and network programming", "label": [[22, 33, "B-C_TOPIC"], [33, 45, "I-C_TOPIC"], [49, 57, "B-C_TOPIC"], [57, 68, "I-C_TOPIC"]]}
+{"id": 1126, "data": "what is the first class about software engineering", "label": [[30, 39, "B-C_TOPIC"], [39, 50, "I-C_TOPIC"]]}
+{"id": 1127, "data": "what course teaches artificial intelligence and database management systems", "label": [[20, 31, "B-C_TOPIC"], [31, 44, "I-C_TOPIC"], [48, 57, "B-C_TOPIC"], [57, 68, "I-C_TOPIC"], [68, 75, "I-C_TOPIC"]]}
+{"id": 1128, "data": "what is taught in cse599q", "label": [[18, 25, "B-C_ID"]]}
+{"id": 1129, "data": "are there requirements to take cse352", "label": [[31, 37, "B-C_ID"]]}
+{"id": 1130, "data": "what should i take before cse481i", "label": [[26, 33, "B-C_ID"]]}
+{"id": 1131, "data": "what are the prerequisites for cse597", "label": [[31, 37, "B-C_ID"]]}
+{"id": 1132, "data": "what is different between cse 415 and cse 473", "label": [[26, 30, "B-C_ID"], [30, 34, "I-C_ID"], [38, 42, "B-C_ID"], [42, 45, "I-C_ID"]]}
+{"id": 1133, "data": "what are cse599w requirements", "label": [[9, 17, "B-C_ID"]]}
+{"id": 1134, "data": "find out what is covered in cse 154", "label": [[28, 32, "B-C_ID"], [32, 35, "I-C_ID"]]}
+{"id": 1135, "data": "which courses teaches probabilistic techniques and procedural programming", "label": [[22, 36, "B-C_TOPIC"], [36, 47, "I-C_TOPIC"], [51, 62, "B-C_TOPIC"], [62, 73, "I-C_TOPIC"]]}
+{"id": 1136, "data": "which course contains writing programs and database management systems", "label": [[22, 30, "B-C_TOPIC"], [30, 39, "I-C_TOPIC"], [43, 52, "B-C_TOPIC"], [52, 63, "I-C_TOPIC"], [63, 70, "I-C_TOPIC"]]}
+{"id": 1137, "data": "which courses introducts digital animation and data abstraction", "label": [[25, 33, "B-C_TOPIC"], [33, 43, "I-C_TOPIC"], [47, 52, "B-C_TOPIC"], [52, 63, "I-C_TOPIC"]]}
+{"id": 1138, "data": "what will i learn in cse431", "label": [[21, 27, "B-C_ID"]]}
+{"id": 1139, "data": "what should i take before cse599t", "label": [[26, 33, "B-C_ID"]]}
+{"id": 1140, "data": "what is taught in cse190b", "label": [[18, 25, "B-C_ID"]]}
+{"id": 1141, "data": "which classes contains probabilistic techniques and writing programs", "label": [[23, 37, "B-C_TOPIC"], [37, 48, "I-C_TOPIC"], [52, 60, "B-C_TOPIC"], [60, 68, "I-C_TOPIC"]]}
+{"id": 1142, "data": "are there requirements to take cse597", "label": [[31, 37, "B-C_ID"]]}
+{"id": 1143, "data": "what class contains database management systems and programming languages", "label": [[20, 29, "B-C_TOPIC"], [29, 40, "I-C_TOPIC"], [40, 48, "I-C_TOPIC"], [52, 64, "B-C_TOPIC"], [64, 73, "I-C_TOPIC"]]}
+{"id": 1144, "data": "what will i learn in cse469", "label": [[21, 27, "B-C_ID"]]}
+{"id": 1145, "data": "what is cse599u", "label": [[8, 15, "B-C_ID"]]}
+{"id": 1146, "data": "which courses should I take to learn data abstraction", "label": [[37, 42, "B-C_TOPIC"], [42, 53, "I-C_TOPIC"]]}
+{"id": 1147, "data": "which class introducts network programming", "label": [[23, 31, "B-C_TOPIC"], [31, 42, "I-C_TOPIC"]]}
+{"id": 1148, "data": "what courses introducts data abstraction and network programming", "label": [[24, 29, "B-C_TOPIC"], [29, 41, "I-C_TOPIC"], [45, 53, "B-C_TOPIC"], [53, 64, "I-C_TOPIC"]]}
+{"id": 1149, "data": "what is cse410", "label": [[8, 14, "B-C_ID"]]}
+{"id": 1150, "data": "tell me about course cse599a1", "label": [[21, 29, "B-C_ID"]]}
+{"id": 1151, "data": "which class contains writing programs and network programming", "label": [[21, 29, "B-C_TOPIC"], [29, 38, "I-C_TOPIC"], [42, 50, "B-C_TOPIC"], [50, 61, "I-C_TOPIC"]]}
+{"id": 1152, "data": "tell me about course cse590y", "label": [[21, 28, "B-C_ID"]]}
+{"id": 1153, "data": "What courses do I need to take before I take CSE 478: Autonomous Robotics", "label": [[45, 49, "B-C_ID"], [49, 52, "I-C_ID"], [54, 65, "B-C_TITLE"], [65, 73, "I-C_TITLE"]]}
+{"id": 1154, "data": "tell me about cse180", "label": [[14, 20, "B-C_ID"]]}
+{"id": 1155, "data": "what are the prerequisites for course cse190b", "label": [[38, 45, "B-C_ID"]]}
+{"id": 1156, "data": "what are the prerequisites for cse503", "label": [[31, 37, "B-C_ID"]]}
+{"id": 1157, "data": "what class should I take to learn programming languages", "label": [[34, 46, "B-C_TOPIC"], [46, 55, "I-C_TOPIC"]]}
+{"id": 1158, "data": "does course cse590t have prerequisites", "label": [[12, 20, "B-C_ID"]]}
+{"id": 1159, "data": "which courses introducts programming languages and database management systems", "label": [[25, 37, "B-C_TOPIC"], [37, 47, "I-C_TOPIC"], [51, 60, "B-C_TOPIC"], [60, 70, "I-C_TOPIC"], [71, 78, "I-C_TOPIC"]]}
+{"id": 1160, "data": "what courses introducts programming languages and digital animation", "label": [[24, 36, "B-C_TOPIC"], [36, 46, "I-C_TOPIC"], [50, 58, "B-C_TOPIC"], [58, 67, "I-C_TOPIC"]]}
+{"id": 1161, "data": "what courses teaches artificial intelligence and digital animation", "label": [[21, 32, "B-C_TOPIC"], [32, 45, "I-C_TOPIC"], [49, 57, "B-C_TOPIC"], [57, 66, "I-C_TOPIC"]]}
+{"id": 1162, "data": "what should i take before cse574", "label": [[26, 32, "B-C_ID"]]}
+{"id": 1163, "data": "what is taught in course cse515", "label": [[25, 31, "B-C_ID"]]}
+{"id": 1164, "data": "what is course csep557", "label": [[15, 22, "B-C_ID"]]}
+{"id": 1165, "data": "what course teaches artificial intelligence and probabilistic techniques", "label": [[20, 31, "B-C_TOPIC"], [31, 44, "I-C_TOPIC"], [48, 62, "B-C_TOPIC"], [62, 72, "I-C_TOPIC"]]}
+{"id": 1166, "data": "which courses teaches artificial intelligence and data abstraction", "label": [[22, 33, "B-C_TOPIC"], [33, 46, "I-C_TOPIC"], [50, 55, "B-C_TOPIC"], [55, 66, "I-C_TOPIC"]]}
+{"id": 1167, "data": "what is the course id for undergraduate data vizualization", "label": [[26, 40, "B-C_TITLE"], [40, 45, "I-C_TITLE"], [45, 58, "I-C_TITLE"]]}
+{"id": 1168, "data": "what do you learn in CSE 441", "label": [[21, 25, "B-C_ID"], [25, 28, "I-C_ID"]]}
+{"id": 1169, "data": "are there prerequisites for cse591d", "label": [[28, 35, "B-C_ID"]]}
+{"id": 1170, "data": "what is taught in course cse481s", "label": [[25, 32, "B-C_ID"]]}
+{"id": 1171, "data": "what is taught in cse561", "label": [[18, 24, "B-C_ID"]]}
+{"id": 1172, "data": "what classes contains network programming and artificial intelligence", "label": [[22, 30, "B-C_TOPIC"], [30, 42, "I-C_TOPIC"], [46, 57, "B-C_TOPIC"], [57, 69, "I-C_TOPIC"]]}
+{"id": 1173, "data": "describe CSE341", "label": [[9, 15, "B-C_ID"]]}
+{"id": 1174, "data": "what is cse374", "label": [[8, 14, "B-C_ID"]]}
+{"id": 1175, "data": "What is the course id for Network Systems?", "label": [[26, 34, "B-C_TITLE"], [34, 41, "I-C_TITLE"]]}
+{"id": 1176, "data": "does course cse470 have prerequisites", "label": [[12, 19, "B-C_ID"]]}
+{"id": 1177, "data": "what are cse441 requirements", "label": [[9, 16, "B-C_ID"]]}
+{"id": 1178, "data": "what should i take before course cse590f", "label": [[33, 40, "B-C_ID"]]}
+{"id": 1179, "data": "what courses teaches procedural programming and network programming", "label": [[21, 32, "B-C_TOPIC"], [32, 44, "I-C_TOPIC"], [48, 56, "B-C_TOPIC"], [56, 67, "I-C_TOPIC"]]}
+{"id": 1180, "data": "what are the prerequisites for course cse599f1", "label": [[38, 46, "B-C_ID"]]}
+{"id": 1181, "data": "which classes teaches data abstraction and artificial intelligence", "label": [[22, 27, "B-C_TOPIC"], [27, 39, "I-C_TOPIC"], [43, 54, "B-C_TOPIC"], [54, 66, "I-C_TOPIC"]]}
+{"id": 1182, "data": "what courses teaches network programming and probabilistic techniques", "label": [[21, 29, "B-C_TOPIC"], [29, 40, "I-C_TOPIC"], [45, 59, "B-C_TOPIC"], [59, 69, "I-C_TOPIC"]]}
+{"id": 1183, "data": "does course cse591p have prerequisites", "label": [[12, 20, "B-C_ID"]]}
+{"id": 1184, "data": "which classes introducts network programming and digital animation", "label": [[25, 33, "B-C_TOPIC"], [33, 45, "I-C_TOPIC"], [49, 57, "B-C_TOPIC"], [57, 66, "I-C_TOPIC"]]}
+{"id": 1185, "data": "what is taught in course cse590nc", "label": [[25, 33, "B-C_ID"]]}
+{"id": 1186, "data": "which courses contains artificial intelligence and digital animation", "label": [[23, 34, "B-C_TOPIC"], [34, 47, "I-C_TOPIC"], [51, 59, "B-C_TOPIC"], [59, 68, "I-C_TOPIC"]]}
+{"id": 1187, "data": "what do i need before cse590z", "label": [[22, 29, "B-C_ID"]]}
+{"id": 1188, "data": "what are the prerequisites for course cse599j1", "label": [[38, 46, "B-C_ID"]]}
+{"id": 1189, "data": "tell me about cse549", "label": [[14, 20, "B-C_ID"]]}
+{"id": 1190, "data": "which classes introducts computational thinking and artificial intelligence", "label": [[25, 39, "B-C_TOPIC"], [39, 48, "I-C_TOPIC"], [52, 63, "B-C_TOPIC"], [63, 75, "I-C_TOPIC"]]}
+{"id": 1191, "data": "what do i need before cse455", "label": [[22, 28, "B-C_ID"]]}
+{"id": 1192, "data": "what are the prerequisites for course cse599a1", "label": [[38, 46, "B-C_ID"]]}
+{"id": 1193, "data": "does course cse800 have prerequisites", "label": [[12, 19, "B-C_ID"]]}
+{"id": 1194, "data": "what are the prerequisites for cse550", "label": [[31, 37, "B-C_ID"]]}
+{"id": 1195, "data": "which classes teaches procedural programming and data abstraction", "label": [[22, 33, "B-C_TOPIC"], [33, 45, "I-C_TOPIC"], [49, 54, "B-C_TOPIC"], [54, 65, "I-C_TOPIC"]]}
+{"id": 1196, "data": "what will i learn in csep521", "label": [[21, 28, "B-C_ID"]]}
+{"id": 1197, "data": "tell me about course cse590q", "label": [[21, 28, "B-C_ID"]]}
+{"id": 1198, "data": "what class introducts programming languages and artificial intelligence", "label": [[22, 34, "B-C_TOPIC"], [34, 44, "I-C_TOPIC"], [48, 59, "B-C_TOPIC"], [59, 71, "I-C_TOPIC"]]}
+{"id": 1199, "data": "what is taught in course cse597", "label": [[25, 31, "B-C_ID"]]}
+{"id": 1200, "data": "tell me about cse415", "label": [[14, 20, "B-C_ID"]]}
+{"id": 1201, "data": "which classes introducts network programming and probabilistic techniques", "label": [[25, 33, "B-C_TOPIC"], [33, 45, "I-C_TOPIC"], [49, 63, "B-C_TOPIC"], [63, 73, "I-C_TOPIC"]]}
+{"id": 1202, "data": "what classes contains digital animation and data abstraction", "label": [[22, 30, "B-C_TOPIC"], [30, 40, "I-C_TOPIC"], [44, 49, "B-C_TOPIC"], [49, 60, "I-C_TOPIC"]]}
+{"id": 1203, "data": "does course cse481s have prerequisites", "label": [[12, 20, "B-C_ID"]]}
+{"id": 1204, "data": "does cse402 have prerequisites", "label": [[5, 12, "B-C_ID"]]}
+{"id": 1205, "data": "what courses is good for data abstraction", "label": [[25, 30, "B-C_TOPIC"], [30, 41, "I-C_TOPIC"]]}
+{"id": 1206, "data": "what course teaches digital animation and probabilistic techniques", "label": [[20, 28, "B-C_TOPIC"], [28, 38, "I-C_TOPIC"], [42, 56, "B-C_TOPIC"], [56, 66, "I-C_TOPIC"]]}
+{"id": 1207, "data": "which course contains data abstraction and digital animation", "label": [[22, 27, "B-C_TOPIC"], [27, 39, "I-C_TOPIC"], [43, 51, "B-C_TOPIC"], [51, 60, "I-C_TOPIC"]]}
+{"id": 1208, "data": "What's the content of CSE 311?", "label": [[22, 26, "B-C_ID"], [26, 29, "I-C_ID"]]}
+{"id": 1209, "data": "which classes contains probabilistic techniques and digital animation", "label": [[23, 37, "B-C_TOPIC"], [37, 48, "I-C_TOPIC"], [52, 60, "B-C_TOPIC"], [60, 69, "I-C_TOPIC"]]}
+{"id": 1210, "data": "what should i take before cse491", "label": [[26, 32, "B-C_ID"]]}
+{"id": 1211, "data": "what is taught in course csep561", "label": [[25, 32, "B-C_ID"]]}
+{"id": 1212, "data": "what are the preqrequisites of 'principles of digital systems design'?", "label": [[32, 43, "B-C_TITLE"], [43, 46, "I-C_TITLE"], [46, 54, "I-C_TITLE"], [54, 62, "I-C_TITLE"], [62, 68, "I-C_TITLE"]]}
+{"id": 1213, "data": "what are csep545 requirements", "label": [[9, 17, "B-C_ID"]]}
+{"id": 1214, "data": "tell me about course cse490k", "label": [[21, 28, "B-C_ID"]]}
+{"id": 1215, "data": "what classes should I take to learn writing programs", "label": [[36, 44, "B-C_TOPIC"], [44, 52, "I-C_TOPIC"]]}
+{"id": 1216, "data": "What courses cover databases?", "label": [[19, 28, "B-C_TOPIC"]]}
+{"id": 1217, "data": "what class introducts probabilistic techniques and computational thinking", "label": [[22, 36, "B-C_TOPIC"], [36, 47, "I-C_TOPIC"], [51, 65, "B-C_TOPIC"], [65, 73, "I-C_TOPIC"]]}
+{"id": 1218, "data": "what should i take to learn programming", "label": [[28, 39, "B-C_TOPIC"]]}
+{"id": 1219, "data": "tell me about cse481c", "label": [[14, 21, "B-C_ID"]]}
+{"id": 1220, "data": "what courses introducts database management systems and probabilistic techniques", "label": [[24, 33, "B-C_TOPIC"], [33, 44, "I-C_TOPIC"], [44, 52, "I-C_TOPIC"], [56, 70, "B-C_TOPIC"], [70, 80, "I-C_TOPIC"]]}
+{"id": 1221, "data": "tell me about course cse456", "label": [[21, 27, "B-C_ID"]]}
+{"id": 1222, "data": "Please tell me some courses on programming languages.", "label": [[31, 43, "B-C_TOPIC"], [43, 52, "I-C_TOPIC"]]}
+{"id": 1223, "data": "what should i take before cse591x", "label": [[26, 33, "B-C_ID"]]}
+{"id": 1224, "data": "which class introducts programming languages and digital animation", "label": [[23, 35, "B-C_TOPIC"], [35, 45, "I-C_TOPIC"], [49, 57, "B-C_TOPIC"], [57, 66, "I-C_TOPIC"]]}
+{"id": 1225, "data": "what class introducts artificial intelligence and digital animation", "label": [[22, 33, "B-C_TOPIC"], [33, 46, "I-C_TOPIC"], [50, 58, "B-C_TOPIC"], [58, 67, "I-C_TOPIC"]]}
+{"id": 1226, "data": "which classes teaches database management systems", "label": [[22, 31, "B-C_TOPIC"], [31, 42, "I-C_TOPIC"], [42, 49, "I-C_TOPIC"]]}
+{"id": 1227, "data": "are there prerequisites for csep595", "label": [[28, 35, "B-C_ID"]]}
+{"id": 1228, "data": "what should i take to learn computer programming", "label": [[28, 37, "B-C_TOPIC"], [37, 48, "I-C_TOPIC"]]}
+{"id": 1229, "data": "what are the prerequisites for course cse800", "label": [[38, 44, "B-C_ID"]]}
+{"id": 1230, "data": "what will i learn in cse490dc", "label": [[21, 29, "B-C_ID"]]}
+{"id": 1231, "data": "which course teaches artificial intelligence and database management systems", "label": [[21, 32, "B-C_TOPIC"], [32, 45, "I-C_TOPIC"], [49, 58, "B-C_TOPIC"], [58, 69, "I-C_TOPIC"], [69, 76, "I-C_TOPIC"]]}
+{"id": 1232, "data": "what courses teaches procedural programming and probabilistic techniques", "label": [[21, 32, "B-C_TOPIC"], [32, 44, "I-C_TOPIC"], [48, 62, "B-C_TOPIC"], [62, 72, "I-C_TOPIC"]]}
+{"id": 1233, "data": "what is cse416 about", "label": [[8, 15, "B-C_ID"]]}
+{"id": 1234, "data": "which course teaches writing programs and procedural programming", "label": [[21, 29, "B-C_TOPIC"], [29, 38, "I-C_TOPIC"], [42, 53, "B-C_TOPIC"], [53, 64, "I-C_TOPIC"]]}
+{"id": 1235, "data": "what classes teaches computational thinking and probabilistic techniques", "label": [[21, 35, "B-C_TOPIC"], [35, 44, "I-C_TOPIC"], [48, 62, "B-C_TOPIC"], [62, 72, "I-C_TOPIC"]]}

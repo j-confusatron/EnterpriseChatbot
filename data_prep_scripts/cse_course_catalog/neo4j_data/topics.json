@@ -1,0 +1,7582 @@
+{
+    "computer science": {
+        "i": 1,
+        "label": "computer science"
+    },
+    "computational thinking": {
+        "i": 2,
+        "label": "computational thinking"
+    },
+    "logical reasoning": {
+        "i": 3,
+        "label": "logical reasoning"
+    },
+    "problem solving": {
+        "i": 4,
+        "label": "problem solving"
+    },
+    "data representation": {
+        "i": 5,
+        "label": "data representation"
+    },
+    "abstraction": {
+        "i": 6,
+        "label": "abstraction"
+    },
+    "creation of": {
+        "i": 7,
+        "label": "creation of"
+    },
+    "digital artifacts": {
+        "i": 8,
+        "label": "digital artifacts"
+    },
+    "such": {
+        "i": 9,
+        "label": "such"
+    },
+    "Web pages": {
+        "i": 10,
+        "label": "Web pages"
+    },
+    "programs": {
+        "i": 11,
+        "label": "programs"
+    },
+    "managing complexity": {
+        "i": 12,
+        "label": "managing complexity"
+    },
+    "operation of": {
+        "i": 13,
+        "label": "operation of"
+    },
+    "computers and": {
+        "i": 14,
+        "label": "computers and"
+    },
+    "networks": {
+        "i": 15,
+        "label": "networks"
+    },
+    "effective Web": {
+        "i": 16,
+        "label": "effective Web"
+    },
+    "searching": {
+        "i": 17,
+        "label": "searching"
+    },
+    "ethical": {
+        "i": 18,
+        "label": "ethical"
+    },
+    "legal and": {
+        "i": 19,
+        "label": "legal and"
+    },
+    "social aspects": {
+        "i": 20,
+        "label": "social aspects"
+    },
+    "information technology": {
+        "i": 21,
+        "label": "information technology"
+    },
+    "digital photography": {
+        "i": 22,
+        "label": "digital photography"
+    },
+    "computational imaging": {
+        "i": 23,
+        "label": "computational imaging"
+    },
+    "photographic composition": {
+        "i": 24,
+        "label": "photographic composition"
+    },
+    "design": {
+        "i": 25,
+        "label": "design"
+    },
+    "internet": {
+        "i": 26,
+        "label": "internet"
+    },
+    "enabled photography": {
+        "i": 27,
+        "label": "enabled photography"
+    },
+    "programming - in - the - small": {
+        "i": 28,
+        "label": "programming - in - the - small"
+    },
+    "procedural programming": {
+        "i": 29,
+        "label": "procedural programming"
+    },
+    "methods": {
+        "i": 30,
+        "label": "methods"
+    },
+    "parameters": {
+        "i": 31,
+        "label": "parameters"
+    },
+    "return": {
+        "i": 32,
+        "label": "return"
+    },
+    "values": {
+        "i": 33,
+        "label": "values"
+    },
+    "basic control": {
+        "i": 34,
+        "label": "basic control"
+    },
+    "structures": {
+        "i": 35,
+        "label": "structures"
+    },
+    "sequence": {
+        "i": 36,
+        "label": "sequence"
+    },
+    "if": {
+        "i": 37,
+        "label": "if"
+    },
+    "else": {
+        "i": 38,
+        "label": "else"
+    },
+    "for loop": {
+        "i": 39,
+        "label": "for loop"
+    },
+    "while loop": {
+        "i": 40,
+        "label": "while loop"
+    },
+    "file processing": {
+        "i": 41,
+        "label": "file processing"
+    },
+    "arrays": {
+        "i": 42,
+        "label": "arrays"
+    },
+    "defining objects": {
+        "i": 43,
+        "label": "defining objects"
+    },
+    "programming experience": {
+        "i": 44,
+        "label": "programming experience"
+    },
+    "CSE 142": {
+        "i": 45,
+        "label": "CSE 142"
+    },
+    "data abstraction": {
+        "i": 46,
+        "label": "data abstraction"
+    },
+    "encapsulation including": {
+        "i": 47,
+        "label": "encapsulation including"
+    },
+    "stacks": {
+        "i": 48,
+        "label": "stacks"
+    },
+    "queues": {
+        "i": 49,
+        "label": "queues"
+    },
+    "linked lists": {
+        "i": 50,
+        "label": "linked lists"
+    },
+    "binary trees": {
+        "i": 51,
+        "label": "binary trees"
+    },
+    "recursion": {
+        "i": 52,
+        "label": "recursion"
+    },
+    "instruction to": {
+        "i": 53,
+        "label": "instruction to"
+    },
+    "complexity and": {
+        "i": 54,
+        "label": "complexity and"
+    },
+    "predefined collection": {
+        "i": 55,
+        "label": "predefined collection"
+    },
+    "classes": {
+        "i": 56,
+        "label": "classes"
+    },
+    "languages": {
+        "i": 57,
+        "label": "languages"
+    },
+    "developing interactive": {
+        "i": 58,
+        "label": "developing interactive"
+    },
+    "dynamic web": {
+        "i": 59,
+        "label": "dynamic web"
+    },
+    "pages": {
+        "i": 60,
+        "label": "pages"
+    },
+    "page styling": {
+        "i": 61,
+        "label": "page styling"
+    },
+    "layout": {
+        "i": 62,
+        "label": "layout"
+    },
+    "client and": {
+        "i": 63,
+        "label": "client and"
+    },
+    "server side scripting": {
+        "i": 64,
+        "label": "server side scripting"
+    },
+    "web security": {
+        "i": 65,
+        "label": "web security"
+    },
+    "interacting with": {
+        "i": 66,
+        "label": "interacting with"
+    },
+    "data sources": {
+        "i": 67,
+        "label": "data sources"
+    },
+    "databases": {
+        "i": 68,
+        "label": "databases"
+    },
+    "computer programming": {
+        "i": 69,
+        "label": "computer programming"
+    },
+    "real data": {
+        "i": 70,
+        "label": "real data"
+    },
+    "manipulation tasks": {
+        "i": 71,
+        "label": "manipulation tasks"
+    },
+    "business": {
+        "i": 72,
+        "label": "business"
+    },
+    "problem": {
+        "i": 73,
+        "label": "problem"
+    },
+    "solving": {
+        "i": 74,
+        "label": "solving"
+    },
+    "data analysis": {
+        "i": 75,
+        "label": "data analysis"
+    },
+    "Python programming": {
+        "i": 76,
+        "label": "Python programming"
+    },
+    "control and": {
+        "i": 77,
+        "label": "control and"
+    },
+    "data visualization": {
+        "i": 78,
+        "label": "data visualization"
+    },
+    "science , engineering": {
+        "i": 79,
+        "label": "science , engineering"
+    },
+    "the humanities": {
+        "i": 80,
+        "label": "the humanities"
+    },
+    "prior programming": {
+        "i": 81,
+        "label": "prior programming"
+    },
+    "CSE 143": {
+        "i": 82,
+        "label": "CSE 143"
+    },
+    "CSE 140": {
+        "i": 83,
+        "label": "CSE 140"
+    },
+    "Intermediate data programming": {
+        "i": 84,
+        "label": "Intermediate data programming"
+    },
+    "writing programs": {
+        "i": 85,
+        "label": "writing programs"
+    },
+    "manipulate different": {
+        "i": 86,
+        "label": "manipulate different"
+    },
+    "types of": {
+        "i": 87,
+        "label": "types of"
+    },
+    "data": {
+        "i": 88,
+        "label": "data"
+    },
+    "tools and": {
+        "i": 89,
+        "label": "tools and"
+    },
+    "libraries for": {
+        "i": 90,
+        "label": "libraries for"
+    },
+    "data programming": {
+        "i": 91,
+        "label": "data programming"
+    },
+    "efficient and": {
+        "i": 92,
+        "label": "efficient and"
+    },
+    "elegant": {
+        "i": 93,
+        "label": "elegant"
+    },
+    "writing medium": {
+        "i": 94,
+        "label": "writing medium"
+    },
+    "scale": {
+        "i": 95,
+        "label": "scale"
+    },
+    "100 to": {
+        "i": 96,
+        "label": "100 to"
+    },
+    "200 lines": {
+        "i": 97,
+        "label": "200 lines"
+    },
+    "data science": {
+        "i": 98,
+        "label": "data science"
+    },
+    "data collection": {
+        "i": 99,
+        "label": "data collection"
+    },
+    "management": {
+        "i": 100,
+        "label": "management"
+    },
+    "curation": {
+        "i": 101,
+        "label": "curation"
+    },
+    "cleaning": {
+        "i": 102,
+        "label": "cleaning"
+    },
+    "summarizing and": {
+        "i": 103,
+        "label": "summarizing and"
+    },
+    "visualizing data": {
+        "i": 104,
+        "label": "visualizing data"
+    },
+    "statistical inference": {
+        "i": 105,
+        "label": "statistical inference"
+    },
+    "machine learning": {
+        "i": 106,
+        "label": "machine learning"
+    },
+    "computing labs": {
+        "i": 107,
+        "label": "computing labs"
+    },
+    "hands - on": {
+        "i": 108,
+        "label": "hands - on"
+    },
+    "CSE 490W": {
+        "i": 109,
+        "label": "CSE 490W"
+    },
+    "CSE 490E": {
+        "i": 110,
+        "label": "CSE 490E"
+    },
+    "computer engineering": {
+        "i": 111,
+        "label": "computer engineering"
+    },
+    "group discussions": {
+        "i": 112,
+        "label": "group discussions"
+    },
+    "hands - on activities": {
+        "i": 113,
+        "label": "hands - on activities"
+    },
+    "Computer Science and Engineering": {
+        "i": 114,
+        "label": "Computer Science and Engineering"
+    },
+    "CSE through": {
+        "i": 115,
+        "label": "CSE through"
+    },
+    "Direct Freshman Admission": {
+        "i": 116,
+        "label": "Direct Freshman Admission"
+    },
+    "fundamentals of logic": {
+        "i": 117,
+        "label": "fundamentals of logic"
+    },
+    "set theory": {
+        "i": 118,
+        "label": "set theory"
+    },
+    "induction": {
+        "i": 119,
+        "label": "induction"
+    },
+    "algebraic structures": {
+        "i": 120,
+        "label": "algebraic structures"
+    },
+    "computing": {
+        "i": 121,
+        "label": "computing"
+    },
+    "finite state": {
+        "i": 122,
+        "label": "finite state"
+    },
+    "machines": {
+        "i": 123,
+        "label": "machines"
+    },
+    "limits of": {
+        "i": 124,
+        "label": "limits of"
+    },
+    "computability": {
+        "i": 125,
+        "label": "computability"
+    },
+    "enumeration and": {
+        "i": 126,
+        "label": "enumeration and"
+    },
+    "discrete probability": {
+        "i": 127,
+        "label": "discrete probability"
+    },
+    "polynomial": {
+        "i": 128,
+        "label": "polynomial"
+    },
+    "time versus": {
+        "i": 129,
+        "label": "time versus"
+    },
+    "NP": {
+        "i": 130,
+        "label": "NP"
+    },
+    "completeness": {
+        "i": 131,
+        "label": "completeness"
+    },
+    "applications of randomness to computing": {
+        "i": 132,
+        "label": "applications of randomness to computing"
+    },
+    "design and": {
+        "i": 133,
+        "label": "design and"
+    },
+    "construction of": {
+        "i": 134,
+        "label": "construction of"
+    },
+    "reliable and": {
+        "i": 135,
+        "label": "reliable and"
+    },
+    "maintainable software": {
+        "i": 136,
+        "label": "maintainable software"
+    },
+    "systems in": {
+        "i": 137,
+        "label": "systems in"
+    },
+    "modern high": {
+        "i": 138,
+        "label": "modern high"
+    },
+    "level": {
+        "i": 139,
+        "label": "level"
+    },
+    "program structure": {
+        "i": 140,
+        "label": "program structure"
+    },
+    "program - correctness": {
+        "i": 141,
+        "label": "program - correctness"
+    },
+    "testing": {
+        "i": 142,
+        "label": "testing"
+    },
+    "event - driven": {
+        "i": 143,
+        "label": "event - driven"
+    },
+    "graphical user interface": {
+        "i": 144,
+        "label": "graphical user interface"
+    },
+    "project and": {
+        "i": 145,
+        "label": "project and"
+    },
+    "software - team": {
+        "i": 146,
+        "label": "software - team"
+    },
+    "data types": {
+        "i": 147,
+        "label": "data types"
+    },
+    "structures including": {
+        "i": 148,
+        "label": "structures including"
+    },
+    "dictionaries": {
+        "i": 149,
+        "label": "dictionaries"
+    },
+    "balanced trees": {
+        "i": 150,
+        "label": "balanced trees"
+    },
+    "hash tables": {
+        "i": 151,
+        "label": "hash tables"
+    },
+    "priority queues": {
+        "i": 152,
+        "label": "priority queues"
+    },
+    "graphs": {
+        "i": 153,
+        "label": "graphs"
+    },
+    "sorting": {
+        "i": 154,
+        "label": "sorting"
+    },
+    "asymptotic analysis": {
+        "i": 155,
+        "label": "asymptotic analysis"
+    },
+    "fundamental graph": {
+        "i": 156,
+        "label": "fundamental graph"
+    },
+    "algorithms including": {
+        "i": 157,
+        "label": "algorithms including"
+    },
+    "graph search": {
+        "i": 158,
+        "label": "graph search"
+    },
+    "shortest path": {
+        "i": 159,
+        "label": "shortest path"
+    },
+    "minimum spanning trees": {
+        "i": 160,
+        "label": "minimum spanning trees"
+    },
+    "concurrency and": {
+        "i": 161,
+        "label": "concurrency and"
+    },
+    "synchronization": {
+        "i": 162,
+        "label": "synchronization"
+    },
+    "parallelism": {
+        "i": 163,
+        "label": "parallelism"
+    },
+    "CSE 373": {
+        "i": 164,
+        "label": "CSE 373"
+    },
+    "languages that": {
+        "i": 165,
+        "label": "languages that"
+    },
+    "machine characteristics": {
+        "i": 166,
+        "label": "machine characteristics"
+    },
+    "low": {
+        "i": 167,
+        "label": "low"
+    },
+    "level data": {
+        "i": 168,
+        "label": "level data"
+    },
+    "representation": {
+        "i": 169,
+        "label": "representation"
+    },
+    "C and": {
+        "i": 170,
+        "label": "C and"
+    },
+    "C": {
+        "i": 171,
+        "label": "C"
+    },
+    "explicit memory": {
+        "i": 172,
+        "label": "explicit memory"
+    },
+    "operating - system": {
+        "i": 173,
+        "label": "operating - system"
+    },
+    "services": {
+        "i": 174,
+        "label": "services"
+    },
+    "cache - aware programming": {
+        "i": 175,
+        "label": "cache - aware programming"
+    },
+    "User interfaces": {
+        "i": 176,
+        "label": "User interfaces"
+    },
+    "computing systems": {
+        "i": 177,
+        "label": "computing systems"
+    },
+    "principles and": {
+        "i": 178,
+        "label": "principles and"
+    },
+    "implementation techniques": {
+        "i": 179,
+        "label": "implementation techniques"
+    },
+    "programming paradigms": {
+        "i": 180,
+        "label": "programming paradigms"
+    },
+    "interactive systems": {
+        "i": 181,
+        "label": "interactive systems"
+    },
+    "event handling": {
+        "i": 182,
+        "label": "event handling"
+    },
+    "graphical layout": {
+        "i": 183,
+        "label": "graphical layout"
+    },
+    "widgets": {
+        "i": 184,
+        "label": "widgets"
+    },
+    "undo": {
+        "i": 185,
+        "label": "undo"
+    },
+    "accessibility": {
+        "i": 186,
+        "label": "accessibility"
+    },
+    "context awareness": {
+        "i": 187,
+        "label": "context awareness"
+    },
+    "modern application": {
+        "i": 188,
+        "label": "modern application"
+    },
+    "domains and": {
+        "i": 189,
+        "label": "domains and"
+    },
+    "frameworks": {
+        "i": 190,
+        "label": "frameworks"
+    },
+    "mobile applications": {
+        "i": 191,
+        "label": "mobile applications"
+    },
+    "programming languages": {
+        "i": 192,
+        "label": "programming languages"
+    },
+    "abstraction mechanisms": {
+        "i": 193,
+        "label": "abstraction mechanisms"
+    },
+    "types": {
+        "i": 194,
+        "label": "types"
+    },
+    "scoping": {
+        "i": 195,
+        "label": "scoping"
+    },
+    "functional": {
+        "i": 196,
+        "label": "functional"
+    },
+    "object": {
+        "i": 197,
+        "label": "object"
+    },
+    "oriented": {
+        "i": 198,
+        "label": "oriented"
+    },
+    "logic programming": {
+        "i": 199,
+        "label": "logic programming"
+    },
+    "CSE 413": {
+        "i": 200,
+        "label": "CSE 413"
+    },
+    "database management systems": {
+        "i": 201,
+        "label": "database management systems"
+    },
+    "writing applications": {
+        "i": 202,
+        "label": "writing applications"
+    },
+    "such systems": {
+        "i": 203,
+        "label": "such systems"
+    },
+    "data models": {
+        "i": 204,
+        "label": "data models"
+    },
+    "relational": {
+        "i": 205,
+        "label": "relational"
+    },
+    "semi - structured": {
+        "i": 206,
+        "label": "semi - structured"
+    },
+    "query languages": {
+        "i": 207,
+        "label": "query languages"
+    },
+    "SQL": {
+        "i": 208,
+        "label": "SQL"
+    },
+    "XQuery": {
+        "i": 209,
+        "label": "XQuery"
+    },
+    "language bindings": {
+        "i": 210,
+        "label": "language bindings"
+    },
+    "conceptual modeling": {
+        "i": 211,
+        "label": "conceptual modeling"
+    },
+    "transactions": {
+        "i": 212,
+        "label": "transactions"
+    },
+    "security": {
+        "i": 213,
+        "label": "security"
+    },
+    "database tuning": {
+        "i": 214,
+        "label": "database tuning"
+    },
+    "data warehousing": {
+        "i": 215,
+        "label": "data warehousing"
+    },
+    "Web - data management": {
+        "i": 216,
+        "label": "Web - data management"
+    },
+    "computational abstraction": {
+        "i": 217,
+        "label": "computational abstraction"
+    },
+    "number representation": {
+        "i": 218,
+        "label": "number representation"
+    },
+    "assembly language": {
+        "i": 219,
+        "label": "assembly language"
+    },
+    "memory management": {
+        "i": 220,
+        "label": "memory management"
+    },
+    "the memory": {
+        "i": 221,
+        "label": "the memory"
+    },
+    "hierarchy": {
+        "i": 222,
+        "label": "hierarchy"
+    },
+    "high": {
+        "i": 223,
+        "label": "high"
+    },
+    "level languages": {
+        "i": 224,
+        "label": "level languages"
+    },
+    "modern high - level languages": {
+        "i": 225,
+        "label": "modern high - level languages"
+    },
+    "introduction to C": {
+        "i": 226,
+        "label": "introduction to C"
+    },
+    "the operating - system process model": {
+        "i": 227,
+        "label": "the operating - system process model"
+    },
+    "high - level machine architecture": {
+        "i": 228,
+        "label": "high - level machine architecture"
+    },
+    "digital circuit": {
+        "i": 229,
+        "label": "digital circuit"
+    },
+    "processor design": {
+        "i": 230,
+        "label": "processor design"
+    },
+    "systems integration": {
+        "i": 231,
+        "label": "systems integration"
+    },
+    "embedded": {
+        "i": 232,
+        "label": "embedded"
+    },
+    "systems issues": {
+        "i": 233,
+        "label": "systems issues"
+    },
+    "hardware laboratory": {
+        "i": 234,
+        "label": "hardware laboratory"
+    },
+    "digital logic": {
+        "i": 235,
+        "label": "digital logic"
+    },
+    "Boolean algebra": {
+        "i": 236,
+        "label": "Boolean algebra"
+    },
+    "combinational circuits": {
+        "i": 237,
+        "label": "combinational circuits"
+    },
+    "including arithmetic": {
+        "i": 238,
+        "label": "including arithmetic"
+    },
+    "circuits and": {
+        "i": 239,
+        "label": "circuits and"
+    },
+    "regular structures": {
+        "i": 240,
+        "label": "regular structures"
+    },
+    "sequential circuits": {
+        "i": 241,
+        "label": "sequential circuits"
+    },
+    "finitestate": {
+        "i": 242,
+        "label": "finitestate"
+    },
+    "field - programmable": {
+        "i": 243,
+        "label": "field - programmable"
+    },
+    "gate arrays": {
+        "i": 244,
+        "label": "gate arrays"
+    },
+    "FPGAs": {
+        "i": 245,
+        "label": "FPGAs"
+    },
+    "simulation": {
+        "i": 246,
+        "label": "simulation"
+    },
+    "level specification": {
+        "i": 247,
+        "label": "level specification"
+    },
+    "automatic synthesis": {
+        "i": 248,
+        "label": "automatic synthesis"
+    },
+    "specification and simulation": {
+        "i": 249,
+        "label": "specification and simulation"
+    },
+    "modeling complex": {
+        "i": 250,
+        "label": "modeling complex"
+    },
+    "digital systems": {
+        "i": 251,
+        "label": "digital systems"
+    },
+    "Verilog hardware": {
+        "i": 252,
+        "label": "Verilog hardware"
+    },
+    "description language": {
+        "i": 253,
+        "label": "description language"
+    },
+    "maintaining signal": {
+        "i": 254,
+        "label": "maintaining signal"
+    },
+    "integrity": {
+        "i": 255,
+        "label": "integrity"
+    },
+    "managing power": {
+        "i": 256,
+        "label": "managing power"
+    },
+    "consumption": {
+        "i": 257,
+        "label": "consumption"
+    },
+    "robust intra": {
+        "i": 258,
+        "label": "robust intra"
+    },
+    "inter": {
+        "i": 259,
+        "label": "inter"
+    },
+    "system communication": {
+        "i": 260,
+        "label": "system communication"
+    },
+    "algorithms": {
+        "i": 261,
+        "label": "algorithms"
+    },
+    "data structures": {
+        "i": 262,
+        "label": "data structures"
+    },
+    "implementation": {
+        "i": 263,
+        "label": "implementation"
+    },
+    "solving problems": {
+        "i": 264,
+        "label": "solving problems"
+    },
+    "by programming": {
+        "i": 265,
+        "label": "by programming"
+    },
+    "Linked lists": {
+        "i": 266,
+        "label": "Linked lists"
+    },
+    "directed graphs": {
+        "i": 267,
+        "label": "directed graphs"
+    },
+    "Trees": {
+        "i": 268,
+        "label": "Trees"
+    },
+    "representations": {
+        "i": 269,
+        "label": "representations"
+    },
+    "traversals": {
+        "i": 270,
+        "label": "traversals"
+    },
+    "Searching": {
+        "i": 271,
+        "label": "Searching"
+    },
+    "hashing": {
+        "i": 272,
+        "label": "hashing"
+    },
+    "binary search trees": {
+        "i": 273,
+        "label": "binary search trees"
+    },
+    "multiway trees": {
+        "i": 274,
+        "label": "multiway trees"
+    },
+    "Garbage collection": {
+        "i": 275,
+        "label": "Garbage collection"
+    },
+    "Internal and": {
+        "i": 276,
+        "label": "Internal and"
+    },
+    "external sorting": {
+        "i": 277,
+        "label": "external sorting"
+    },
+    "non - majors": {
+        "i": 278,
+        "label": "non - majors"
+    },
+    "CSE 332": {
+        "i": 279,
+        "label": "CSE 332"
+    },
+    "software development": {
+        "i": 280,
+        "label": "software development"
+    },
+    "lower": {
+        "i": 281,
+        "label": "lower"
+    },
+    "level programming": {
+        "i": 282,
+        "label": "level programming"
+    },
+    "individual and": {
+        "i": 283,
+        "label": "individual and"
+    },
+    "group software": {
+        "i": 284,
+        "label": "group software"
+    },
+    "development": {
+        "i": 285,
+        "label": "development"
+    },
+    "testing strategies": {
+        "i": 286,
+        "label": "testing strategies"
+    },
+    "introductory courses": {
+        "i": 287,
+        "label": "introductory courses"
+    },
+    "CSE 333": {
+        "i": 288,
+        "label": "CSE 333"
+    },
+    "System and Software Tools": {
+        "i": 289,
+        "label": "System and Software Tools"
+    },
+    "Unix / Linux": {
+        "i": 290,
+        "label": "Unix / Linux"
+    },
+    "command line interface": {
+        "i": 291,
+        "label": "command line interface"
+    },
+    "CLI": {
+        "i": 292,
+        "label": "CLI"
+    },
+    "Shell scripting": {
+        "i": 293,
+        "label": "Shell scripting"
+    },
+    "compilation tools": {
+        "i": 294,
+        "label": "compilation tools"
+    },
+    "CSE Leadership": {
+        "i": 295,
+        "label": "CSE Leadership"
+    },
+    "CSE 390L": {
+        "i": 296,
+        "label": "CSE 390L"
+    },
+    "CR": {
+        "i": 297,
+        "label": "CR"
+    },
+    "NC": {
+        "i": 298,
+        "label": "NC"
+    },
+    "CSE alumni": {
+        "i": 299,
+        "label": "CSE alumni"
+    },
+    "Seminar Series": {
+        "i": 300,
+        "label": "Seminar Series"
+    },
+    "one - credit": {
+        "i": 301,
+        "label": "one - credit"
+    },
+    "less common environment": {
+        "i": 302,
+        "label": "less common environment"
+    },
+    "startup": {
+        "i": 303,
+        "label": "startup"
+    },
+    "small company": {
+        "i": 304,
+        "label": "small company"
+    },
+    "large company": {
+        "i": 305,
+        "label": "large company"
+    },
+    "wiki": {
+        "i": 306,
+        "label": "wiki"
+    },
+    "UW CSE": {
+        "i": 307,
+        "label": "UW CSE"
+    },
+    "CSE 311": {
+        "i": 308,
+        "label": "CSE 311"
+    },
+    "transfer": {
+        "i": 309,
+        "label": "transfer"
+    },
+    "lecture": {
+        "i": 310,
+        "label": "lecture"
+    },
+    "homework styles": {
+        "i": 311,
+        "label": "homework styles"
+    },
+    "UW": {
+        "i": 312,
+        "label": "UW"
+    },
+    "academic planning": {
+        "i": 313,
+        "label": "academic planning"
+    },
+    "time": {
+        "i": 314,
+        "label": "time"
+    },
+    "class planning": {
+        "i": 315,
+        "label": "class planning"
+    },
+    "internships": {
+        "i": 316,
+        "label": "internships"
+    },
+    "industry": {
+        "i": 317,
+        "label": "industry"
+    },
+    "a command": {
+        "i": 318,
+        "label": "a command"
+    },
+    "line": {
+        "i": 319,
+        "label": "line"
+    },
+    "interface": {
+        "i": 320,
+        "label": "interface"
+    },
+    "writing scripts": {
+        "i": 321,
+        "label": "writing scripts"
+    },
+    "file and": {
+        "i": 322,
+        "label": "file and"
+    },
+    "string manipulation": {
+        "i": 323,
+        "label": "string manipulation"
+    },
+    "managing user": {
+        "i": 324,
+        "label": "managing user"
+    },
+    "permissions": {
+        "i": 325,
+        "label": "permissions"
+    },
+    "manipulating text": {
+        "i": 326,
+        "label": "manipulating text"
+    },
+    "with regular": {
+        "i": 327,
+        "label": "with regular"
+    },
+    "expressions": {
+        "i": 328,
+        "label": "expressions"
+    },
+    "build - management tools": {
+        "i": 329,
+        "label": "build - management tools"
+    },
+    "version - control systems": {
+        "i": 330,
+        "label": "version - control systems"
+    },
+    "division computer": {
+        "i": 331,
+        "label": "division computer"
+    },
+    "science or": {
+        "i": 332,
+        "label": "science or"
+    },
+    "study abroad": {
+        "i": 333,
+        "label": "study abroad"
+    },
+    "University of Washington": {
+        "i": 334,
+        "label": "University of Washington"
+    },
+    "compilers and": {
+        "i": 335,
+        "label": "compilers and"
+    },
+    "interpreters": {
+        "i": 336,
+        "label": "interpreters"
+    },
+    "symbol tables": {
+        "i": 337,
+        "label": "symbol tables"
+    },
+    "lexical analysis": {
+        "i": 338,
+        "label": "lexical analysis"
+    },
+    "syntax analysis": {
+        "i": 339,
+        "label": "syntax analysis"
+    },
+    "semantic analysis": {
+        "i": 340,
+        "label": "semantic analysis"
+    },
+    "code generation": {
+        "i": 341,
+        "label": "code generation"
+    },
+    "optimizations for": {
+        "i": 342,
+        "label": "optimizations for"
+    },
+    "general purpose": {
+        "i": 343,
+        "label": "general purpose"
+    },
+    "domain": {
+        "i": 344,
+        "label": "domain"
+    },
+    "specific languages": {
+        "i": 345,
+        "label": "specific languages"
+    },
+    "new programming": {
+        "i": 346,
+        "label": "new programming"
+    },
+    "abstractions": {
+        "i": 347,
+        "label": "abstractions"
+    },
+    "formal and": {
+        "i": 348,
+        "label": "formal and"
+    },
+    "informal language specification techniques": {
+        "i": 349,
+        "label": "informal language specification techniques"
+    },
+    "implementation strategies": {
+        "i": 350,
+        "label": "implementation strategies"
+    },
+    "language analysis": {
+        "i": 351,
+        "label": "language analysis"
+    },
+    "execution on": {
+        "i": 352,
+        "label": "execution on"
+    },
+    "traditional and": {
+        "i": 353,
+        "label": "traditional and"
+    },
+    "non": {
+        "i": 354,
+        "label": "non"
+    },
+    "traditional computing": {
+        "i": 355,
+        "label": "traditional computing"
+    },
+    "platforms": {
+        "i": 356,
+        "label": "platforms"
+    },
+    "appropriate software": {
+        "i": 357,
+        "label": "appropriate software"
+    },
+    "development environments": {
+        "i": 358,
+        "label": "development environments"
+    },
+    "novel DSLs": {
+        "i": 359,
+        "label": "novel DSLs"
+    },
+    "software engineering": {
+        "i": 360,
+        "label": "software engineering"
+    },
+    "group project": {
+        "i": 361,
+        "label": "group project"
+    },
+    "software crisis": {
+        "i": 362,
+        "label": "software crisis"
+    },
+    "requirements specification": {
+        "i": 363,
+        "label": "requirements specification"
+    },
+    "architectural and": {
+        "i": 364,
+        "label": "architectural and"
+    },
+    "detailed design": {
+        "i": 365,
+        "label": "detailed design"
+    },
+    "testing and": {
+        "i": 366,
+        "label": "testing and"
+    },
+    "analysis": {
+        "i": 367,
+        "label": "analysis"
+    },
+    "software process": {
+        "i": 368,
+        "label": "software process"
+    },
+    "environments": {
+        "i": 369,
+        "label": "environments"
+    },
+    "hardware and": {
+        "i": 370,
+        "label": "hardware and"
+    },
+    "software systems": {
+        "i": 371,
+        "label": "software systems"
+    },
+    "Machine organization": {
+        "i": 372,
+        "label": "Machine organization"
+    },
+    "central processor": {
+        "i": 373,
+        "label": "central processor"
+    },
+    "input": {
+        "i": 374,
+        "label": "input"
+    },
+    "output architectures": {
+        "i": 375,
+        "label": "output architectures"
+    },
+    "programming": {
+        "i": 376,
+        "label": "programming"
+    },
+    "operating systems": {
+        "i": 377,
+        "label": "operating systems"
+    },
+    "including process": {
+        "i": 378,
+        "label": "including process"
+    },
+    "storage": {
+        "i": 379,
+        "label": "storage"
+    },
+    "file management": {
+        "i": 380,
+        "label": "file management"
+    },
+    "CSE 351": {
+        "i": 381,
+        "label": "CSE 351"
+    },
+    "CSE 451": {
+        "i": 382,
+        "label": "CSE 451"
+    },
+    "data visualization design": {
+        "i": 383,
+        "label": "data visualization design"
+    },
+    "data exploration": {
+        "i": 384,
+        "label": "data exploration"
+    },
+    "explanation": {
+        "i": 385,
+        "label": "explanation"
+    },
+    "creating effective": {
+        "i": 386,
+        "label": "creating effective"
+    },
+    "visualizations using": {
+        "i": 387,
+        "label": "visualizations using"
+    },
+    "graphic design": {
+        "i": 388,
+        "label": "graphic design"
+    },
+    "psychology": {
+        "i": 389,
+        "label": "psychology"
+    },
+    "statistics": {
+        "i": 390,
+        "label": "statistics"
+    },
+    "visual encoding": {
+        "i": 391,
+        "label": "visual encoding"
+    },
+    "data preparation": {
+        "i": 392,
+        "label": "data preparation"
+    },
+    "exploratory analysis": {
+        "i": 393,
+        "label": "exploratory analysis"
+    },
+    "uncertainty": {
+        "i": 394,
+        "label": "uncertainty"
+    },
+    "cartography": {
+        "i": 395,
+        "label": "cartography"
+    },
+    "interaction techniques": {
+        "i": 396,
+        "label": "interaction techniques"
+    },
+    "visual perception": {
+        "i": 397,
+        "label": "visual perception"
+    },
+    "evaluation methods": {
+        "i": 398,
+        "label": "evaluation methods"
+    },
+    "CSE 442": {
+        "i": 399,
+        "label": "CSE 442"
+    },
+    "modern functional": {
+        "i": 400,
+        "label": "modern functional"
+    },
+    "oriented programming": {
+        "i": 401,
+        "label": "oriented programming"
+    },
+    "languages such": {
+        "i": 402,
+        "label": "languages such"
+    },
+    "Scheme and": {
+        "i": 403,
+        "label": "Scheme and"
+    },
+    "Java": {
+        "i": 404,
+        "label": "Java"
+    },
+    "CSE 341": {
+        "i": 405,
+        "label": "CSE 341"
+    },
+    "CSE 401": {
+        "i": 406,
+        "label": "CSE 401"
+    },
+    "systems": {
+        "i": 407,
+        "label": "systems"
+    },
+    "CSE 344": {
+        "i": 408,
+        "label": "CSE 344"
+    },
+    "programming techniques": {
+        "i": 409,
+        "label": "programming techniques"
+    },
+    "artificial intelligence": {
+        "i": 410,
+        "label": "artificial intelligence"
+    },
+    "Python": {
+        "i": 411,
+        "label": "Python"
+    },
+    "symbol manipulation": {
+        "i": 412,
+        "label": "symbol manipulation"
+    },
+    "knowledge representation": {
+        "i": 413,
+        "label": "knowledge representation"
+    },
+    "logical and": {
+        "i": 414,
+        "label": "logical and"
+    },
+    "probabilistic reasoning": {
+        "i": 415,
+        "label": "probabilistic reasoning"
+    },
+    "learning": {
+        "i": 416,
+        "label": "learning"
+    },
+    "language understanding": {
+        "i": 417,
+        "label": "language understanding"
+    },
+    "vision": {
+        "i": 418,
+        "label": "vision"
+    },
+    "expert systems": {
+        "i": 419,
+        "label": "expert systems"
+    },
+    "social issues": {
+        "i": 420,
+        "label": "social issues"
+    },
+    "CSE 473": {
+        "i": 421,
+        "label": "CSE 473"
+    },
+    "machines learning": {
+        "i": 422,
+        "label": "machines learning"
+    },
+    "regression": {
+        "i": 423,
+        "label": "regression"
+    },
+    "classification": {
+        "i": 424,
+        "label": "classification"
+    },
+    "clustering": {
+        "i": 425,
+        "label": "clustering"
+    },
+    "retrieval": {
+        "i": 426,
+        "label": "retrieval"
+    },
+    "recommender systems": {
+        "i": 427,
+        "label": "recommender systems"
+    },
+    "deep learning": {
+        "i": 428,
+        "label": "deep learning"
+    },
+    "intuitive understanding": {
+        "i": 429,
+        "label": "intuitive understanding"
+    },
+    "real": {
+        "i": 430,
+        "label": "real"
+    },
+    "world applications": {
+        "i": 431,
+        "label": "world applications"
+    },
+    "Intelligent applications": {
+        "i": 432,
+        "label": "Intelligent applications"
+    },
+    "make predictions": {
+        "i": 433,
+        "label": "make predictions"
+    },
+    "large": {
+        "i": 434,
+        "label": "large"
+    },
+    "complex datasets": {
+        "i": 435,
+        "label": "complex datasets"
+    },
+    "algorithms and": {
+        "i": 436,
+        "label": "algorithms and"
+    },
+    "algorithms for": {
+        "i": 437,
+        "label": "algorithms for"
+    },
+    "manipulating graphs": {
+        "i": 438,
+        "label": "manipulating graphs"
+    },
+    "and strings": {
+        "i": 439,
+        "label": "and strings"
+    },
+    "Fast Fourier": {
+        "i": 440,
+        "label": "Fast Fourier"
+    },
+    "Transform": {
+        "i": 441,
+        "label": "Transform"
+    },
+    "Turing machines": {
+        "i": 442,
+        "label": "Turing machines"
+    },
+    "Time and": {
+        "i": 443,
+        "label": "Time and"
+    },
+    "space complexity": {
+        "i": 444,
+        "label": "space complexity"
+    },
+    "complete problems": {
+        "i": 445,
+        "label": "complete problems"
+    },
+    "undecidable problems": {
+        "i": 446,
+        "label": "undecidable problems"
+    },
+    "Models of computation": {
+        "i": 447,
+        "label": "Models of computation"
+    },
+    "design of efficient algorithms": {
+        "i": 448,
+        "label": "design of efficient algorithms"
+    },
+    "lower bounds": {
+        "i": 449,
+        "label": "lower bounds"
+    },
+    "computational complexity": {
+        "i": 450,
+        "label": "computational complexity"
+    },
+    "set manipulation": {
+        "i": 451,
+        "label": "set manipulation"
+    },
+    "arithmetic": {
+        "i": 452,
+        "label": "arithmetic"
+    },
+    "graph problems": {
+        "i": 453,
+        "label": "graph problems"
+    },
+    "pattern matching": {
+        "i": 454,
+        "label": "pattern matching"
+    },
+    "analytic techniques": {
+        "i": 455,
+        "label": "analytic techniques"
+    },
+    "analysis of": {
+        "i": 456,
+        "label": "analysis of"
+    },
+    "scale biological": {
+        "i": 457,
+        "label": "scale biological"
+    },
+    "data sets": {
+        "i": 458,
+        "label": "data sets"
+    },
+    "DNA": {
+        "i": 459,
+        "label": "DNA"
+    },
+    "RNA": {
+        "i": 460,
+        "label": "RNA"
+    },
+    "and protein": {
+        "i": 461,
+        "label": "and protein"
+    },
+    "sequences or": {
+        "i": 462,
+        "label": "sequences or"
+    },
+    "expression and": {
+        "i": 463,
+        "label": "expression and"
+    },
+    "proteomic profiling": {
+        "i": 464,
+        "label": "proteomic profiling"
+    },
+    "analysis tools": {
+        "i": 465,
+        "label": "analysis tools"
+    },
+    "genome markers": {
+        "i": 466,
+        "label": "genome markers"
+    },
+    "sequence alignment": {
+        "i": 467,
+        "label": "sequence alignment"
+    },
+    "BLAST": {
+        "i": 468,
+        "label": "BLAST"
+    },
+    "phylogenetics": {
+        "i": 469,
+        "label": "phylogenetics"
+    },
+    "Markov models": {
+        "i": 470,
+        "label": "Markov models"
+    },
+    "software tool": {
+        "i": 471,
+        "label": "software tool"
+    },
+    "software analysis": {
+        "i": 472,
+        "label": "software analysis"
+    },
+    "computational molecular": {
+        "i": 473,
+        "label": "computational molecular"
+    },
+    "biology": {
+        "i": 474,
+        "label": "biology"
+    },
+    "computation": {
+        "i": 475,
+        "label": "computation"
+    },
+    "computable and": {
+        "i": 476,
+        "label": "computable and"
+    },
+    "noncomputable functions": {
+        "i": 477,
+        "label": "noncomputable functions"
+    },
+    "space and": {
+        "i": 478,
+        "label": "space and"
+    },
+    "time complexity": {
+        "i": 479,
+        "label": "time complexity"
+    },
+    "tractable and": {
+        "i": 480,
+        "label": "tractable and"
+    },
+    "intractable functions": {
+        "i": 481,
+        "label": "intractable functions"
+    },
+    "Human - Computer Interaction": {
+        "i": 482,
+        "label": "Human - Computer Interaction"
+    },
+    "HCI ) theory": {
+        "i": 483,
+        "label": "HCI ) theory"
+    },
+    "designing": {
+        "i": 484,
+        "label": "designing"
+    },
+    "prototyping": {
+        "i": 485,
+        "label": "prototyping"
+    },
+    "evaluating user": {
+        "i": 486,
+        "label": "evaluating user"
+    },
+    "interfaces to": {
+        "i": 487,
+        "label": "interfaces to"
+    },
+    "computing applications": {
+        "i": 488,
+        "label": "computing applications"
+    },
+    "Human capabilities": {
+        "i": 489,
+        "label": "Human capabilities"
+    },
+    "interface technology": {
+        "i": 490,
+        "label": "interface technology"
+    },
+    "interface design methods": {
+        "i": 491,
+        "label": "interface design methods"
+    },
+    "interface evaluation tools": {
+        "i": 492,
+        "label": "interface evaluation tools"
+    },
+    "Novel interface technology": {
+        "i": 493,
+        "label": "Novel interface technology"
+    },
+    "advanced interface design methods": {
+        "i": 494,
+        "label": "advanced interface design methods"
+    },
+    "prototyping tools": {
+        "i": 495,
+        "label": "prototyping tools"
+    },
+    "effective visualizations": {
+        "i": 496,
+        "label": "effective visualizations"
+    },
+    "of data": {
+        "i": 497,
+        "label": "of data"
+    },
+    "perceptual psychology": {
+        "i": 498,
+        "label": "perceptual psychology"
+    },
+    "visual encoding models": {
+        "i": 499,
+        "label": "visual encoding models"
+    },
+    "exploratory data": {
+        "i": 500,
+        "label": "exploratory data"
+    },
+    "visualization software": {
+        "i": 501,
+        "label": "visualization software"
+    },
+    "graphical perception": {
+        "i": 502,
+        "label": "graphical perception"
+    },
+    "color": {
+        "i": 503,
+        "label": "color"
+    },
+    "animation": {
+        "i": 504,
+        "label": "animation"
+    },
+    "dimensional data": {
+        "i": 505,
+        "label": "dimensional data"
+    },
+    "network visualization": {
+        "i": 506,
+        "label": "network visualization"
+    },
+    "text visualization": {
+        "i": 507,
+        "label": "text visualization"
+    },
+    "relational data model": {
+        "i": 508,
+        "label": "relational data model"
+    },
+    "SQL query language": {
+        "i": 509,
+        "label": "SQL query language"
+    },
+    "entity": {
+        "i": 510,
+        "label": "entity"
+    },
+    "relationships": {
+        "i": 511,
+        "label": "relationships"
+    },
+    "normal forms": {
+        "i": 512,
+        "label": "normal forms"
+    },
+    "XML": {
+        "i": 513,
+        "label": "XML"
+    },
+    "XPath": {
+        "i": 514,
+        "label": "XPath"
+    },
+    "recovery": {
+        "i": 515,
+        "label": "recovery"
+    },
+    "concurrency control": {
+        "i": 516,
+        "label": "concurrency control"
+    },
+    "rational database": {
+        "i": 517,
+        "label": "rational database"
+    },
+    "backend": {
+        "i": 518,
+        "label": "backend"
+    },
+    "Conceptual modeling": {
+        "i": 519,
+        "label": "Conceptual modeling"
+    },
+    "Implementation of a database system": {
+        "i": 520,
+        "label": "Implementation of a database system"
+    },
+    "medium sized project": {
+        "i": 521,
+        "label": "medium sized project"
+    },
+    "systems that": {
+        "i": 522,
+        "label": "systems that"
+    },
+    "learn from": {
+        "i": 523,
+        "label": "learn from"
+    },
+    "data and": {
+        "i": 524,
+        "label": "data and"
+    },
+    "with experience": {
+        "i": 525,
+        "label": "with experience"
+    },
+    "Supervised learning": {
+        "i": 526,
+        "label": "Supervised learning"
+    },
+    "predictive modeling": {
+        "i": 527,
+        "label": "predictive modeling"
+    },
+    "decision trees": {
+        "i": 528,
+        "label": "decision trees"
+    },
+    "rule induction": {
+        "i": 529,
+        "label": "rule induction"
+    },
+    "nearest neighbors": {
+        "i": 530,
+        "label": "nearest neighbors"
+    },
+    "Bayesian methods": {
+        "i": 531,
+        "label": "Bayesian methods"
+    },
+    "neural networks": {
+        "i": 532,
+        "label": "neural networks"
+    },
+    "support vector machines": {
+        "i": 533,
+        "label": "support vector machines"
+    },
+    "model ensembles": {
+        "i": 534,
+        "label": "model ensembles"
+    },
+    "Unsupervised learning": {
+        "i": 535,
+        "label": "Unsupervised learning"
+    },
+    "usefully and/or": {
+        "i": 536,
+        "label": "usefully and/or"
+    },
+    "intelligently process": {
+        "i": 537,
+        "label": "intelligently process"
+    },
+    "natural language": {
+        "i": 538,
+        "label": "natural language"
+    },
+    "text data": {
+        "i": 539,
+        "label": "text data"
+    },
+    "Language models": {
+        "i": 540,
+        "label": "Language models"
+    },
+    "text categorization": {
+        "i": 541,
+        "label": "text categorization"
+    },
+    "syntactic and": {
+        "i": 542,
+        "label": "syntactic and"
+    },
+    "machine translation": {
+        "i": 543,
+        "label": "machine translation"
+    },
+    "data - driven": {
+        "i": 544,
+        "label": "data - driven"
+    },
+    "digital animation": {
+        "i": 545,
+        "label": "digital animation"
+    },
+    "films": {
+        "i": 546,
+        "label": "films"
+    },
+    "animated feature": {
+        "i": 547,
+        "label": "animated feature"
+    },
+    "television commercials": {
+        "i": 548,
+        "label": "television commercials"
+    },
+    "technical and": {
+        "i": 549,
+        "label": "technical and"
+    },
+    "aesthetic basics": {
+        "i": 550,
+        "label": "aesthetic basics"
+    },
+    "animation production": {
+        "i": 551,
+        "label": "animation production"
+    },
+    "industry studio": {
+        "i": 552,
+        "label": "industry studio"
+    },
+    "Process management": {
+        "i": 553,
+        "label": "Process management"
+    },
+    "auxiliary storage management": {
+        "i": 554,
+        "label": "auxiliary storage management"
+    },
+    "resource allocation": {
+        "i": 555,
+        "label": "resource allocation"
+    },
+    "CSE 410": {
+        "i": 556,
+        "label": "CSE 410"
+    },
+    "abstractions and": {
+        "i": 557,
+        "label": "abstractions and"
+    },
+    "cloud computing": {
+        "i": 558,
+        "label": "cloud computing"
+    },
+    "distributed storage systems": {
+        "i": 559,
+        "label": "distributed storage systems"
+    },
+    "distributed caches": {
+        "i": 560,
+        "label": "distributed caches"
+    },
+    "construction of distributed systems": {
+        "i": 561,
+        "label": "construction of distributed systems"
+    },
+    "Internet search engines": {
+        "i": 562,
+        "label": "Internet search engines"
+    },
+    "spider architecture": {
+        "i": 563,
+        "label": "spider architecture"
+    },
+    "inverted indices": {
+        "i": 564,
+        "label": "inverted indices"
+    },
+    "frequency rankings": {
+        "i": 565,
+        "label": "frequency rankings"
+    },
+    "latent semantic indexing": {
+        "i": 566,
+        "label": "latent semantic indexing"
+    },
+    "hyperlink analysis": {
+        "i": 567,
+        "label": "hyperlink analysis"
+    },
+    "refinement interfaces": {
+        "i": 568,
+        "label": "refinement interfaces"
+    },
+    "scalable and": {
+        "i": 569,
+        "label": "scalable and"
+    },
+    "secure web": {
+        "i": 570,
+        "label": "secure web"
+    },
+    "webserver logs": {
+        "i": 571,
+        "label": "webserver logs"
+    },
+    "personalized and": {
+        "i": 572,
+        "label": "personalized and"
+    },
+    "user": {
+        "i": 573,
+        "label": "user"
+    },
+    "targeted services": {
+        "i": 574,
+        "label": "targeted services"
+    },
+    "image analysis": {
+        "i": 575,
+        "label": "image analysis"
+    },
+    "image data": {
+        "i": 576,
+        "label": "image data"
+    },
+    "segmentation": {
+        "i": 577,
+        "label": "segmentation"
+    },
+    "motion estimation": {
+        "i": 578,
+        "label": "motion estimation"
+    },
+    "image mosaics": {
+        "i": 579,
+        "label": "image mosaics"
+    },
+    "3D": {
+        "i": 580,
+        "label": "3D"
+    },
+    "shape reconstruction": {
+        "i": 581,
+        "label": "shape reconstruction"
+    },
+    "object recognition": {
+        "i": 582,
+        "label": "object recognition"
+    },
+    "image retrieval": {
+        "i": 583,
+        "label": "image retrieval"
+    },
+    "interpreting the 3D world": {
+        "i": 584,
+        "label": "interpreting the 3D world"
+    },
+    "Animation principles": {
+        "i": 585,
+        "label": "Animation principles"
+    },
+    "story development": {
+        "i": 586,
+        "label": "story development"
+    },
+    "storyreels": {
+        "i": 587,
+        "label": "storyreels"
+    },
+    "authoring tools": {
+        "i": 588,
+        "label": "authoring tools"
+    },
+    "finished work": {
+        "i": 589,
+        "label": "finished work"
+    },
+    "Design , development": {
+        "i": 590,
+        "label": "Design , development"
+    },
+    "pre - production of animated features and shorts": {
+        "i": 591,
+        "label": "pre - production of animated features and shorts"
+    },
+    "computer image synthesis": {
+        "i": 592,
+        "label": "computer image synthesis"
+    },
+    "modeling": {
+        "i": 593,
+        "label": "modeling"
+    },
+    "displays and": {
+        "i": 594,
+        "label": "displays and"
+    },
+    "framebuffers": {
+        "i": 595,
+        "label": "framebuffers"
+    },
+    "image processing": {
+        "i": 596,
+        "label": "image processing"
+    },
+    "affine and": {
+        "i": 597,
+        "label": "affine and"
+    },
+    "projective transformations": {
+        "i": 598,
+        "label": "projective transformations"
+    },
+    "hierarchical modeling": {
+        "i": 599,
+        "label": "hierarchical modeling"
+    },
+    "hidden surface elimination": {
+        "i": 600,
+        "label": "hidden surface elimination"
+    },
+    "shading": {
+        "i": 601,
+        "label": "shading"
+    },
+    "ray": {
+        "i": 602,
+        "label": "ray"
+    },
+    "tracing": {
+        "i": 603,
+        "label": "tracing"
+    },
+    "anti": {
+        "i": 604,
+        "label": "anti"
+    },
+    "aliasing": {
+        "i": 605,
+        "label": "aliasing"
+    },
+    "texture mapping": {
+        "i": 606,
+        "label": "texture mapping"
+    },
+    "curves": {
+        "i": 607,
+        "label": "curves"
+    },
+    "surfaces": {
+        "i": 608,
+        "label": "surfaces"
+    },
+    "particle systems": {
+        "i": 609,
+        "label": "particle systems"
+    },
+    "dynamics": {
+        "i": 610,
+        "label": "dynamics"
+    },
+    "character animation": {
+        "i": 611,
+        "label": "character animation"
+    },
+    "animation principles": {
+        "i": 612,
+        "label": "animation principles"
+    },
+    "computer generated": {
+        "i": 613,
+        "label": "computer generated"
+    },
+    "lighting of": {
+        "i": 614,
+        "label": "lighting of"
+    },
+    "animated characters": {
+        "i": 615,
+        "label": "animated characters"
+    },
+    "art": {
+        "i": 616,
+        "label": "art"
+    },
+    "music": {
+        "i": 617,
+        "label": "music"
+    },
+    "commercially": {
+        "i": 618,
+        "label": "commercially"
+    },
+    "available modeling": {
+        "i": 619,
+        "label": "available modeling"
+    },
+    "lighting packages": {
+        "i": 620,
+        "label": "lighting packages"
+    },
+    "CSE": {
+        "i": 621,
+        "label": "CSE"
+    },
+    "collaboratively designed": {
+        "i": 622,
+        "label": "collaboratively designed"
+    },
+    "animated shorts": {
+        "i": 623,
+        "label": "animated shorts"
+    },
+    "classical and": {
+        "i": 624,
+        "label": "classical and"
+    },
+    "works": {
+        "i": 625,
+        "label": "works"
+    },
+    "Character design": {
+        "i": 626,
+        "label": "Character design"
+    },
+    "pre": {
+        "i": 627,
+        "label": "pre"
+    },
+    "planning": {
+        "i": 628,
+        "label": "planning"
+    },
+    "model sheets": {
+        "i": 629,
+        "label": "model sheets"
+    },
+    "character rigging": {
+        "i": 630,
+        "label": "character rigging"
+    },
+    "storyreel and": {
+        "i": 631,
+        "label": "storyreel and"
+    },
+    "animatics": {
+        "i": 632,
+        "label": "animatics"
+    },
+    "character motion": {
+        "i": 633,
+        "label": "character motion"
+    },
+    "design for": {
+        "i": 634,
+        "label": "design for"
+    },
+    "multiple characters": {
+        "i": 635,
+        "label": "multiple characters"
+    },
+    "of animation": {
+        "i": 636,
+        "label": "of animation"
+    },
+    "effects": {
+        "i": 637,
+        "label": "effects"
+    },
+    "animation courses": {
+        "i": 638,
+        "label": "animation courses"
+    },
+    "short animated": {
+        "i": 639,
+        "label": "short animated"
+    },
+    "film": {
+        "i": 640,
+        "label": "film"
+    },
+    "scene planning": {
+        "i": 641,
+        "label": "scene planning"
+    },
+    "digital cinematography": {
+        "i": 642,
+        "label": "digital cinematography"
+    },
+    "creature and": {
+        "i": 643,
+        "label": "creature and"
+    },
+    "hard surface": {
+        "i": 644,
+        "label": "hard surface"
+    },
+    "animatics and": {
+        "i": 645,
+        "label": "animatics and"
+    },
+    "rendering techniques": {
+        "i": 646,
+        "label": "rendering techniques"
+    },
+    "basics of character animation": {
+        "i": 647,
+        "label": "basics of character animation"
+    },
+    "Computer network architectures": {
+        "i": 648,
+        "label": "Computer network architectures"
+    },
+    "protocol layers": {
+        "i": 649,
+        "label": "protocol layers"
+    },
+    "network programming": {
+        "i": 650,
+        "label": "network programming"
+    },
+    "Transmission media": {
+        "i": 651,
+        "label": "Transmission media"
+    },
+    "encoding systems": {
+        "i": 652,
+        "label": "encoding systems"
+    },
+    "switching": {
+        "i": 653,
+        "label": "switching"
+    },
+    "multiple access": {
+        "i": 654,
+        "label": "multiple access"
+    },
+    "arbitration": {
+        "i": 655,
+        "label": "arbitration"
+    },
+    "Network routing": {
+        "i": 656,
+        "label": "Network routing"
+    },
+    "congestion control": {
+        "i": 657,
+        "label": "congestion control"
+    },
+    "flow control": {
+        "i": 658,
+        "label": "flow control"
+    },
+    "Transport protocols": {
+        "i": 659,
+        "label": "Transport protocols"
+    },
+    "multicast": {
+        "i": 660,
+        "label": "multicast"
+    },
+    "network security": {
+        "i": 661,
+        "label": "network security"
+    },
+    "animated works": {
+        "i": 662,
+        "label": "animated works"
+    },
+    "2- and": {
+        "i": 663,
+        "label": "2- and"
+    },
+    "3": {
+        "i": 664,
+        "label": "3"
+    },
+    "D animatics": {
+        "i": 665,
+        "label": "D animatics"
+    },
+    "special effects": {
+        "i": 666,
+        "label": "special effects"
+    },
+    "advanced character": {
+        "i": 667,
+        "label": "advanced character"
+    },
+    "animation techniques": {
+        "i": 668,
+        "label": "animation techniques"
+    },
+    "D paint": {
+        "i": 669,
+        "label": "D paint"
+    },
+    "techniques and": {
+        "i": 670,
+        "label": "techniques and"
+    },
+    "integration": {
+        "i": 671,
+        "label": "integration"
+    },
+    "short design": {
+        "i": 672,
+        "label": "short design"
+    },
+    "sequence planning": {
+        "i": 673,
+        "label": "sequence planning"
+    },
+    "photorealistic rendering": {
+        "i": 674,
+        "label": "photorealistic rendering"
+    },
+    "interactive animation": {
+        "i": 675,
+        "label": "interactive animation"
+    },
+    "professional quality demo reels": {
+        "i": 676,
+        "label": "professional quality demo reels"
+    },
+    "advanced production techniques and strategies": {
+        "i": 677,
+        "label": "advanced production techniques and strategies"
+    },
+    "CSE 458": {
+        "i": 678,
+        "label": "CSE 458"
+    },
+    "design of embedded systems": {
+        "i": 679,
+        "label": "design of embedded systems"
+    },
+    "practical application": {
+        "i": 680,
+        "label": "practical application"
+    },
+    "Microcontroller architectures": {
+        "i": 681,
+        "label": "Microcontroller architectures"
+    },
+    "peripherals": {
+        "i": 682,
+        "label": "peripherals"
+    },
+    "embedded operating": {
+        "i": 683,
+        "label": "embedded operating"
+    },
+    "systems and": {
+        "i": 684,
+        "label": "systems and"
+    },
+    "device drivers": {
+        "i": 685,
+        "label": "device drivers"
+    },
+    "debuggers": {
+        "i": 686,
+        "label": "debuggers"
+    },
+    "timer and": {
+        "i": 687,
+        "label": "timer and"
+    },
+    "interrupt systems": {
+        "i": 688,
+        "label": "interrupt systems"
+    },
+    "interfacing of": {
+        "i": 689,
+        "label": "interfacing of"
+    },
+    "devices": {
+        "i": 690,
+        "label": "devices"
+    },
+    "communications and": {
+        "i": 691,
+        "label": "communications and"
+    },
+    "networking": {
+        "i": 692,
+        "label": "networking"
+    },
+    "development platforms": {
+        "i": 693,
+        "label": "development platforms"
+    },
+    "design of digital systems": {
+        "i": 694,
+        "label": "design of digital systems"
+    },
+    "Hardware description languages": {
+        "i": 695,
+        "label": "Hardware description languages"
+    },
+    "combinational and": {
+        "i": 696,
+        "label": "combinational and"
+    },
+    "sequential logic synthesis": {
+        "i": 697,
+        "label": "sequential logic synthesis"
+    },
+    "optimization methods": {
+        "i": 698,
+        "label": "optimization methods"
+    },
+    "partitioning": {
+        "i": 699,
+        "label": "partitioning"
+    },
+    "mapping to": {
+        "i": 700,
+        "label": "mapping to"
+    },
+    "reconfigurable logic": {
+        "i": 701,
+        "label": "reconfigurable logic"
+    },
+    "implementation medium": {
+        "i": 702,
+        "label": "implementation medium"
+    },
+    "Memory system design": {
+        "i": 703,
+        "label": "Memory system design"
+    },
+    "Digital communication": {
+        "i": 704,
+        "label": "Digital communication"
+    },
+    "including serial": {
+        "i": 705,
+        "label": "including serial"
+    },
+    "parallel": {
+        "i": 706,
+        "label": "parallel"
+    },
+    "synchronous": {
+        "i": 707,
+        "label": "synchronous"
+    },
+    "asynchronous methods": {
+        "i": 708,
+        "label": "asynchronous methods"
+    },
+    "CMOS technology": {
+        "i": 709,
+        "label": "CMOS technology"
+    },
+    "circuit design": {
+        "i": 710,
+        "label": "circuit design"
+    },
+    "sequential logic": {
+        "i": 711,
+        "label": "sequential logic"
+    },
+    "VLSI design methodologies": {
+        "i": 712,
+        "label": "VLSI design methodologies"
+    },
+    "CAD tools": {
+        "i": 713,
+        "label": "CAD tools"
+    },
+    "validation": {
+        "i": 714,
+        "label": "validation"
+    },
+    "VLSI chip": {
+        "i": 715,
+        "label": "VLSI chip"
+    },
+    "Introduction to computer architecture": {
+        "i": 716,
+        "label": "Introduction to computer architecture"
+    },
+    "Assembly and": {
+        "i": 717,
+        "label": "Assembly and"
+    },
+    "machine language": {
+        "i": 718,
+        "label": "machine language"
+    },
+    "microprocessor organization": {
+        "i": 719,
+        "label": "microprocessor organization"
+    },
+    "datapath": {
+        "i": 720,
+        "label": "datapath"
+    },
+    "Computer arithmetic": {
+        "i": 721,
+        "label": "Computer arithmetic"
+    },
+    "Memory systems": {
+        "i": 722,
+        "label": "Memory systems"
+    },
+    "caching": {
+        "i": 723,
+        "label": "caching"
+    },
+    "Performance modeling": {
+        "i": 724,
+        "label": "Performance modeling"
+    },
+    "microprocessors": {
+        "i": 725,
+        "label": "microprocessors"
+    },
+    "Advanced computer architecture": {
+        "i": 726,
+        "label": "Advanced computer architecture"
+    },
+    "Modern microprocessor micro": {
+        "i": 727,
+        "label": "Modern microprocessor micro"
+    },
+    "Performance evaluation": {
+        "i": 728,
+        "label": "Performance evaluation"
+    },
+    "energy efficiency": {
+        "i": 729,
+        "label": "energy efficiency"
+    },
+    "Instruction set": {
+        "i": 730,
+        "label": "Instruction set"
+    },
+    "architectures": {
+        "i": 731,
+        "label": "architectures"
+    },
+    "Instruction": {
+        "i": 732,
+        "label": "Instruction"
+    },
+    "level parallelism": {
+        "i": 733,
+        "label": "level parallelism"
+    },
+    "architecture": {
+        "i": 734,
+        "label": "architecture"
+    },
+    "Thread - level": {
+        "i": 735,
+        "label": "Thread - level"
+    },
+    "Cache coherency": {
+        "i": 736,
+        "label": "Cache coherency"
+    },
+    "memory consistency": {
+        "i": 737,
+        "label": "memory consistency"
+    },
+    "shared": {
+        "i": 738,
+        "label": "shared"
+    },
+    "memory multiprocessors": {
+        "i": 739,
+        "label": "memory multiprocessors"
+    },
+    "Memory hierarchy": {
+        "i": 740,
+        "label": "Memory hierarchy"
+    },
+    "GPU architecture": {
+        "i": 741,
+        "label": "GPU architecture"
+    },
+    "Warehouse - scale": {
+        "i": 742,
+        "label": "Warehouse - scale"
+    },
+    "computer design": {
+        "i": 743,
+        "label": "computer design"
+    },
+    "computational approaches": {
+        "i": 744,
+        "label": "computational approaches"
+    },
+    "modeling language": {
+        "i": 745,
+        "label": "modeling language"
+    },
+    "linguistic research": {
+        "i": 746,
+        "label": "linguistic research"
+    },
+    "practical applications": {
+        "i": 747,
+        "label": "practical applications"
+    },
+    "analyses at": {
+        "i": 748,
+        "label": "analyses at"
+    },
+    "linguistic structure": {
+        "i": 749,
+        "label": "linguistic structure"
+    },
+    "symbolic as": {
+        "i": 750,
+        "label": "symbolic as"
+    },
+    "statistical approaches": {
+        "i": 751,
+        "label": "statistical approaches"
+    },
+    "Problem solving": {
+        "i": 752,
+        "label": "Problem solving"
+    },
+    "search": {
+        "i": 753,
+        "label": "search"
+    },
+    "game playing": {
+        "i": 754,
+        "label": "game playing"
+    },
+    "reasoning": {
+        "i": 755,
+        "label": "reasoning"
+    },
+    "processing": {
+        "i": 756,
+        "label": "processing"
+    },
+    "CSE 415": {
+        "i": 757,
+        "label": "CSE 415"
+    },
+    "design , development": {
+        "i": 758,
+        "label": "design , development"
+    },
+    "real time embedded system software": {
+        "i": 759,
+        "label": "real time embedded system software"
+    },
+    "modern embedded microcomputer": {
+        "i": 760,
+        "label": "modern embedded microcomputer"
+    },
+    "microcontroller as": {
+        "i": 761,
+        "label": "microcontroller as"
+    },
+    "laboratory projects": {
+        "i": 762,
+        "label": "laboratory projects"
+    },
+    "final project": {
+        "i": 763,
+        "label": "final project"
+    },
+    "design experience": {
+        "i": 764,
+        "label": "design experience"
+    },
+    "hardware": {
+        "i": 765,
+        "label": "hardware"
+    },
+    "software": {
+        "i": 766,
+        "label": "software"
+    },
+    "communications": {
+        "i": 767,
+        "label": "communications"
+    },
+    "embedded processors": {
+        "i": 768,
+        "label": "embedded processors"
+    },
+    "programmable logic devices": {
+        "i": 769,
+        "label": "programmable logic devices"
+    },
+    "emerging platforms": {
+        "i": 770,
+        "label": "emerging platforms"
+    },
+    "specification": {
+        "i": 771,
+        "label": "specification"
+    },
+    "management of": {
+        "i": 772,
+        "label": "management of"
+    },
+    "contemporary embedded": {
+        "i": 773,
+        "label": "contemporary embedded"
+    },
+    "development of digital systems": {
+        "i": 774,
+        "label": "development of digital systems"
+    },
+    "System building": {
+        "i": 775,
+        "label": "System building"
+    },
+    "embedded system design": {
+        "i": 776,
+        "label": "embedded system design"
+    },
+    "simulate": {
+        "i": 777,
+        "label": "simulate"
+    },
+    "construct": {
+        "i": 778,
+        "label": "construct"
+    },
+    "debug": {
+        "i": 779,
+        "label": "debug"
+    },
+    "document a": {
+        "i": 780,
+        "label": "document a"
+    },
+    "substantial project": {
+        "i": 781,
+        "label": "substantial project"
+    },
+    "case studies": {
+        "i": 782,
+        "label": "case studies"
+    },
+    "emerging components": {
+        "i": 783,
+        "label": "emerging components"
+    },
+    "probabilistic techniques": {
+        "i": 784,
+        "label": "probabilistic techniques"
+    },
+    "autonomous robotics": {
+        "i": 785,
+        "label": "autonomous robotics"
+    },
+    "state estimation": {
+        "i": 786,
+        "label": "state estimation"
+    },
+    "Bayes filtering": {
+        "i": 787,
+        "label": "Bayes filtering"
+    },
+    "probabilistic motion": {
+        "i": 788,
+        "label": "probabilistic motion"
+    },
+    "sensor models": {
+        "i": 789,
+        "label": "sensor models"
+    },
+    "control": {
+        "i": 790,
+        "label": "control"
+    },
+    "search based planners": {
+        "i": 791,
+        "label": "search based planners"
+    },
+    "lattice based": {
+        "i": 792,
+        "label": "lattice based"
+    },
+    "planners": {
+        "i": 793,
+        "label": "planners"
+    },
+    "trajectory following": {
+        "i": 794,
+        "label": "trajectory following"
+    },
+    "techniques": {
+        "i": 795,
+        "label": "techniques"
+    },
+    "perception and": {
+        "i": 796,
+        "label": "perception and"
+    },
+    "object detection": {
+        "i": 797,
+        "label": "object detection"
+    },
+    "learning from": {
+        "i": 798,
+        "label": "learning from"
+    },
+    "demonstrations etc": {
+        "i": 799,
+        "label": "demonstrations etc"
+    },
+    "implement a": {
+        "i": 800,
+        "label": "implement a"
+    },
+    "software project": {
+        "i": 801,
+        "label": "software project"
+    },
+    "development process": {
+        "i": 802,
+        "label": "development process"
+    },
+    "product": {
+        "i": 803,
+        "label": "product"
+    },
+    "CSE curriculum": {
+        "i": 804,
+        "label": "CSE curriculum"
+    },
+    "substantial": {
+        "i": 805,
+        "label": "substantial"
+    },
+    "teams": {
+        "i": 806,
+        "label": "teams"
+    },
+    "implement": {
+        "i": 807,
+        "label": "implement"
+    },
+    "release a": {
+        "i": 808,
+        "label": "release a"
+    },
+    "work plan": {
+        "i": 809,
+        "label": "work plan"
+    },
+    "progress": {
+        "i": 810,
+        "label": "progress"
+    },
+    "it": {
+        "i": 811,
+        "label": "it"
+    },
+    "tablet PCs": {
+        "i": 812,
+        "label": "tablet PCs"
+    },
+    "implement algorithms": {
+        "i": 813,
+        "label": "implement algorithms"
+    },
+    "robotic perception": {
+        "i": 814,
+        "label": "robotic perception"
+    },
+    "UrbanSim": {
+        "i": 815,
+        "label": "UrbanSim"
+    },
+    "Capstone": {
+        "i": 816,
+        "label": "Capstone"
+    },
+    "Distributed systems": {
+        "i": 817,
+        "label": "Distributed systems"
+    },
+    "interdisciplinary project groups": {
+        "i": 818,
+        "label": "interdisciplinary project groups"
+    },
+    "inter - disciplinary groups": {
+        "i": 819,
+        "label": "inter - disciplinary groups"
+    },
+    "faculty or graduate student manager": {
+        "i": 820,
+        "label": "faculty or graduate student manager"
+    },
+    "scope and": {
+        "i": 821,
+        "label": "scope and"
+    },
+    "design projects": {
+        "i": 822,
+        "label": "design projects"
+    },
+    "resource - constrained": {
+        "i": 823,
+        "label": "resource - constrained"
+    },
+    "group work": {
+        "i": 824,
+        "label": "group work"
+    },
+    "testable realizations": {
+        "i": 825,
+        "label": "testable realizations"
+    },
+    "initial evaluations": {
+        "i": 826,
+        "label": "initial evaluations"
+    },
+    "the software": {
+        "i": 827,
+        "label": "the software"
+    },
+    "hardware artifacts": {
+        "i": 828,
+        "label": "hardware artifacts"
+    },
+    "posters": {
+        "i": 829,
+        "label": "posters"
+    },
+    "verbal presentations": {
+        "i": 830,
+        "label": "verbal presentations"
+    },
+    "videos": {
+        "i": 831,
+        "label": "videos"
+    },
+    "written reports": {
+        "i": 832,
+        "label": "written reports"
+    },
+    "RGB": {
+        "i": 833,
+        "label": "RGB"
+    },
+    "D sensors": {
+        "i": 834,
+        "label": "D sensors"
+    },
+    "Microsoft Kinect": {
+        "i": 835,
+        "label": "Microsoft Kinect"
+    },
+    "ASUS Xtion": {
+        "i": 836,
+        "label": "ASUS Xtion"
+    },
+    "Pro": {
+        "i": 837,
+        "label": "Pro"
+    },
+    "computer security": {
+        "i": 838,
+        "label": "computer security"
+    },
+    "product conception": {
+        "i": 839,
+        "label": "product conception"
+    },
+    "requirements": {
+        "i": 840,
+        "label": "requirements"
+    },
+    "evaluation": {
+        "i": 841,
+        "label": "evaluation"
+    },
+    "including threat": {
+        "i": 842,
+        "label": "including threat"
+    },
+    "penetration testing": {
+        "i": 843,
+        "label": "penetration testing"
+    },
+    "bug fixing": {
+        "i": 844,
+        "label": "bug fixing"
+    },
+    "password managers": {
+        "i": 845,
+        "label": "password managers"
+    },
+    "censorship resistance systems": {
+        "i": 846,
+        "label": "censorship resistance systems"
+    },
+    "mobile payment": {
+        "i": 847,
+        "label": "mobile payment"
+    },
+    "threat modeling": {
+        "i": 848,
+        "label": "threat modeling"
+    },
+    "Virtual and Augmented Reality": {
+        "i": 849,
+        "label": "Virtual and Augmented Reality"
+    },
+    "technology": {
+        "i": 850,
+        "label": "technology"
+    },
+    "app": {
+        "i": 851,
+        "label": "app"
+    },
+    "modern computer security": {
+        "i": 852,
+        "label": "modern computer security"
+    },
+    "including software": {
+        "i": 853,
+        "label": "including software"
+    },
+    "operating system": {
+        "i": 854,
+        "label": "operating system"
+    },
+    "applied cryptography": {
+        "i": 855,
+        "label": "applied cryptography"
+    },
+    "human factors": {
+        "i": 856,
+        "label": "human factors"
+    },
+    "authentication": {
+        "i": 857,
+        "label": "authentication"
+    },
+    "anonymity": {
+        "i": 858,
+        "label": "anonymity"
+    },
+    "mathematical modeling": {
+        "i": 859,
+        "label": "mathematical modeling"
+    },
+    "transcription": {
+        "i": 860,
+        "label": "transcription"
+    },
+    "translation": {
+        "i": 861,
+        "label": "translation"
+    },
+    "regulation": {
+        "i": 862,
+        "label": "regulation"
+    },
+    "metabolism in": {
+        "i": 863,
+        "label": "metabolism in"
+    },
+    "cell": {
+        "i": 864,
+        "label": "cell"
+    },
+    "synthetic biology": {
+        "i": 865,
+        "label": "synthetic biology"
+    },
+    "information processing": {
+        "i": 866,
+        "label": "information processing"
+    },
+    "Boolean logic": {
+        "i": 867,
+        "label": "Boolean logic"
+    },
+    "feedback control laws": {
+        "i": 868,
+        "label": "feedback control laws"
+    },
+    "genetic regulatory networks": {
+        "i": 869,
+        "label": "genetic regulatory networks"
+    },
+    "modularity": {
+        "i": 870,
+        "label": "modularity"
+    },
+    "impedance matching": {
+        "i": 871,
+        "label": "impedance matching"
+    },
+    "isolation in": {
+        "i": 872,
+        "label": "isolation in"
+    },
+    "biochemical circuits": {
+        "i": 873,
+        "label": "biochemical circuits"
+    },
+    "parameter estimation methods": {
+        "i": 874,
+        "label": "parameter estimation methods"
+    },
+    "computer aided design methods": {
+        "i": 875,
+        "label": "computer aided design methods"
+    },
+    "advanced mathematical": {
+        "i": 876,
+        "label": "advanced mathematical"
+    },
+    "computational standards": {
+        "i": 877,
+        "label": "computational standards"
+    },
+    "computer algorithms": {
+        "i": 878,
+        "label": "computer algorithms"
+    },
+    "computational analysis": {
+        "i": 879,
+        "label": "computational analysis"
+    },
+    "metabolic flux": {
+        "i": 880,
+        "label": "metabolic flux"
+    },
+    "protein signaling": {
+        "i": 881,
+        "label": "protein signaling"
+    },
+    "pathways and": {
+        "i": 882,
+        "label": "pathways and"
+    },
+    "engineering": {
+        "i": 883,
+        "label": "engineering"
+    },
+    "transgenic bacterial": {
+        "i": 884,
+        "label": "transgenic bacterial"
+    },
+    "promoters and": {
+        "i": 885,
+        "label": "promoters and"
+    },
+    "genes taken": {
+        "i": 886,
+        "label": "genes taken"
+    },
+    "organisms": {
+        "i": 887,
+        "label": "organisms"
+    },
+    "construction techniques": {
+        "i": 888,
+        "label": "construction techniques"
+    },
+    "recombination": {
+        "i": 889,
+        "label": "recombination"
+    },
+    "gene synthesis": {
+        "i": 890,
+        "label": "gene synthesis"
+    },
+    "gene extraction": {
+        "i": 891,
+        "label": "gene extraction"
+    },
+    "designs": {
+        "i": 892,
+        "label": "designs"
+    },
+    "sequencing": {
+        "i": 893,
+        "label": "sequencing"
+    },
+    "fluorescence assays": {
+        "i": 894,
+        "label": "fluorescence assays"
+    },
+    "enzyme activity": {
+        "i": 895,
+        "label": "enzyme activity"
+    },
+    "assays": {
+        "i": 896,
+        "label": "assays"
+    },
+    "single cell": {
+        "i": 897,
+        "label": "single cell"
+    },
+    "studies": {
+        "i": 898,
+        "label": "studies"
+    },
+    "using time": {
+        "i": 899,
+        "label": "using time"
+    },
+    "lapse": {
+        "i": 900,
+        "label": "lapse"
+    },
+    "microscopy": {
+        "i": 901,
+        "label": "microscopy"
+    },
+    "Company": {
+        "i": 902,
+        "label": "Company"
+    },
+    "Formation": {
+        "i": 903,
+        "label": "Formation"
+    },
+    "entrepreneurship": {
+        "i": 904,
+        "label": "entrepreneurship"
+    },
+    "venture": {
+        "i": 905,
+        "label": "venture"
+    },
+    "Successful Exit": {
+        "i": 906,
+        "label": "Successful Exit"
+    },
+    "Computers , Ethics": {
+        "i": 907,
+        "label": "Computers , Ethics"
+    },
+    "Society": {
+        "i": 908,
+        "label": "Society"
+    },
+    "Animation Production": {
+        "i": 909,
+        "label": "Animation Production"
+    },
+    "Hardware Capstone Project Exploration": {
+        "i": 910,
+        "label": "Hardware Capstone Project Exploration"
+    },
+    "Character Animation": {
+        "i": 911,
+        "label": "Character Animation"
+    },
+    "Basic information": {
+        "i": 912,
+        "label": "Basic information"
+    },
+    "Basic signal": {
+        "i": 913,
+        "label": "Basic signal"
+    },
+    "theory": {
+        "i": 914,
+        "label": "theory"
+    },
+    "entropy": {
+        "i": 915,
+        "label": "entropy"
+    },
+    "Lossless data": {
+        "i": 916,
+        "label": "Lossless data"
+    },
+    "compression techniques": {
+        "i": 917,
+        "label": "compression techniques"
+    },
+    "Huffman coding": {
+        "i": 918,
+        "label": "Huffman coding"
+    },
+    "arithmetic coding": {
+        "i": 919,
+        "label": "arithmetic coding"
+    },
+    "dictionary methods": {
+        "i": 920,
+        "label": "dictionary methods"
+    },
+    "context": {
+        "i": 921,
+        "label": "context"
+    },
+    "structure": {
+        "i": 922,
+        "label": "structure"
+    },
+    "prediction": {
+        "i": 923,
+        "label": "prediction"
+    },
+    "compression": {
+        "i": 924,
+        "label": "compression"
+    },
+    "Fourier and": {
+        "i": 925,
+        "label": "Fourier and"
+    },
+    "discrete cosine": {
+        "i": 926,
+        "label": "discrete cosine"
+    },
+    "transforms": {
+        "i": 927,
+        "label": "transforms"
+    },
+    "wavelet transforms": {
+        "i": 928,
+        "label": "wavelet transforms"
+    },
+    "quantization": {
+        "i": 929,
+        "label": "quantization"
+    },
+    "Fidelity and": {
+        "i": 930,
+        "label": "Fidelity and"
+    },
+    "distortion metrics": {
+        "i": 931,
+        "label": "distortion metrics"
+    },
+    "rate": {
+        "i": 932,
+        "label": "rate"
+    },
+    "distortion analysis": {
+        "i": 933,
+        "label": "distortion analysis"
+    },
+    "Image compression": {
+        "i": 934,
+        "label": "Image compression"
+    },
+    "vector quantization": {
+        "i": 935,
+        "label": "vector quantization"
+    },
+    "DCT coding": {
+        "i": 936,
+        "label": "DCT coding"
+    },
+    "wavelet coding": {
+        "i": 937,
+        "label": "wavelet coding"
+    },
+    "Video compression": {
+        "i": 938,
+        "label": "Video compression"
+    },
+    "motion compensation": {
+        "i": 939,
+        "label": "motion compensation"
+    },
+    "Audio compression": {
+        "i": 940,
+        "label": "Audio compression"
+    },
+    "Image": {
+        "i": 941,
+        "label": "Image"
+    },
+    "video": {
+        "i": 942,
+        "label": "video"
+    },
+    "audio compression": {
+        "i": 943,
+        "label": "audio compression"
+    },
+    "Large Scale": {
+        "i": 944,
+        "label": "Large Scale"
+    },
+    "Clusters": {
+        "i": 945,
+        "label": "Clusters"
+    },
+    "Neurobotics lies at": {
+        "i": 946,
+        "label": "Neurobotics lies at"
+    },
+    "introductory design": {
+        "i": 947,
+        "label": "introductory design"
+    },
+    "Neurobotics focusing on": {
+        "i": 948,
+        "label": "Neurobotics focusing on"
+    },
+    "robotics": {
+        "i": 949,
+        "label": "robotics"
+    },
+    "medicine": {
+        "i": 950,
+        "label": "medicine"
+    },
+    "robot": {
+        "i": 951,
+        "label": "robot"
+    },
+    "human closed": {
+        "i": 952,
+        "label": "human closed"
+    },
+    "loop system": {
+        "i": 953,
+        "label": "loop system"
+    },
+    "neural control": {
+        "i": 954,
+        "label": "neural control"
+    },
+    "movement": {
+        "i": 955,
+        "label": "movement"
+    },
+    "rehabilitate": {
+        "i": 956,
+        "label": "rehabilitate"
+    },
+    "human motor": {
+        "i": 957,
+        "label": "human motor"
+    },
+    "learning capabilities": {
+        "i": 958,
+        "label": "learning capabilities"
+    },
+    "strokes": {
+        "i": 959,
+        "label": "strokes"
+    },
+    "spinal cord": {
+        "i": 960,
+        "label": "spinal cord"
+    },
+    "injuries": {
+        "i": 961,
+        "label": "injuries"
+    },
+    "traumatic brain": {
+        "i": 962,
+        "label": "traumatic brain"
+    },
+    "daily activities": {
+        "i": 963,
+        "label": "daily activities"
+    },
+    "sports medicine": {
+        "i": 964,
+        "label": "sports medicine"
+    },
+    "military": {
+        "i": 965,
+        "label": "military"
+    },
+    "entertainment applications": {
+        "i": 966,
+        "label": "entertainment applications"
+    },
+    "human neural": {
+        "i": 967,
+        "label": "human neural"
+    },
+    "control of": {
+        "i": 968,
+        "label": "control of"
+    },
+    "using physiological": {
+        "i": 969,
+        "label": "using physiological"
+    },
+    "signals as": {
+        "i": 970,
+        "label": "signals as"
+    },
+    "inputs": {
+        "i": 971,
+        "label": "inputs"
+    },
+    "controlling a": {
+        "i": 972,
+        "label": "controlling a"
+    },
+    "mechanical device": {
+        "i": 973,
+        "label": "mechanical device"
+    },
+    "simple control": {
+        "i": 974,
+        "label": "simple control"
+    },
+    "laws": {
+        "i": 975,
+        "label": "laws"
+    },
+    "hands on": {
+        "i": 976,
+        "label": "hands on"
+    },
+    "experience": {
+        "i": 977,
+        "label": "experience"
+    },
+    "controlling robots": {
+        "i": 978,
+        "label": "controlling robots"
+    },
+    "knowledge of": {
+        "i": 979,
+        "label": "knowledge of"
+    },
+    "human movements": {
+        "i": 980,
+        "label": "human movements"
+    },
+    "move the": {
+        "i": 981,
+        "label": "move the"
+    },
+    "design project": {
+        "i": 982,
+        "label": "design project"
+    },
+    "Computer Animation": {
+        "i": 983,
+        "label": "Computer Animation"
+    },
+    "User Interface Design": {
+        "i": 984,
+        "label": "User Interface Design"
+    },
+    "Prototyping": {
+        "i": 985,
+        "label": "Prototyping"
+    },
+    "Evaluation": {
+        "i": 986,
+        "label": "Evaluation"
+    },
+    "Computer Telephony": {
+        "i": 987,
+        "label": "Computer Telephony"
+    },
+    "Software": {
+        "i": 988,
+        "label": "Software"
+    },
+    "games": {
+        "i": 989,
+        "label": "games"
+    },
+    "communication": {
+        "i": 990,
+        "label": "communication"
+    },
+    "software for": {
+        "i": 991,
+        "label": "software for"
+    },
+    "children to large online learning systems": {
+        "i": 992,
+        "label": "children to large online learning systems"
+    },
+    "educational software": {
+        "i": 993,
+        "label": "educational software"
+    },
+    "intellectual property law": {
+        "i": 994,
+        "label": "intellectual property law"
+    },
+    "technical ( non": {
+        "i": 995,
+        "label": "technical ( non"
+    },
+    "legal": {
+        "i": 996,
+        "label": "legal"
+    },
+    "intellectual property": {
+        "i": 997,
+        "label": "intellectual property"
+    },
+    "relationship between innovation": {
+        "i": 998,
+        "label": "relationship between innovation"
+    },
+    "approaches to patent reform": {
+        "i": 999,
+        "label": "approaches to patent reform"
+    },
+    "patent law": {
+        "i": 1000,
+        "label": "patent law"
+    },
+    "engineers and": {
+        "i": 1001,
+        "label": "engineers and"
+    },
+    "scientists": {
+        "i": 1002,
+        "label": "scientists"
+    },
+    "regimes": {
+        "i": 1003,
+        "label": "regimes"
+    },
+    "patent": {
+        "i": 1004,
+        "label": "patent"
+    },
+    "patent preparation": {
+        "i": 1005,
+        "label": "patent preparation"
+    },
+    "prosecution": {
+        "i": 1006,
+        "label": "prosecution"
+    },
+    "patent claim": {
+        "i": 1007,
+        "label": "patent claim"
+    },
+    "interpretation": {
+        "i": 1008,
+        "label": "interpretation"
+    },
+    "patent validity": {
+        "i": 1009,
+        "label": "patent validity"
+    },
+    "infringement": {
+        "i": 1010,
+        "label": "infringement"
+    },
+    "copyright": {
+        "i": 1011,
+        "label": "copyright"
+    },
+    "trademark": {
+        "i": 1012,
+        "label": "trademark"
+    },
+    "trade secret": {
+        "i": 1013,
+        "label": "trade secret"
+    },
+    "practical legal": {
+        "i": 1014,
+        "label": "practical legal"
+    },
+    "policy questions": {
+        "i": 1015,
+        "label": "policy questions"
+    },
+    "patenting": {
+        "i": 1016,
+        "label": "patenting"
+    },
+    "IP": {
+        "i": 1017,
+        "label": "IP"
+    },
+    "CSE 590": {
+        "i": 1018,
+        "label": "CSE 590"
+    },
+    "SPR 2011": {
+        "i": 1019,
+        "label": "SPR 2011"
+    },
+    "virtual reality": {
+        "i": 1020,
+        "label": "virtual reality"
+    },
+    "optical fabrication": {
+        "i": 1021,
+        "label": "optical fabrication"
+    },
+    "embedded computing": {
+        "i": 1022,
+        "label": "embedded computing"
+    },
+    "motion tracking": {
+        "i": 1023,
+        "label": "motion tracking"
+    },
+    "time rendering": {
+        "i": 1024,
+        "label": "time rendering"
+    },
+    "fully functional": {
+        "i": 1025,
+        "label": "fully functional"
+    },
+    "head": {
+        "i": 1026,
+        "label": "head"
+    },
+    "optics": {
+        "i": 1027,
+        "label": "optics"
+    },
+    "displays": {
+        "i": 1028,
+        "label": "displays"
+    },
+    "electronics": {
+        "i": 1029,
+        "label": "electronics"
+    },
+    "microcontrollers": {
+        "i": 1030,
+        "label": "microcontrollers"
+    },
+    "JavaScript": {
+        "i": 1031,
+        "label": "JavaScript"
+    },
+    "WebGL": {
+        "i": 1032,
+        "label": "WebGL"
+    },
+    "GLSL": {
+        "i": 1033,
+        "label": "GLSL"
+    },
+    "IMU": {
+        "i": 1034,
+        "label": "IMU"
+    },
+    "position": {
+        "i": 1035,
+        "label": "position"
+    },
+    "the": {
+        "i": 1036,
+        "label": "the"
+    },
+    "headset": {
+        "i": 1037,
+        "label": "headset"
+    },
+    "lens": {
+        "i": 1038,
+        "label": "lens"
+    },
+    "distortions": {
+        "i": 1039,
+        "label": "distortions"
+    },
+    "AR": {
+        "i": 1040,
+        "label": "AR"
+    },
+    "VR": {
+        "i": 1041,
+        "label": "VR"
+    },
+    "computer graphics": {
+        "i": 1042,
+        "label": "computer graphics"
+    },
+    "signal processing": {
+        "i": 1043,
+        "label": "signal processing"
+    },
+    "human perception": {
+        "i": 1044,
+        "label": "human perception"
+    },
+    "leading AR": {
+        "i": 1045,
+        "label": "leading AR"
+    },
+    "academic institutions": {
+        "i": 1046,
+        "label": "academic institutions"
+    },
+    "cross - disciplinary knowledge": {
+        "i": 1047,
+        "label": "cross - disciplinary knowledge"
+    },
+    "mounted display": {
+        "i": 1048,
+        "label": "mounted display"
+    },
+    "inertial measurement unit": {
+        "i": 1049,
+        "label": "inertial measurement unit"
+    },
+    "real - time computer graphics methods": {
+        "i": 1050,
+        "label": "real - time computer graphics methods"
+    },
+    "history of": {
+        "i": 1051,
+        "label": "history of"
+    },
+    "societal implications": {
+        "i": 1052,
+        "label": "societal implications"
+    },
+    "data privacy": {
+        "i": 1053,
+        "label": "data privacy"
+    },
+    "data anonymization": {
+        "i": 1054,
+        "label": "data anonymization"
+    },
+    "hypothesis": {
+        "i": 1055,
+        "label": "hypothesis"
+    },
+    "testing on": {
+        "i": 1056,
+        "label": "testing on"
+    },
+    "a shared": {
+        "i": 1057,
+        "label": "a shared"
+    },
+    "database": {
+        "i": 1058,
+        "label": "database"
+    },
+    "decisions": {
+        "i": 1059,
+        "label": "decisions"
+    },
+    "society": {
+        "i": 1060,
+        "label": "society"
+    },
+    "guest speakers": {
+        "i": 1061,
+        "label": "guest speakers"
+    },
+    "case": {
+        "i": 1062,
+        "label": "case"
+    },
+    "study or": {
+        "i": 1063,
+        "label": "study or"
+    },
+    "article": {
+        "i": 1064,
+        "label": "article"
+    },
+    "social": {
+        "i": 1065,
+        "label": "social"
+    },
+    "media platforms": {
+        "i": 1066,
+        "label": "media platforms"
+    },
+    "robots": {
+        "i": 1067,
+        "label": "robots"
+    },
+    "big data": {
+        "i": 1068,
+        "label": "big data"
+    },
+    "code": {
+        "i": 1069,
+        "label": "code"
+    },
+    "the decisions": {
+        "i": 1070,
+        "label": "the decisions"
+    },
+    "influences": {
+        "i": 1071,
+        "label": "influences"
+    },
+    "world in": {
+        "i": 1072,
+        "label": "world in"
+    },
+    "implementation details": {
+        "i": 1073,
+        "label": "implementation details"
+    },
+    "Allen School": {
+        "i": 1074,
+        "label": "Allen School"
+    },
+    "faculty - sponsored": {
+        "i": 1075,
+        "label": "faculty - sponsored"
+    },
+    "research projects": {
+        "i": 1076,
+        "label": "research projects"
+    },
+    "survey": {
+        "i": 1077,
+        "label": "survey"
+    },
+    "material": {
+        "i": 1078,
+        "label": "material"
+    },
+    "professional literature": {
+        "i": 1079,
+        "label": "professional literature"
+    },
+    "writing a": {
+        "i": 1080,
+        "label": "writing a"
+    },
+    "technical document": {
+        "i": 1081,
+        "label": "technical document"
+    },
+    "evidence of": {
+        "i": 1082,
+        "label": "evidence of"
+    },
+    "independent work": {
+        "i": 1083,
+        "label": "independent work"
+    },
+    "small research project": {
+        "i": 1084,
+        "label": "small research project"
+    },
+    "application to another field": {
+        "i": 1085,
+        "label": "application to another field"
+    },
+    "498": {
+        "i": 1086,
+        "label": "498"
+    },
+    "advanced computer science": {
+        "i": 1087,
+        "label": "advanced computer science"
+    },
+    "research in field": {
+        "i": 1088,
+        "label": "research in field"
+    },
+    "undergraduate adviser": {
+        "i": 1089,
+        "label": "undergraduate adviser"
+    },
+    "core course": {
+        "i": 1090,
+        "label": "core course"
+    },
+    "CSE faculty": {
+        "i": 1091,
+        "label": "CSE faculty"
+    },
+    "building efficient": {
+        "i": 1092,
+        "label": "building efficient"
+    },
+    "implementations of": {
+        "i": 1093,
+        "label": "implementations of"
+    },
+    "modern programming": {
+        "i": 1094,
+        "label": "modern programming"
+    },
+    "Lexical": {
+        "i": 1095,
+        "label": "Lexical"
+    },
+    "syntactic": {
+        "i": 1096,
+        "label": "syntactic"
+    },
+    "of programs": {
+        "i": 1097,
+        "label": "of programs"
+    },
+    "Intra- and": {
+        "i": 1098,
+        "label": "Intra- and"
+    },
+    "interprocedural analysis": {
+        "i": 1099,
+        "label": "interprocedural analysis"
+    },
+    "optimization": {
+        "i": 1100,
+        "label": "optimization"
+    },
+    "Run - time": {
+        "i": 1101,
+        "label": "Run - time"
+    },
+    "system techniques": {
+        "i": 1102,
+        "label": "system techniques"
+    },
+    "programming environment": {
+        "i": 1103,
+        "label": "programming environment"
+    },
+    "source - level": {
+        "i": 1104,
+        "label": "source - level"
+    },
+    "debuggers and": {
+        "i": 1105,
+        "label": "debuggers and"
+    },
+    "profilers": {
+        "i": 1106,
+        "label": "profilers"
+    },
+    "Intermediate program representations": {
+        "i": 1107,
+        "label": "Intermediate program representations"
+    },
+    "information hiding": {
+        "i": 1108,
+        "label": "information hiding"
+    },
+    "layering": {
+        "i": 1109,
+        "label": "layering"
+    },
+    "open implementations": {
+        "i": 1110,
+        "label": "open implementations"
+    },
+    "informal and": {
+        "i": 1111,
+        "label": "informal and"
+    },
+    "formal approaches": {
+        "i": 1112,
+        "label": "formal approaches"
+    },
+    "quality assurance": {
+        "i": 1113,
+        "label": "quality assurance"
+    },
+    "verification and": {
+        "i": 1114,
+        "label": "verification and"
+    },
+    "inspections": {
+        "i": 1115,
+        "label": "inspections"
+    },
+    "reverse and": {
+        "i": 1116,
+        "label": "reverse and"
+    },
+    "re": {
+        "i": 1117,
+        "label": "re"
+    },
+    "tools": {
+        "i": 1118,
+        "label": "tools"
+    },
+    "models": {
+        "i": 1119,
+        "label": "models"
+    },
+    "approaches": {
+        "i": 1120,
+        "label": "approaches"
+    },
+    "software architecture": {
+        "i": 1121,
+        "label": "software architecture"
+    },
+    "software tools": {
+        "i": 1122,
+        "label": "software tools"
+    },
+    "programming language": {
+        "i": 1123,
+        "label": "programming language"
+    },
+    "type systems": {
+        "i": 1124,
+        "label": "type systems"
+    },
+    "formal reasoning": {
+        "i": 1125,
+        "label": "formal reasoning"
+    },
+    "imperative programming": {
+        "i": 1126,
+        "label": "imperative programming"
+    },
+    "logic": {
+        "i": 1127,
+        "label": "logic"
+    },
+    "constraint programming": {
+        "i": 1128,
+        "label": "constraint programming"
+    },
+    "Programming language": {
+        "i": 1129,
+        "label": "Programming language"
+    },
+    "semantics and": {
+        "i": 1130,
+        "label": "semantics and"
+    },
+    "type theory": {
+        "i": 1131,
+        "label": "type theory"
+    },
+    "languages of": {
+        "i": 1132,
+        "label": "languages of"
+    },
+    "type declaration": {
+        "i": 1133,
+        "label": "type declaration"
+    },
+    "inference": {
+        "i": 1134,
+        "label": "inference"
+    },
+    "polymorphic types": {
+        "i": 1135,
+        "label": "polymorphic types"
+    },
+    "implementation issues": {
+        "i": 1136,
+        "label": "implementation issues"
+    },
+    "compilation": {
+        "i": 1137,
+        "label": "compilation"
+    },
+    "lazy evaluation": {
+        "i": 1138,
+        "label": "lazy evaluation"
+    },
+    "combinators": {
+        "i": 1139,
+        "label": "combinators"
+    },
+    "optimization techniques": {
+        "i": 1140,
+        "label": "optimization techniques"
+    },
+    "Implementation project": {
+        "i": 1141,
+        "label": "Implementation project"
+    },
+    "human - computer interaction": {
+        "i": 1142,
+        "label": "human - computer interaction"
+    },
+    "tools and skills": {
+        "i": 1143,
+        "label": "tools and skills"
+    },
+    "computer supported cooperative work": {
+        "i": 1144,
+        "label": "computer supported cooperative work"
+    },
+    "user interface design": {
+        "i": 1145,
+        "label": "user interface design"
+    },
+    "user interface": {
+        "i": 1146,
+        "label": "user interface"
+    },
+    "rapid prototyping": {
+        "i": 1147,
+        "label": "rapid prototyping"
+    },
+    "iterative design": {
+        "i": 1148,
+        "label": "iterative design"
+    },
+    "safety and": {
+        "i": 1149,
+        "label": "safety and"
+    },
+    "critical systems": {
+        "i": 1150,
+        "label": "critical systems"
+    },
+    "evaluation techniques": {
+        "i": 1151,
+        "label": "evaluation techniques"
+    },
+    "language models": {
+        "i": 1152,
+        "label": "language models"
+    },
+    "text classification": {
+        "i": 1153,
+        "label": "text classification"
+    },
+    "tagging": {
+        "i": 1154,
+        "label": "tagging"
+    },
+    "parsing": {
+        "i": 1155,
+        "label": "parsing"
+    },
+    "semantics": {
+        "i": 1156,
+        "label": "semantics"
+    },
+    "discourse analysis": {
+        "i": 1157,
+        "label": "discourse analysis"
+    },
+    "algorithms with": {
+        "i": 1158,
+        "label": "algorithms with"
+    },
+    "real world": {
+        "i": 1159,
+        "label": "real world"
+    },
+    "applications": {
+        "i": 1160,
+        "label": "applications"
+    },
+    "computational geometry": {
+        "i": 1161,
+        "label": "computational geometry"
+    },
+    "scientific computation": {
+        "i": 1162,
+        "label": "scientific computation"
+    },
+    "combinatorial optimization": {
+        "i": 1163,
+        "label": "combinatorial optimization"
+    },
+    "cryptography": {
+        "i": 1164,
+        "label": "cryptography"
+    },
+    "operations research": {
+        "i": 1165,
+        "label": "operations research"
+    },
+    "parallel computing": {
+        "i": 1166,
+        "label": "parallel computing"
+    },
+    "processing modes": {
+        "i": 1167,
+        "label": "processing modes"
+    },
+    "pipelining": {
+        "i": 1168,
+        "label": "pipelining"
+    },
+    "data parallelism": {
+        "i": 1169,
+        "label": "data parallelism"
+    },
+    "thread parallelism": {
+        "i": 1170,
+        "label": "thread parallelism"
+    },
+    "task parallelism": {
+        "i": 1171,
+        "label": "task parallelism"
+    },
+    "algorithmic implications": {
+        "i": 1172,
+        "label": "algorithmic implications"
+    },
+    "memory models": {
+        "i": 1173,
+        "label": "memory models"
+    },
+    "shared memory": {
+        "i": 1174,
+        "label": "shared memory"
+    },
+    "message passing": {
+        "i": 1175,
+        "label": "message passing"
+    },
+    "hardware implementations": {
+        "i": 1176,
+        "label": "hardware implementations"
+    },
+    "bandwidth and": {
+        "i": 1177,
+        "label": "bandwidth and"
+    },
+    "latency": {
+        "i": 1178,
+        "label": "latency"
+    },
+    "consistency": {
+        "i": 1179,
+        "label": "consistency"
+    },
+    "interprocessor communication": {
+        "i": 1180,
+        "label": "interprocessor communication"
+    },
+    "programming issues": {
+        "i": 1181,
+        "label": "programming issues"
+    },
+    "implicit and": {
+        "i": 1182,
+        "label": "implicit and"
+    },
+    "explicit parallelism": {
+        "i": 1183,
+        "label": "explicit parallelism"
+    },
+    "locality": {
+        "i": 1184,
+        "label": "locality"
+    },
+    "portability": {
+        "i": 1185,
+        "label": "portability"
+    },
+    "CSE majors": {
+        "i": 1186,
+        "label": "CSE majors"
+    },
+    "computational methods": {
+        "i": 1187,
+        "label": "computational methods"
+    },
+    "understanding biological": {
+        "i": 1188,
+        "label": "understanding biological"
+    },
+    "systems at": {
+        "i": 1189,
+        "label": "systems at"
+    },
+    "the molecular": {
+        "i": 1190,
+        "label": "the molecular"
+    },
+    "mapping and": {
+        "i": 1191,
+        "label": "mapping and"
+    },
+    "sequence analysis": {
+        "i": 1192,
+        "label": "sequence analysis"
+    },
+    "structure prediction": {
+        "i": 1193,
+        "label": "structure prediction"
+    },
+    "phylogenic inference": {
+        "i": 1194,
+        "label": "phylogenic inference"
+    },
+    "motif discovery": {
+        "i": 1195,
+        "label": "motif discovery"
+    },
+    "expression analysis": {
+        "i": 1196,
+        "label": "expression analysis"
+    },
+    "regulatory analysis": {
+        "i": 1197,
+        "label": "regulatory analysis"
+    },
+    "dynamic programming": {
+        "i": 1198,
+        "label": "dynamic programming"
+    },
+    "MCMC": {
+        "i": 1199,
+        "label": "MCMC"
+    },
+    "expectation - maximization": {
+        "i": 1200,
+        "label": "expectation - maximization"
+    },
+    "local search": {
+        "i": 1201,
+        "label": "local search"
+    },
+    "theory of computation": {
+        "i": 1202,
+        "label": "theory of computation"
+    },
+    "Thesis": {
+        "i": 1203,
+        "label": "Thesis"
+    },
+    "historical and philosophical": {
+        "i": 1204,
+        "label": "historical and philosophical"
+    },
+    "Turing Machines": {
+        "i": 1205,
+        "label": "Turing Machines"
+    },
+    "incompleteness": {
+        "i": 1206,
+        "label": "incompleteness"
+    },
+    "undecidability": {
+        "i": 1207,
+        "label": "undecidability"
+    },
+    "complexity classes": {
+        "i": 1208,
+        "label": "complexity classes"
+    },
+    "problem reductions": {
+        "i": 1209,
+        "label": "problem reductions"
+    },
+    "Cook": {
+        "i": 1210,
+        "label": "Cook"
+    },
+    "randomized computation": {
+        "i": 1211,
+        "label": "randomized computation"
+    },
+    "parallel computation": {
+        "i": 1212,
+        "label": "parallel computation"
+    },
+    "Churche": {
+        "i": 1213,
+        "label": "Churche"
+    },
+    "s theorem": {
+        "i": 1214,
+        "label": "s theorem"
+    },
+    "database system architecture": {
+        "i": 1215,
+        "label": "database system architecture"
+    },
+    "query optimization": {
+        "i": 1216,
+        "label": "query optimization"
+    },
+    "crash recovery": {
+        "i": 1217,
+        "label": "crash recovery"
+    },
+    "storage strategies": {
+        "i": 1218,
+        "label": "storage strategies"
+    },
+    "theory of database design": {
+        "i": 1219,
+        "label": "theory of database design"
+    },
+    "reliable large - scale distributed computing": {
+        "i": 1220,
+        "label": "reliable large - scale distributed computing"
+    },
+    "transaction programming": {
+        "i": 1221,
+        "label": "transaction programming"
+    },
+    "TP monitors": {
+        "i": 1222,
+        "label": "TP monitors"
+    },
+    "transactional communications": {
+        "i": 1223,
+        "label": "transactional communications"
+    },
+    "persistent queuing": {
+        "i": 1224,
+        "label": "persistent queuing"
+    },
+    "software fault": {
+        "i": 1225,
+        "label": "software fault"
+    },
+    "tolerance": {
+        "i": 1226,
+        "label": "tolerance"
+    },
+    "recovery algorithms": {
+        "i": 1227,
+        "label": "recovery algorithms"
+    },
+    "distributed transactions": {
+        "i": 1228,
+        "label": "distributed transactions"
+    },
+    "two": {
+        "i": 1229,
+        "label": "two"
+    },
+    "phase commit": {
+        "i": 1230,
+        "label": "phase commit"
+    },
+    "data replication": {
+        "i": 1231,
+        "label": "data replication"
+    },
+    "valid": {
+        "i": 1232,
+        "label": "valid"
+    },
+    "novel": {
+        "i": 1233,
+        "label": "novel"
+    },
+    "useful": {
+        "i": 1234,
+        "label": "useful"
+    },
+    "understandable patterns": {
+        "i": 1235,
+        "label": "understandable patterns"
+    },
+    "predictive models": {
+        "i": 1236,
+        "label": "predictive models"
+    },
+    "probability estimation": {
+        "i": 1237,
+        "label": "probability estimation"
+    },
+    "clusters and": {
+        "i": 1238,
+        "label": "clusters and"
+    },
+    "association rules": {
+        "i": 1239,
+        "label": "association rules"
+    },
+    "single - chip microprocessor": {
+        "i": 1240,
+        "label": "single - chip microprocessor"
+    },
+    "I / O devices": {
+        "i": 1241,
+        "label": "I / O devices"
+    },
+    "instruction set": {
+        "i": 1242,
+        "label": "instruction set"
+    },
+    "processor implementation": {
+        "i": 1243,
+        "label": "processor implementation"
+    },
+    "multiple issue": {
+        "i": 1244,
+        "label": "multiple issue"
+    },
+    "speculative execution": {
+        "i": 1245,
+        "label": "speculative execution"
+    },
+    "on": {
+        "i": 1246,
+        "label": "on"
+    },
+    "chip and": {
+        "i": 1247,
+        "label": "chip and"
+    },
+    "off": {
+        "i": 1248,
+        "label": "off"
+    },
+    "chip caches": {
+        "i": 1249,
+        "label": "chip caches"
+    },
+    "TLBs": {
+        "i": 1250,
+        "label": "TLBs"
+    },
+    "their management": {
+        "i": 1251,
+        "label": "their management"
+    },
+    "virtual memory": {
+        "i": 1252,
+        "label": "virtual memory"
+    },
+    "hardware viewpoint": {
+        "i": 1253,
+        "label": "hardware viewpoint"
+    },
+    "buses": {
+        "i": 1254,
+        "label": "buses"
+    },
+    "disks": {
+        "i": 1255,
+        "label": "disks"
+    },
+    "RAIDs": {
+        "i": 1256,
+        "label": "RAIDs"
+    },
+    "protection": {
+        "i": 1257,
+        "label": "protection"
+    },
+    "communication mechanisms": {
+        "i": 1258,
+        "label": "communication mechanisms"
+    },
+    "concurrency": {
+        "i": 1259,
+        "label": "concurrency"
+    },
+    "lightweight threads": {
+        "i": 1260,
+        "label": "lightweight threads"
+    },
+    "oriented systems": {
+        "i": 1261,
+        "label": "oriented systems"
+    },
+    "distributed systems": {
+        "i": 1262,
+        "label": "distributed systems"
+    },
+    "transaction support": {
+        "i": 1263,
+        "label": "transaction support"
+    },
+    "196": {
+        "i": 1264,
+        "label": "196"
+    },
+    "design , implementation , and analysis": {
+        "i": 1265,
+        "label": "design , implementation , and analysis"
+    },
+    "distributed computer systems": {
+        "i": 1266,
+        "label": "distributed computer systems"
+    },
+    "state - of - the - art algorithm": {
+        "i": 1267,
+        "label": "state - of - the - art algorithm"
+    },
+    "geometric transformations": {
+        "i": 1268,
+        "label": "geometric transformations"
+    },
+    "hidden": {
+        "i": 1269,
+        "label": "hidden"
+    },
+    "surface elimination": {
+        "i": 1270,
+        "label": "surface elimination"
+    },
+    "realistic character": {
+        "i": 1271,
+        "label": "realistic character"
+    },
+    "traditional animation": {
+        "i": 1272,
+        "label": "traditional animation"
+    },
+    "network systems": {
+        "i": 1273,
+        "label": "network systems"
+    },
+    "operations alternatives": {
+        "i": 1274,
+        "label": "operations alternatives"
+    },
+    "alternative link": {
+        "i": 1275,
+        "label": "alternative link"
+    },
+    "network": {
+        "i": 1276,
+        "label": "network"
+    },
+    "transport - layer": {
+        "i": 1277,
+        "label": "transport - layer"
+    },
+    "technologies": {
+        "i": 1278,
+        "label": "technologies"
+    },
+    "topologies": {
+        "i": 1279,
+        "label": "topologies"
+    },
+    "routing": {
+        "i": 1280,
+        "label": "routing"
+    },
+    "congestion control multimedia": {
+        "i": 1281,
+        "label": "congestion control multimedia"
+    },
+    "network management": {
+        "i": 1282,
+        "label": "network management"
+    },
+    "policy issues": {
+        "i": 1283,
+        "label": "policy issues"
+    },
+    "Ipv6": {
+        "i": 1284,
+        "label": "Ipv6"
+    },
+    "aTM": {
+        "i": 1285,
+        "label": "aTM"
+    },
+    "v": {
+        "i": 1286,
+        "label": "v"
+    },
+    "implementation technologies": {
+        "i": 1287,
+        "label": "implementation technologies"
+    },
+    "custom integrated": {
+        "i": 1288,
+        "label": "custom integrated"
+    },
+    "circuits": {
+        "i": 1289,
+        "label": "circuits"
+    },
+    "field": {
+        "i": 1290,
+        "label": "field"
+    },
+    "programmable logic": {
+        "i": 1291,
+        "label": "programmable logic"
+    },
+    "Systems components": {
+        "i": 1292,
+        "label": "Systems components"
+    },
+    "buses and": {
+        "i": 1293,
+        "label": "buses and"
+    },
+    "communications structures": {
+        "i": 1294,
+        "label": "communications structures"
+    },
+    "interfaces": {
+        "i": 1295,
+        "label": "interfaces"
+    },
+    "memory architectures": {
+        "i": 1296,
+        "label": "memory architectures"
+    },
+    "embedded systems": {
+        "i": 1297,
+        "label": "embedded systems"
+    },
+    "application - specific": {
+        "i": 1298,
+        "label": "application - specific"
+    },
+    "design of": {
+        "i": 1299,
+        "label": "design of"
+    },
+    "large systems": {
+        "i": 1300,
+        "label": "large systems"
+    },
+    "modern CAD": {
+        "i": 1301,
+        "label": "modern CAD"
+    },
+    "Artificial Intelligence": {
+        "i": 1302,
+        "label": "Artificial Intelligence"
+    },
+    "industrial and": {
+        "i": 1303,
+        "label": "industrial and"
+    },
+    "company settings": {
+        "i": 1304,
+        "label": "company settings"
+    },
+    "foundations": {
+        "i": 1305,
+        "label": "foundations"
+    },
+    "interfaces and": {
+        "i": 1306,
+        "label": "interfaces and"
+    },
+    "computer vision": {
+        "i": 1307,
+        "label": "computer vision"
+    },
+    "Image formation": {
+        "i": 1308,
+        "label": "Image formation"
+    },
+    "attentive image": {
+        "i": 1309,
+        "label": "attentive image"
+    },
+    "boundary and": {
+        "i": 1310,
+        "label": "boundary and"
+    },
+    "region representations": {
+        "i": 1311,
+        "label": "region representations"
+    },
+    "vision architectures": {
+        "i": 1312,
+        "label": "vision architectures"
+    },
+    "entrepreneurial activity": {
+        "i": 1313,
+        "label": "entrepreneurial activity"
+    },
+    "evaluation and planning of the business": {
+        "i": 1314,
+        "label": "evaluation and planning of the business"
+    },
+    "typical operating and administrative problems": {
+        "i": 1315,
+        "label": "typical operating and administrative problems"
+    },
+    "alternatives for growth or sale": {
+        "i": 1316,
+        "label": "alternatives for growth or sale"
+    },
+    "market identification": {
+        "i": 1317,
+        "label": "market identification"
+    },
+    "financing": {
+        "i": 1318,
+        "label": "financing"
+    },
+    "computer system": {
+        "i": 1319,
+        "label": "computer system"
+    },
+    "performance evaluation techniques": {
+        "i": 1320,
+        "label": "performance evaluation techniques"
+    },
+    "measurement": {
+        "i": 1321,
+        "label": "measurement"
+    },
+    "benchmarking": {
+        "i": 1322,
+        "label": "benchmarking"
+    },
+    "stochastic and": {
+        "i": 1323,
+        "label": "stochastic and"
+    },
+    "trace driven simulation": {
+        "i": 1324,
+        "label": "trace driven simulation"
+    },
+    "stochastic queueing": {
+        "i": 1325,
+        "label": "stochastic queueing"
+    },
+    "timed Petri": {
+        "i": 1326,
+        "label": "timed Petri"
+    },
+    "nets": {
+        "i": 1327,
+        "label": "nets"
+    },
+    "case study": {
+        "i": 1328,
+        "label": "case study"
+    },
+    "papers": {
+        "i": 1329,
+        "label": "papers"
+    },
+    "Computer - Based Learning Environments": {
+        "i": 1330,
+        "label": "Computer - Based Learning Environments"
+    },
+    "Programming Systems": {
+        "i": 1331,
+        "label": "Programming Systems"
+    },
+    "Brain - Computer Interfaces": {
+        "i": 1332,
+        "label": "Brain - Computer Interfaces"
+    },
+    "Group Meeting": {
+        "i": 1333,
+        "label": "Group Meeting"
+    },
+    "Computational Biology": {
+        "i": 1334,
+        "label": "Computational Biology"
+    },
+    "CSE 591CB": {
+        "i": 1335,
+        "label": "CSE 591CB"
+    },
+    "Database": {
+        "i": 1336,
+        "label": "Database"
+    },
+    "CSE590DM": {
+        "i": 1337,
+        "label": "CSE590DM"
+    },
+    "CSE591E": {
+        "i": 1338,
+        "label": "CSE591E"
+    },
+    "CSE590ED": {
+        "i": 1339,
+        "label": "CSE590ED"
+    },
+    "Computer Science Education & Technology": {
+        "i": 1340,
+        "label": "Computer Science Education & Technology"
+    },
+    "education": {
+        "i": 1341,
+        "label": "education"
+    },
+    "multi": {
+        "i": 1342,
+        "label": "multi"
+    },
+    "robot collaboration": {
+        "i": 1343,
+        "label": "robot collaboration"
+    },
+    "GRAIL lab": {
+        "i": 1344,
+        "label": "GRAIL lab"
+    },
+    "MSR personnel": {
+        "i": 1345,
+        "label": "MSR personnel"
+    },
+    "CSE590GM": {
+        "i": 1346,
+        "label": "CSE590GM"
+    },
+    "research seminar": {
+        "i": 1347,
+        "label": "research seminar"
+    },
+    "MSR ( Microsoft": {
+        "i": 1348,
+        "label": "MSR ( Microsoft"
+    },
+    "Research": {
+        "i": 1349,
+        "label": "Research"
+    },
+    "MSR for research": {
+        "i": 1350,
+        "label": "MSR for research"
+    },
+    "Humaniod Robotics": {
+        "i": 1351,
+        "label": "Humaniod Robotics"
+    },
+    "Activity Recognition": {
+        "i": 1352,
+        "label": "Activity Recognition"
+    },
+    "Data Compression": {
+        "i": 1353,
+        "label": "Data Compression"
+    },
+    "CSE 590GZ": {
+        "i": 1354,
+        "label": "CSE 590GZ"
+    },
+    "behavior recognition": {
+        "i": 1355,
+        "label": "behavior recognition"
+    },
+    "assisted cognition": {
+        "i": 1356,
+        "label": "assisted cognition"
+    },
+    "CSE 591HK": {
+        "i": 1357,
+        "label": "CSE 591HK"
+    },
+    "Statistical Analysis": {
+        "i": 1358,
+        "label": "Statistical Analysis"
+    },
+    "Tools Group": {
+        "i": 1359,
+        "label": "Tools Group"
+    },
+    "HCI": {
+        "i": 1360,
+        "label": "HCI"
+    },
+    "configurable computing": {
+        "i": 1361,
+        "label": "configurable computing"
+    },
+    "configurable architectures": {
+        "i": 1362,
+        "label": "configurable architectures"
+    },
+    "craft programming": {
+        "i": 1363,
+        "label": "craft programming"
+    },
+    "compilers to": {
+        "i": 1364,
+        "label": "compilers to"
+    },
+    "these architectures": {
+        "i": 1365,
+        "label": "these architectures"
+    },
+    "CSE590CC": {
+        "i": 1366,
+        "label": "CSE590CC"
+    },
+    "SAMPA": {
+        "i": 1367,
+        "label": "SAMPA"
+    },
+    "Multimedia Group": {
+        "i": 1368,
+        "label": "Multimedia Group"
+    },
+    "quantum computing": {
+        "i": 1369,
+        "label": "quantum computing"
+    },
+    "build a": {
+        "i": 1370,
+        "label": "build a"
+    },
+    "quantum computer": {
+        "i": 1371,
+        "label": "quantum computer"
+    },
+    "quantum algorithms": {
+        "i": 1372,
+        "label": "quantum algorithms"
+    },
+    "physics": {
+        "i": 1373,
+        "label": "physics"
+    },
+    "future devices": {
+        "i": 1374,
+        "label": "future devices"
+    },
+    "Software Engineering Research Group": {
+        "i": 1375,
+        "label": "Software Engineering Research Group"
+    },
+    "OpenDataKit research group": {
+        "i": 1376,
+        "label": "OpenDataKit research group"
+    },
+    "run": {
+        "i": 1377,
+        "label": "run"
+    },
+    "time systems": {
+        "i": 1378,
+        "label": "time systems"
+    },
+    "imperative": {
+        "i": 1379,
+        "label": "imperative"
+    },
+    "functional languages": {
+        "i": 1380,
+        "label": "functional languages"
+    },
+    "interprocedural analyses": {
+        "i": 1381,
+        "label": "interprocedural analyses"
+    },
+    "optimizations": {
+        "i": 1382,
+        "label": "optimizations"
+    },
+    "implementation , and testing": {
+        "i": 1383,
+        "label": "implementation , and testing"
+    },
+    "multiperson": {
+        "i": 1384,
+        "label": "multiperson"
+    },
+    "software development environments": {
+        "i": 1385,
+        "label": "software development environments"
+    },
+    "formal specifications": {
+        "i": 1386,
+        "label": "formal specifications"
+    },
+    "software design": {
+        "i": 1387,
+        "label": "software design"
+    },
+    "evolution": {
+        "i": 1388,
+        "label": "evolution"
+    },
+    "formal methods": {
+        "i": 1389,
+        "label": "formal methods"
+    },
+    "requirements specifications": {
+        "i": 1390,
+        "label": "requirements specifications"
+    },
+    "software and": {
+        "i": 1391,
+        "label": "software and"
+    },
+    "system safety": {
+        "i": 1392,
+        "label": "system safety"
+    },
+    "reverse engineering": {
+        "i": 1393,
+        "label": "reverse engineering"
+    },
+    "time software": {
+        "i": 1394,
+        "label": "time software"
+    },
+    "metrics and": {
+        "i": 1395,
+        "label": "metrics and"
+    },
+    "programming environments": {
+        "i": 1396,
+        "label": "programming environments"
+    },
+    "formal semantics": {
+        "i": 1397,
+        "label": "formal semantics"
+    },
+    "functional and": {
+        "i": 1398,
+        "label": "functional and"
+    },
+    "object - oriented": {
+        "i": 1399,
+        "label": "object - oriented"
+    },
+    "automated reasoning": {
+        "i": 1400,
+        "label": "automated reasoning"
+    },
+    "satisfiability solving": {
+        "i": 1401,
+        "label": "satisfiability solving"
+    },
+    "theorem proving": {
+        "i": 1402,
+        "label": "theorem proving"
+    },
+    "model checking": {
+        "i": 1403,
+        "label": "model checking"
+    },
+    "abstract interpretation": {
+        "i": 1404,
+        "label": "abstract interpretation"
+    },
+    "mathematical logic": {
+        "i": 1405,
+        "label": "mathematical logic"
+    },
+    "construction": {
+        "i": 1406,
+        "label": "construction"
+    },
+    "softwar": {
+        "i": 1407,
+        "label": "softwar"
+    },
+    "applications of automated reasoning": {
+        "i": 1408,
+        "label": "applications of automated reasoning"
+    },
+    "interface issues": {
+        "i": 1409,
+        "label": "interface issues"
+    },
+    "education applications": {
+        "i": 1410,
+        "label": "education applications"
+    },
+    "graphics and": {
+        "i": 1411,
+        "label": "graphics and"
+    },
+    "computer": {
+        "i": 1412,
+        "label": "computer"
+    },
+    "supported cooperative work": {
+        "i": 1413,
+        "label": "supported cooperative work"
+    },
+    "visualizations based": {
+        "i": 1414,
+        "label": "visualizations based"
+    },
+    "visual art": {
+        "i": 1415,
+        "label": "visual art"
+    },
+    "cognitive science": {
+        "i": 1416,
+        "label": "cognitive science"
+    },
+    "image models": {
+        "i": 1417,
+        "label": "image models"
+    },
+    "graph layout": {
+        "i": 1418,
+        "label": "graph layout"
+    },
+    "automated design": {
+        "i": 1419,
+        "label": "automated design"
+    },
+    "project": {
+        "i": 1420,
+        "label": "project"
+    },
+    "373 or": {
+        "i": 1421,
+        "label": "373 or"
+    },
+    "probabilistic and": {
+        "i": 1422,
+        "label": "probabilistic and"
+    },
+    "statistical techniques": {
+        "i": 1423,
+        "label": "statistical techniques"
+    },
+    "Graphical models": {
+        "i": 1424,
+        "label": "Graphical models"
+    },
+    "probabilistic inference": {
+        "i": 1425,
+        "label": "probabilistic inference"
+    },
+    "statistical learning": {
+        "i": 1426,
+        "label": "statistical learning"
+    },
+    "sequential models": {
+        "i": 1427,
+        "label": "sequential models"
+    },
+    "decision theory": {
+        "i": 1428,
+        "label": "decision theory"
+    },
+    "modern computer systems": {
+        "i": 1429,
+        "label": "modern computer systems"
+    },
+    "research activities": {
+        "i": 1430,
+        "label": "research activities"
+    },
+    "Computer Science": {
+        "i": 1431,
+        "label": "Computer Science"
+    },
+    "current interest": {
+        "i": 1432,
+        "label": "current interest"
+    },
+    "computer scientists": {
+        "i": 1433,
+        "label": "computer scientists"
+    },
+    "Correctness and analysis": {
+        "i": 1434,
+        "label": "Correctness and analysis"
+    },
+    "NP - completeness": {
+        "i": 1435,
+        "label": "NP - completeness"
+    },
+    "divide and": {
+        "i": 1436,
+        "label": "divide and"
+    },
+    "conquer": {
+        "i": 1437,
+        "label": "conquer"
+    },
+    "balancing": {
+        "i": 1438,
+        "label": "balancing"
+    },
+    "greedy method": {
+        "i": 1439,
+        "label": "greedy method"
+    },
+    "network flow": {
+        "i": 1440,
+        "label": "network flow"
+    },
+    "linear programming": {
+        "i": 1441,
+        "label": "linear programming"
+    },
+    "algorithms more": {
+        "i": 1442,
+        "label": "algorithms more"
+    },
+    "algebraic algorithms": {
+        "i": 1443,
+        "label": "algebraic algorithms"
+    },
+    "combinational algorithms": {
+        "i": 1444,
+        "label": "combinational algorithms"
+    },
+    "proving lower": {
+        "i": 1445,
+        "label": "proving lower"
+    },
+    "bounds on": {
+        "i": 1446,
+        "label": "bounds on"
+    },
+    "complexity": {
+        "i": 1447,
+        "label": "complexity"
+    },
+    "special computing": {
+        "i": 1448,
+        "label": "special computing"
+    },
+    "devices such": {
+        "i": 1449,
+        "label": "devices such"
+    },
+    "networks or": {
+        "i": 1450,
+        "label": "networks or"
+    },
+    "formulas": {
+        "i": 1451,
+        "label": "formulas"
+    },
+    "discrete computational": {
+        "i": 1452,
+        "label": "discrete computational"
+    },
+    "geometry": {
+        "i": 1453,
+        "label": "geometry"
+    },
+    "Geometric computation": {
+        "i": 1454,
+        "label": "Geometric computation"
+    },
+    "range searching": {
+        "i": 1455,
+        "label": "range searching"
+    },
+    "convex hulls": {
+        "i": 1456,
+        "label": "convex hulls"
+    },
+    "proximity": {
+        "i": 1457,
+        "label": "proximity"
+    },
+    "Vornoi diagrams": {
+        "i": 1458,
+        "label": "Vornoi diagrams"
+    },
+    "intersection": {
+        "i": 1459,
+        "label": "intersection"
+    },
+    "VLSI design": {
+        "i": 1460,
+        "label": "VLSI design"
+    },
+    "parallel algorithms": {
+        "i": 1461,
+        "label": "parallel algorithms"
+    },
+    "matrix and": {
+        "i": 1462,
+        "label": "matrix and"
+    },
+    "general techniques": {
+        "i": 1463,
+        "label": "general techniques"
+    },
+    "developing fast": {
+        "i": 1464,
+        "label": "developing fast"
+    },
+    "and efficient": {
+        "i": 1465,
+        "label": "and efficient"
+    },
+    "fundamental parallel algorithms": {
+        "i": 1466,
+        "label": "fundamental parallel algorithms"
+    },
+    "algorithmic techniques": {
+        "i": 1467,
+        "label": "algorithmic techniques"
+    },
+    "random selection": {
+        "i": 1468,
+        "label": "random selection"
+    },
+    "random sampling": {
+        "i": 1469,
+        "label": "random sampling"
+    },
+    "backwards analysis": {
+        "i": 1470,
+        "label": "backwards analysis"
+    },
+    "algebraic methods": {
+        "i": 1471,
+        "label": "algebraic methods"
+    },
+    "Monte Carlo": {
+        "i": 1472,
+        "label": "Monte Carlo"
+    },
+    "randomized rounding": {
+        "i": 1473,
+        "label": "randomized rounding"
+    },
+    "random graphs": {
+        "i": 1474,
+        "label": "random graphs"
+    },
+    "the probabilistic": {
+        "i": 1475,
+        "label": "the probabilistic"
+    },
+    "method": {
+        "i": 1476,
+        "label": "method"
+    },
+    "Markov chains": {
+        "i": 1477,
+        "label": "Markov chains"
+    },
+    "random walks": {
+        "i": 1478,
+        "label": "random walks"
+    },
+    "random variables": {
+        "i": 1479,
+        "label": "random variables"
+    },
+    "moments and": {
+        "i": 1480,
+        "label": "moments and"
+    },
+    "deviations": {
+        "i": 1481,
+        "label": "deviations"
+    },
+    "Chernoff bounds": {
+        "i": 1482,
+        "label": "Chernoff bounds"
+    },
+    "martingales": {
+        "i": 1483,
+        "label": "martingales"
+    },
+    "balls in": {
+        "i": 1484,
+        "label": "balls in"
+    },
+    "bins": {
+        "i": 1485,
+        "label": "bins"
+    },
+    "network reconstruction": {
+        "i": 1486,
+        "label": "network reconstruction"
+    },
+    "genetic analysis": {
+        "i": 1487,
+        "label": "genetic analysis"
+    },
+    "Bayesian networks": {
+        "i": 1488,
+        "label": "Bayesian networks"
+    },
+    "Gaussian graphical": {
+        "i": 1489,
+        "label": "Gaussian graphical"
+    },
+    "structure learning": {
+        "i": 1490,
+        "label": "structure learning"
+    },
+    "nervous systems": {
+        "i": 1491,
+        "label": "nervous systems"
+    },
+    "operation": {
+        "i": 1492,
+        "label": "operation"
+    },
+    "representation of": {
+        "i": 1493,
+        "label": "representation of"
+    },
+    "information by": {
+        "i": 1494,
+        "label": "information by"
+    },
+    "spiking neurons": {
+        "i": 1495,
+        "label": "spiking neurons"
+    },
+    "neural circuits": {
+        "i": 1496,
+        "label": "neural circuits"
+    },
+    "adaptation and": {
+        "i": 1497,
+        "label": "adaptation and"
+    },
+    "sensorimotor function": {
+        "i": 1498,
+        "label": "sensorimotor function"
+    },
+    "phenomenology amenable": {
+        "i": 1499,
+        "label": "phenomenology amenable"
+    },
+    "computational modeling": {
+        "i": 1500,
+        "label": "computational modeling"
+    },
+    "musculoskeletal mechanics": {
+        "i": 1501,
+        "label": "musculoskeletal mechanics"
+    },
+    "optimal control": {
+        "i": 1502,
+        "label": "optimal control"
+    },
+    "Bayesian inference": {
+        "i": 1503,
+        "label": "Bayesian inference"
+    },
+    "learning and": {
+        "i": 1504,
+        "label": "learning and"
+    },
+    "adaptation": {
+        "i": 1505,
+        "label": "adaptation"
+    },
+    "internal models": {
+        "i": 1506,
+        "label": "internal models"
+    },
+    "neural coding": {
+        "i": 1507,
+        "label": "neural coding"
+    },
+    "decoding": {
+        "i": 1508,
+        "label": "decoding"
+    },
+    "Deterministic and": {
+        "i": 1509,
+        "label": "Deterministic and"
+    },
+    "nondeterministic time": {
+        "i": 1510,
+        "label": "nondeterministic time"
+    },
+    "and space": {
+        "i": 1511,
+        "label": "and space"
+    },
+    "space hierarchies": {
+        "i": 1512,
+        "label": "space hierarchies"
+    },
+    "Alternation and": {
+        "i": 1513,
+        "label": "Alternation and"
+    },
+    "time hierarchy": {
+        "i": 1514,
+        "label": "time hierarchy"
+    },
+    "Circuit complexity": {
+        "i": 1515,
+        "label": "Circuit complexity"
+    },
+    "Probabilistic computation": {
+        "i": 1516,
+        "label": "Probabilistic computation"
+    },
+    "Exponential complexity": {
+        "i": 1517,
+        "label": "Exponential complexity"
+    },
+    "Interactive proofs": {
+        "i": 1518,
+        "label": "Interactive proofs"
+    },
+    "circuit complexity": {
+        "i": 1519,
+        "label": "circuit complexity"
+    },
+    "p": {
+        "i": 1520,
+        "label": "p"
+    },
+    "counting classes": {
+        "i": 1521,
+        "label": "counting classes"
+    },
+    "probabilistically": {
+        "i": 1522,
+        "label": "probabilistically"
+    },
+    "checkable proofs": {
+        "i": 1523,
+        "label": "checkable proofs"
+    },
+    "de": {
+        "i": 1524,
+        "label": "de"
+    },
+    "randomization": {
+        "i": 1525,
+        "label": "randomization"
+    },
+    "logical characteristics": {
+        "i": 1526,
+        "label": "logical characteristics"
+    },
+    "communication complexity": {
+        "i": 1527,
+        "label": "communication complexity"
+    },
+    "space tradeoffs": {
+        "i": 1528,
+        "label": "space tradeoffs"
+    },
+    "complexity of data structures": {
+        "i": 1529,
+        "label": "complexity of data structures"
+    },
+    "advanced topics in computational complexity": {
+        "i": 1530,
+        "label": "advanced topics in computational complexity"
+    },
+    "convex optimization": {
+        "i": 1531,
+        "label": "convex optimization"
+    },
+    "continuous algorithms": {
+        "i": 1532,
+        "label": "continuous algorithms"
+    },
+    "First": {
+        "i": 1533,
+        "label": "First"
+    },
+    "order methods": {
+        "i": 1534,
+        "label": "order methods"
+    },
+    "rates of": {
+        "i": 1535,
+        "label": "rates of"
+    },
+    "convergence": {
+        "i": 1536,
+        "label": "convergence"
+    },
+    "acceleration": {
+        "i": 1537,
+        "label": "acceleration"
+    },
+    "gradient": {
+        "i": 1538,
+        "label": "gradient"
+    },
+    "subgradient": {
+        "i": 1539,
+        "label": "subgradient"
+    },
+    "mirror descent": {
+        "i": 1540,
+        "label": "mirror descent"
+    },
+    "Randomization": {
+        "i": 1541,
+        "label": "Randomization"
+    },
+    "stochastic descent": {
+        "i": 1542,
+        "label": "stochastic descent"
+    },
+    "leverage scores": {
+        "i": 1543,
+        "label": "leverage scores"
+    },
+    "sampling": {
+        "i": 1544,
+        "label": "sampling"
+    },
+    "Interior point methods": {
+        "i": 1545,
+        "label": "Interior point methods"
+    },
+    "Linear systems": {
+        "i": 1546,
+        "label": "Linear systems"
+    },
+    "Algorithmic applications": {
+        "i": 1547,
+        "label": "Algorithmic applications"
+    },
+    "distributed computing": {
+        "i": 1548,
+        "label": "distributed computing"
+    },
+    "models of": {
+        "i": 1549,
+        "label": "models of"
+    },
+    "agreement problems": {
+        "i": 1550,
+        "label": "agreement problems"
+    },
+    "impossibility results": {
+        "i": 1551,
+        "label": "impossibility results"
+    },
+    "mutual exclusion protocols": {
+        "i": 1552,
+        "label": "mutual exclusion protocols"
+    },
+    "concurrent reading": {
+        "i": 1553,
+        "label": "concurrent reading"
+    },
+    "while writing protocols": {
+        "i": 1554,
+        "label": "while writing protocols"
+    },
+    "knowledge analysis": {
+        "i": 1555,
+        "label": "knowledge analysis"
+    },
+    "of protocols": {
+        "i": 1556,
+        "label": "of protocols"
+    },
+    "distributed algorithms": {
+        "i": 1557,
+        "label": "distributed algorithms"
+    },
+    "simulation of discrete": {
+        "i": 1558,
+        "label": "simulation of discrete"
+    },
+    "Basic statistical analysis": {
+        "i": 1559,
+        "label": "Basic statistical analysis"
+    },
+    "event": {
+        "i": 1560,
+        "label": "event"
+    },
+    "Model construction": {
+        "i": 1561,
+        "label": "Model construction"
+    },
+    "simulation and": {
+        "i": 1562,
+        "label": "simulation and"
+    },
+    "Distributed and": {
+        "i": 1563,
+        "label": "Distributed and"
+    },
+    "parallel simulation techniques": {
+        "i": 1564,
+        "label": "parallel simulation techniques"
+    },
+    "simulation inputs": {
+        "i": 1565,
+        "label": "simulation inputs"
+    },
+    "outputs": {
+        "i": 1566,
+        "label": "outputs"
+    },
+    "oriented language": {
+        "i": 1567,
+        "label": "oriented language"
+    },
+    "S": {
+        "i": 1568,
+        "label": "S"
+    },
+    "statistical analysis": {
+        "i": 1569,
+        "label": "statistical analysis"
+    },
+    "probability and": {
+        "i": 1570,
+        "label": "probability and"
+    },
+    "analytic models": {
+        "i": 1571,
+        "label": "analytic models"
+    },
+    "performance of": {
+        "i": 1572,
+        "label": "performance of"
+    },
+    "centralized": {
+        "i": 1573,
+        "label": "centralized"
+    },
+    "distributed": {
+        "i": 1574,
+        "label": "distributed"
+    },
+    "parallel computer": {
+        "i": 1575,
+        "label": "parallel computer"
+    },
+    "Relational Algebra": {
+        "i": 1576,
+        "label": "Relational Algebra"
+    },
+    "Relational Calculus": {
+        "i": 1577,
+        "label": "Relational Calculus"
+    },
+    "Database systems": {
+        "i": 1578,
+        "label": "Database systems"
+    },
+    "indexes": {
+        "i": 1579,
+        "label": "indexes"
+    },
+    "query execution": {
+        "i": 1580,
+        "label": "query execution"
+    },
+    "database statistics": {
+        "i": 1581,
+        "label": "database statistics"
+    },
+    "parallel databases": {
+        "i": 1582,
+        "label": "parallel databases"
+    },
+    "MapReduce": {
+        "i": 1583,
+        "label": "MapReduce"
+    },
+    "Database theory": {
+        "i": 1584,
+        "label": "Database theory"
+    },
+    "datalog and": {
+        "i": 1585,
+        "label": "datalog and"
+    },
+    "extensions": {
+        "i": 1586,
+        "label": "extensions"
+    },
+    "negation": {
+        "i": 1587,
+        "label": "negation"
+    },
+    "query complexity": {
+        "i": 1588,
+        "label": "query complexity"
+    },
+    "query containment": {
+        "i": 1589,
+        "label": "query containment"
+    },
+    "equivalence": {
+        "i": 1590,
+        "label": "equivalence"
+    },
+    "bounded tree": {
+        "i": 1591,
+        "label": "bounded tree"
+    },
+    "width": {
+        "i": 1592,
+        "label": "width"
+    },
+    "data provenance": {
+        "i": 1593,
+        "label": "data provenance"
+    },
+    "probabilistic databases": {
+        "i": 1594,
+        "label": "probabilistic databases"
+    },
+    "designing systems": {
+        "i": 1595,
+        "label": "designing systems"
+    },
+    "Machine Learning": {
+        "i": 1596,
+        "label": "Machine Learning"
+    },
+    "analyzing datasets": {
+        "i": 1597,
+        "label": "analyzing datasets"
+    },
+    "massive size": {
+        "i": 1598,
+        "label": "massive size"
+    },
+    "dimensionality": {
+        "i": 1599,
+        "label": "dimensionality"
+    },
+    "regularized linear": {
+        "i": 1600,
+        "label": "regularized linear"
+    },
+    "graphical models": {
+        "i": 1601,
+        "label": "graphical models"
+    },
+    "matrix factorization": {
+        "i": 1602,
+        "label": "matrix factorization"
+    },
+    "sparsity": {
+        "i": 1603,
+        "label": "sparsity"
+    },
+    "latent factor": {
+        "i": 1604,
+        "label": "latent factor"
+    },
+    "sketching": {
+        "i": 1605,
+        "label": "sketching"
+    },
+    "random projections": {
+        "i": 1606,
+        "label": "random projections"
+    },
+    "fast nearest": {
+        "i": 1607,
+        "label": "fast nearest"
+    },
+    "neighbors": {
+        "i": 1608,
+        "label": "neighbors"
+    },
+    "scale online": {
+        "i": 1609,
+        "label": "scale online"
+    },
+    "Map - reduce": {
+        "i": 1610,
+        "label": "Map - reduce"
+    },
+    "GraphLab": {
+        "i": 1611,
+        "label": "GraphLab"
+    },
+    "computer systems": {
+        "i": 1612,
+        "label": "computer systems"
+    },
+    "I / O processing": {
+        "i": 1613,
+        "label": "I / O processing"
+    },
+    "Processor design": {
+        "i": 1614,
+        "label": "Processor design"
+    },
+    "single chip": {
+        "i": 1615,
+        "label": "single chip"
+    },
+    "look - ahead": {
+        "i": 1616,
+        "label": "look - ahead"
+    },
+    "pipelined": {
+        "i": 1617,
+        "label": "pipelined"
+    },
+    "data flow": {
+        "i": 1618,
+        "label": "data flow"
+    },
+    "Memory hierarchy organization": {
+        "i": 1619,
+        "label": "Memory hierarchy organization"
+    },
+    "caches": {
+        "i": 1620,
+        "label": "caches"
+    },
+    "Microprogramming": {
+        "i": 1621,
+        "label": "Microprogramming"
+    },
+    "Multiprocessors": {
+        "i": 1622,
+        "label": "Multiprocessors"
+    },
+    "SIMD and": {
+        "i": 1623,
+        "label": "SIMD and"
+    },
+    "MIMD": {
+        "i": 1624,
+        "label": "MIMD"
+    },
+    "Algorithm design": {
+        "i": 1625,
+        "label": "Algorithm design"
+    },
+    "software techniques": {
+        "i": 1626,
+        "label": "software techniques"
+    },
+    "computer organizations": {
+        "i": 1627,
+        "label": "computer organizations"
+    },
+    "performance computing": {
+        "i": 1628,
+        "label": "performance computing"
+    },
+    "compiling techniques": {
+        "i": 1629,
+        "label": "compiling techniques"
+    },
+    "parallel and": {
+        "i": 1630,
+        "label": "parallel and"
+    },
+    "vector machines": {
+        "i": 1631,
+        "label": "vector machines"
+    },
+    "large MIMD": {
+        "i": 1632,
+        "label": "large MIMD"
+    },
+    "interconnection networks": {
+        "i": 1633,
+        "label": "interconnection networks"
+    },
+    "reconfigurable systems": {
+        "i": 1634,
+        "label": "reconfigurable systems"
+    },
+    "memory hierarchies": {
+        "i": 1635,
+        "label": "memory hierarchies"
+    },
+    "multiprocessors": {
+        "i": 1636,
+        "label": "multiprocessors"
+    },
+    "algorithmically specialized": {
+        "i": 1637,
+        "label": "algorithmically specialized"
+    },
+    "processors": {
+        "i": 1638,
+        "label": "processors"
+    },
+    "data flow architectures": {
+        "i": 1639,
+        "label": "data flow architectures"
+    },
+    "VLSI": {
+        "i": 1640,
+        "label": "VLSI"
+    },
+    "computer system design": {
+        "i": 1641,
+        "label": "computer system design"
+    },
+    "web servers": {
+        "i": 1642,
+        "label": "web servers"
+    },
+    "Operating system": {
+        "i": 1643,
+        "label": "Operating system"
+    },
+    "Concurrent programming": {
+        "i": 1644,
+        "label": "Concurrent programming"
+    },
+    "operating system kernels": {
+        "i": 1645,
+        "label": "operating system kernels"
+    },
+    "correctness": {
+        "i": 1646,
+        "label": "correctness"
+    },
+    "deadlock": {
+        "i": 1647,
+        "label": "deadlock"
+    },
+    "transaction processing": {
+        "i": 1648,
+        "label": "transaction processing"
+    },
+    "design methodologies": {
+        "i": 1649,
+        "label": "design methodologies"
+    },
+    "comparative structure": {
+        "i": 1650,
+        "label": "comparative structure"
+    },
+    "of operating": {
+        "i": 1651,
+        "label": "of operating"
+    },
+    "distributed and": {
+        "i": 1652,
+        "label": "distributed and"
+    },
+    "construction of software": {
+        "i": 1653,
+        "label": "construction of software"
+    },
+    "time computer": {
+        "i": 1654,
+        "label": "time computer"
+    },
+    "Software architectures": {
+        "i": 1655,
+        "label": "Software architectures"
+    },
+    "Requirements and": {
+        "i": 1656,
+        "label": "Requirements and"
+    },
+    "specification methods": {
+        "i": 1657,
+        "label": "specification methods"
+    },
+    "Scheduling algorithms": {
+        "i": 1658,
+        "label": "Scheduling algorithms"
+    },
+    "timing analysis": {
+        "i": 1659,
+        "label": "timing analysis"
+    },
+    "Real": {
+        "i": 1660,
+        "label": "Real"
+    },
+    "time operating": {
+        "i": 1661,
+        "label": "time operating"
+    },
+    "time programming": {
+        "i": 1662,
+        "label": "time programming"
+    },
+    "computational tools": {
+        "i": 1663,
+        "label": "computational tools"
+    },
+    "computational fabrication": {
+        "i": 1664,
+        "label": "computational fabrication"
+    },
+    "hardware abstraction languages": {
+        "i": 1665,
+        "label": "hardware abstraction languages"
+    },
+    "geometry processing": {
+        "i": 1666,
+        "label": "geometry processing"
+    },
+    "fundamentals": {
+        "i": 1667,
+        "label": "fundamentals"
+    },
+    "based simulation": {
+        "i": 1668,
+        "label": "based simulation"
+    },
+    "driven design": {
+        "i": 1669,
+        "label": "driven design"
+    },
+    "performance interactive": {
+        "i": 1670,
+        "label": "performance interactive"
+    },
+    "image synthesis": {
+        "i": 1671,
+        "label": "image synthesis"
+    },
+    "computer modeling": {
+        "i": 1672,
+        "label": "computer modeling"
+    },
+    "color theory": {
+        "i": 1673,
+        "label": "color theory"
+    },
+    "projective geometry": {
+        "i": 1674,
+        "label": "projective geometry"
+    },
+    "surface determination": {
+        "i": 1675,
+        "label": "surface determination"
+    },
+    "photorealistic image": {
+        "i": 1676,
+        "label": "photorealistic image"
+    },
+    "synthesis": {
+        "i": 1677,
+        "label": "synthesis"
+    },
+    "advanced curve": {
+        "i": 1678,
+        "label": "advanced curve"
+    },
+    "surface design": {
+        "i": 1679,
+        "label": "surface design"
+    },
+    "3D photography": {
+        "i": 1680,
+        "label": "3D photography"
+    },
+    "CSE 557": {
+        "i": 1681,
+        "label": "CSE 557"
+    },
+    "data transmission": {
+        "i": 1682,
+        "label": "data transmission"
+    },
+    "coding": {
+        "i": 1683,
+        "label": "coding"
+    },
+    "message formats": {
+        "i": 1684,
+        "label": "message formats"
+    },
+    "protocols": {
+        "i": 1685,
+        "label": "protocols"
+    },
+    "network implementations": {
+        "i": 1686,
+        "label": "network implementations"
+    },
+    "Organization of computer networks": {
+        "i": 1687,
+        "label": "Organization of computer networks"
+    },
+    "attack detection": {
+        "i": 1688,
+        "label": "attack detection"
+    },
+    "measurements": {
+        "i": 1689,
+        "label": "measurements"
+    },
+    "cryptography and": {
+        "i": 1690,
+        "label": "cryptography and"
+    },
+    "communications security": {
+        "i": 1691,
+        "label": "communications security"
+    },
+    "system design": {
+        "i": 1692,
+        "label": "system design"
+    },
+    "side channels": {
+        "i": 1693,
+        "label": "side channels"
+    },
+    "logic design": {
+        "i": 1694,
+        "label": "logic design"
+    },
+    "minimization techniques": {
+        "i": 1695,
+        "label": "minimization techniques"
+    },
+    "structured design methods": {
+        "i": 1696,
+        "label": "structured design methods"
+    },
+    "complementary and": {
+        "i": 1697,
+        "label": "complementary and"
+    },
+    "ratioed gates": {
+        "i": 1698,
+        "label": "ratioed gates"
+    },
+    "delay estimation": {
+        "i": 1699,
+        "label": "delay estimation"
+    },
+    "performance analysis": {
+        "i": 1700,
+        "label": "performance analysis"
+    },
+    "arithmetic circuits": {
+        "i": 1701,
+        "label": "arithmetic circuits"
+    },
+    "memories": {
+        "i": 1702,
+        "label": "memories"
+    },
+    "clocking methodologies": {
+        "i": 1703,
+        "label": "clocking methodologies"
+    },
+    "synthesis and": {
+        "i": 1704,
+        "label": "synthesis and"
+    },
+    "simulation tools": {
+        "i": 1705,
+        "label": "simulation tools"
+    },
+    "VLSI processor architecture": {
+        "i": 1706,
+        "label": "VLSI processor architecture"
+    },
+    "combinational logic": {
+        "i": 1707,
+        "label": "combinational logic"
+    },
+    "register - design": {
+        "i": 1708,
+        "label": "register - design"
+    },
+    "system": {
+        "i": 1709,
+        "label": "system"
+    },
+    "datapath and": {
+        "i": 1710,
+        "label": "datapath and"
+    },
+    "subsystem design": {
+        "i": 1711,
+        "label": "subsystem design"
+    },
+    "VLSI system": {
+        "i": 1712,
+        "label": "VLSI system"
+    },
+    "design of a complex VLSI chip": {
+        "i": 1713,
+        "label": "design of a complex VLSI chip"
+    },
+    "Bayesian state": {
+        "i": 1714,
+        "label": "Bayesian state"
+    },
+    "estimation": {
+        "i": 1715,
+        "label": "estimation"
+    },
+    "robot localization": {
+        "i": 1716,
+        "label": "robot localization"
+    },
+    "mapping": {
+        "i": 1717,
+        "label": "mapping"
+    },
+    "manipulation": {
+        "i": 1718,
+        "label": "manipulation"
+    },
+    "oriented introduction": {
+        "i": 1719,
+        "label": "oriented introduction"
+    },
+    "introduction to artificial intelligence": {
+        "i": 1720,
+        "label": "introduction to artificial intelligence"
+    },
+    "understanding": {
+        "i": 1721,
+        "label": "understanding"
+    },
+    "qualitative physics": {
+        "i": 1722,
+        "label": "qualitative physics"
+    },
+    "formal models": {
+        "i": 1723,
+        "label": "formal models"
+    },
+    "of time": {
+        "i": 1724,
+        "label": "of time"
+    },
+    "and action": {
+        "i": 1725,
+        "label": "and action"
+    },
+    "projects": {
+        "i": 1726,
+        "label": "projects"
+    },
+    "preattentive image processing": {
+        "i": 1727,
+        "label": "preattentive image processing"
+    },
+    "vision for graphics": {
+        "i": 1728,
+        "label": "vision for graphics"
+    },
+    "learning , medical": {
+        "i": 1729,
+        "label": "learning , medical"
+    },
+    "probabilistic vision": {
+        "i": 1730,
+        "label": "probabilistic vision"
+    },
+    "imaging": {
+        "i": 1731,
+        "label": "imaging"
+    },
+    "content - based": {
+        "i": 1732,
+        "label": "content - based"
+    },
+    "image and": {
+        "i": 1733,
+        "label": "image and"
+    },
+    "video retrieval": {
+        "i": 1734,
+        "label": "video retrieval"
+    },
+    "robot vision": {
+        "i": 1735,
+        "label": "robot vision"
+    },
+    "3D object": {
+        "i": 1736,
+        "label": "3D object"
+    },
+    "recognition": {
+        "i": 1737,
+        "label": "recognition"
+    },
+    "convex analysis": {
+        "i": 1738,
+        "label": "convex analysis"
+    },
+    "Convex sets": {
+        "i": 1739,
+        "label": "Convex sets"
+    },
+    "functions": {
+        "i": 1740,
+        "label": "functions"
+    },
+    "optimization problems": {
+        "i": 1741,
+        "label": "optimization problems"
+    },
+    "Optimization theory": {
+        "i": 1742,
+        "label": "Optimization theory"
+    },
+    "Least": {
+        "i": 1743,
+        "label": "Least"
+    },
+    "squares": {
+        "i": 1744,
+        "label": "squares"
+    },
+    "linear": {
+        "i": 1745,
+        "label": "linear"
+    },
+    "quadratic": {
+        "i": 1746,
+        "label": "quadratic"
+    },
+    "geometric and": {
+        "i": 1747,
+        "label": "geometric and"
+    },
+    "semidefinite programming": {
+        "i": 1748,
+        "label": "semidefinite programming"
+    },
+    "Convex modeling": {
+        "i": 1749,
+        "label": "Convex modeling"
+    },
+    "Duality theory": {
+        "i": 1750,
+        "label": "Duality theory"
+    },
+    "Optimality and": {
+        "i": 1751,
+        "label": "Optimality and"
+    },
+    "KKT conditions": {
+        "i": 1752,
+        "label": "KKT conditions"
+    },
+    "control communications": {
+        "i": 1753,
+        "label": "control communications"
+    },
+    "engineering systems": {
+        "i": 1754,
+        "label": "engineering systems"
+    },
+    "near": {
+        "i": 1755,
+        "label": "near"
+    },
+    "optimal controllers": {
+        "i": 1756,
+        "label": "optimal controllers"
+    },
+    "complex dynamical": {
+        "i": 1757,
+        "label": "complex dynamical"
+    },
+    "analytical techniques": {
+        "i": 1758,
+        "label": "analytical techniques"
+    },
+    "deterministic and": {
+        "i": 1759,
+        "label": "deterministic and"
+    },
+    "stochastic optimal": {
+        "i": 1760,
+        "label": "stochastic optimal"
+    },
+    "reinforcement learning": {
+        "i": 1761,
+        "label": "reinforcement learning"
+    },
+    "numerical optimization": {
+        "i": 1762,
+        "label": "numerical optimization"
+    },
+    "context of control": {
+        "i": 1763,
+        "label": "context of control"
+    },
+    "Parallel architectures": {
+        "i": 1764,
+        "label": "Parallel architectures"
+    },
+    "languages for": {
+        "i": 1765,
+        "label": "languages for"
+    },
+    "Cellular array": {
+        "i": 1766,
+        "label": "Cellular array"
+    },
+    "pipelined and": {
+        "i": 1767,
+        "label": "pipelined and"
+    },
+    "pyramid machines": {
+        "i": 1768,
+        "label": "pyramid machines"
+    },
+    "instruction sets": {
+        "i": 1769,
+        "label": "instruction sets"
+    },
+    "design issues": {
+        "i": 1770,
+        "label": "design issues"
+    },
+    "Parallel implementations": {
+        "i": 1771,
+        "label": "Parallel implementations"
+    },
+    "filtering": {
+        "i": 1772,
+        "label": "filtering"
+    },
+    "edge detection": {
+        "i": 1773,
+        "label": "edge detection"
+    },
+    "shape": {
+        "i": 1774,
+        "label": "shape"
+    },
+    "stereo": {
+        "i": 1775,
+        "label": "stereo"
+    },
+    "motion": {
+        "i": 1776,
+        "label": "motion"
+    },
+    "relaxation algorithms": {
+        "i": 1777,
+        "label": "relaxation algorithms"
+    },
+    "multiresolution methods": {
+        "i": 1778,
+        "label": "multiresolution methods"
+    },
+    "iconic": {
+        "i": 1779,
+        "label": "iconic"
+    },
+    "to": {
+        "i": 1780,
+        "label": "to"
+    },
+    "symbolic transforms": {
+        "i": 1781,
+        "label": "symbolic transforms"
+    },
+    "debug programs": {
+        "i": 1782,
+        "label": "debug programs"
+    },
+    "parallel computers": {
+        "i": 1783,
+        "label": "parallel computers"
+    },
+    "CSE with": {
+        "i": 1784,
+        "label": "CSE with"
+    },
+    "Python basics": {
+        "i": 1785,
+        "label": "Python basics"
+    },
+    "software version control": {
+        "i": 1786,
+        "label": "software version control"
+    },
+    "using Python": {
+        "i": 1787,
+        "label": "using Python"
+    },
+    "visualization": {
+        "i": 1788,
+        "label": "visualization"
+    },
+    "computer system performance evaluation techniques": {
+        "i": 1789,
+        "label": "computer system performance evaluation techniques"
+    },
+    "stochastic queuing": {
+        "i": 1790,
+        "label": "stochastic queuing"
+    },
+    "CSE 543": {
+        "i": 1791,
+        "label": "CSE 543"
+    },
+    "Molecular biology": {
+        "i": 1792,
+        "label": "Molecular biology"
+    },
+    "computational research": {
+        "i": 1793,
+        "label": "computational research"
+    },
+    "bioinformatics and": {
+        "i": 1794,
+        "label": "bioinformatics and"
+    },
+    "bioengineering": {
+        "i": 1795,
+        "label": "bioengineering"
+    },
+    "Life Sciences": {
+        "i": 1796,
+        "label": "Life Sciences"
+    },
+    "Design , implementation": {
+        "i": 1797,
+        "label": "Design , implementation"
+    },
+    "projects in": {
+        "i": 1798,
+        "label": "projects in"
+    },
+    "productive fashion": {
+        "i": 1799,
+        "label": "productive fashion"
+    },
+    "3D printing": {
+        "i": 1800,
+        "label": "3D printing"
+    },
+    "sustainability": {
+        "i": 1801,
+        "label": "sustainability"
+    },
+    "the developing": {
+        "i": 1802,
+        "label": "the developing"
+    },
+    "world": {
+        "i": 1803,
+        "label": "world"
+    },
+    "research problems": {
+        "i": 1804,
+        "label": "research problems"
+    },
+    "computational design": {
+        "i": 1805,
+        "label": "computational design"
+    },
+    "manufacturing": {
+        "i": 1806,
+        "label": "manufacturing"
+    },
+    "additive manufacturing": {
+        "i": 1807,
+        "label": "additive manufacturing"
+    },
+    "subtractive manufacturing": {
+        "i": 1808,
+        "label": "subtractive manufacturing"
+    },
+    "knitting": {
+        "i": 1809,
+        "label": "knitting"
+    },
+    "mechanisms": {
+        "i": 1810,
+        "label": "mechanisms"
+    },
+    "aerodynamics": {
+        "i": 1811,
+        "label": "aerodynamics"
+    },
+    "CSE graduate": {
+        "i": 1812,
+        "label": "CSE graduate"
+    },
+    "CSE department": {
+        "i": 1813,
+        "label": "CSE department"
+    },
+    "research opportunities": {
+        "i": 1814,
+        "label": "research opportunities"
+    },
+    "Computer Graphics Seminar": {
+        "i": 1815,
+        "label": "Computer Graphics Seminar"
+    },
+    "computer , biological , and mathematical sciences": {
+        "i": 1816,
+        "label": "computer , biological , and mathematical sciences"
+    },
+    "extreme": {
+        "i": 1817,
+        "label": "extreme"
+    },
+    "programs are": {
+        "i": 1818,
+        "label": "programs are"
+    },
+    "edited": {
+        "i": 1819,
+        "label": "edited"
+    },
+    "while": {
+        "i": 1820,
+        "label": "while"
+    },
+    "they are": {
+        "i": 1821,
+        "label": "they are"
+    },
+    "running": {
+        "i": 1822,
+        "label": "running"
+    },
+    "semantic": {
+        "i": 1823,
+        "label": "semantic"
+    },
+    "language": {
+        "i": 1824,
+        "label": "language"
+    },
+    "musical improvisation": {
+        "i": 1825,
+        "label": "musical improvisation"
+    },
+    "performance": {
+        "i": 1826,
+        "label": "performance"
+    },
+    "Computer Science education": {
+        "i": 1827,
+        "label": "Computer Science education"
+    },
+    "Environmental Modelling": {
+        "i": 1828,
+        "label": "Environmental Modelling"
+    },
+    "task - specific": {
+        "i": 1829,
+        "label": "task - specific"
+    },
+    "computing devices": {
+        "i": 1830,
+        "label": "computing devices"
+    },
+    "communication methods": {
+        "i": 1831,
+        "label": "communication methods"
+    },
+    "general": {
+        "i": 1832,
+        "label": "general"
+    },
+    "purpose computing": {
+        "i": 1833,
+        "label": "purpose computing"
+    },
+    "Computing and the": {
+        "i": 1834,
+        "label": "Computing and the"
+    },
+    "Developing World": {
+        "i": 1835,
+        "label": "Developing World"
+    },
+    "CSE590DW": {
+        "i": 1836,
+        "label": "CSE590DW"
+    },
+    "key architecture conferences": {
+        "i": 1837,
+        "label": "key architecture conferences"
+    },
+    "advanced subtopics in computer architecture": {
+        "i": 1838,
+        "label": "advanced subtopics in computer architecture"
+    },
+    "Design Use": {
+        "i": 1839,
+        "label": "Design Use"
+    },
+    "Build": {
+        "i": 1840,
+        "label": "Build"
+    },
+    "Computer networks": {
+        "i": 1841,
+        "label": "Computer networks"
+    },
+    "CSE590PD": {
+        "i": 1842,
+        "label": "CSE590PD"
+    },
+    "Neural computation": {
+        "i": 1843,
+        "label": "Neural computation"
+    },
+    "classic": {
+        "i": 1844,
+        "label": "classic"
+    },
+    "recent papers": {
+        "i": 1845,
+        "label": "recent papers"
+    },
+    "neural computing": {
+        "i": 1846,
+        "label": "neural computing"
+    },
+    "neuroscience": {
+        "i": 1847,
+        "label": "neuroscience"
+    },
+    "reading": {
+        "i": 1848,
+        "label": "reading"
+    },
+    "Parallel Programming Environments": {
+        "i": 1849,
+        "label": "Parallel Programming Environments"
+    },
+    "CSE 590DB": {
+        "i": 1850,
+        "label": "CSE 590DB"
+    },
+    "590QC": {
+        "i": 1851,
+        "label": "590QC"
+    },
+    "lecture notes": {
+        "i": 1852,
+        "label": "lecture notes"
+    },
+    "Robotics Colloquium": {
+        "i": 1853,
+        "label": "Robotics Colloquium"
+    },
+    "Systems seminar": {
+        "i": 1854,
+        "label": "Systems seminar"
+    },
+    "CSE590S": {
+        "i": 1855,
+        "label": "CSE590S"
+    },
+    "Society and Technology": {
+        "i": 1856,
+        "label": "Society and Technology"
+    },
+    "ubiquitous computing": {
+        "i": 1857,
+        "label": "ubiquitous computing"
+    },
+    "Ubicomp": {
+        "i": 1858,
+        "label": "Ubicomp"
+    },
+    "CSE 590UC": {
+        "i": 1859,
+        "label": "CSE 590UC"
+    },
+    "Computer Vision": {
+        "i": 1860,
+        "label": "Computer Vision"
+    },
+    "accessible computing": {
+        "i": 1861,
+        "label": "accessible computing"
+    },
+    "people with disabilities": {
+        "i": 1862,
+        "label": "people with disabilities"
+    },
+    "current research": {
+        "i": 1863,
+        "label": "current research"
+    },
+    "results": {
+        "i": 1864,
+        "label": "results"
+    },
+    "discussion": {
+        "i": 1865,
+        "label": "discussion"
+    },
+    "critical evaluations": {
+        "i": 1866,
+        "label": "critical evaluations"
+    },
+    "research": {
+        "i": 1867,
+        "label": "research"
+    },
+    "Security": {
+        "i": 1868,
+        "label": "Security"
+    },
+    "CS theory": {
+        "i": 1869,
+        "label": "CS theory"
+    },
+    "main theory": {
+        "i": 1870,
+        "label": "main theory"
+    },
+    "CSE 590Z": {
+        "i": 1871,
+        "label": "CSE 590Z"
+    },
+    "CSE 590ZZ": {
+        "i": 1872,
+        "label": "CSE 590ZZ"
+    },
+    "research papers": {
+        "i": 1873,
+        "label": "research papers"
+    },
+    "work in": {
+        "i": 1874,
+        "label": "work in"
+    },
+    "theory research": {
+        "i": 1875,
+        "label": "theory research"
+    },
+    "ZPL": {
+        "i": 1876,
+        "label": "ZPL"
+    },
+    "CSE590": {
+        "i": 1877,
+        "label": "CSE590"
+    },
+    "scientific programming language": {
+        "i": 1878,
+        "label": "scientific programming language"
+    },
+    "scientists and engineers": {
+        "i": 1879,
+        "label": "scientists and engineers"
+    },
+    "computations previously": {
+        "i": 1880,
+        "label": "computations previously"
+    },
+    "Fortran": {
+        "i": 1881,
+        "label": "Fortran"
+    },
+    "modern languages": {
+        "i": 1882,
+        "label": "modern languages"
+    },
+    "supercomputers effectively": {
+        "i": 1883,
+        "label": "supercomputers effectively"
+    },
+    "Data Management Systems": {
+        "i": 1884,
+        "label": "Data Management Systems"
+    },
+    "Computer Security": {
+        "i": 1885,
+        "label": "Computer Security"
+    },
+    "Human System and Control for Neurobotics": {
+        "i": 1886,
+        "label": "Human System and Control for Neurobotics"
+    },
+    "Systems Applications": {
+        "i": 1887,
+        "label": "Systems Applications"
+    },
+    "Maching Learning": {
+        "i": 1888,
+        "label": "Maching Learning"
+    },
+    "Context - Aware Mobile Computing": {
+        "i": 1889,
+        "label": "Context - Aware Mobile Computing"
+    },
+    "Multicore Programmability": {
+        "i": 1890,
+        "label": "Multicore Programmability"
+    },
+    "Probabilistic and": {
+        "i": 1891,
+        "label": "Probabilistic and"
+    },
+    "Statistical Databases": {
+        "i": 1892,
+        "label": "Statistical Databases"
+    },
+    "Ubiquitous Computing": {
+        "i": 1893,
+        "label": "Ubiquitous Computing"
+    },
+    "Operating Systems": {
+        "i": 1894,
+        "label": "Operating Systems"
+    },
+    "Web": {
+        "i": 1895,
+        "label": "Web"
+    }
+}

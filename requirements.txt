@@ -1,0 +1,16 @@
+scikit-learn
+numpy
+matplotlib
+torch # pytorch
+transformers # huggingface transformers
+tqdm # tqdm
+spacy # spacy nlp toolkit (Be sure to download: en_core_web_sm AND en_core_web_lg
+requests # used for ec if you need to call APIs
+
+# Custom libraries
+spacy-transformers
+beautifulsoup4 # HTML DOM parser for scraping the CSE course page
+neo4j
+pandas
+tensorflow_hub
+tensorflow
